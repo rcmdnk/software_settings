@@ -1,5 +1,7 @@
 <p><span itemscope itemtype="http://schema.org/Photograph"><img height="200" src="http://cdn-ak.f.st-hatena.com/images/fotolife/r/rcmdnk/20130301/20130301050047.png" alt="f:id:rcmdnk:20130301050047p:plain" title="f:id:rcmdnk:20130301050047p:plain" class="hatena-fotolife" itemprop="image"></span></p>
 
+Mac用アプリ
+
 個人的な必要度&#9733;5段階
 
 # デスクトップ表示
@@ -248,6 +250,10 @@
 ](http://www.freemacsoft.net/appcleaner/)
 
 * アプリを消すときに設定ファイルとかもまとめて消してくれます。アンインストラーの無いMacでは必須。
+* [AppTrap](http://onnati.net/apptrap/)という物もあって、これは常駐して
+アプリが削除されるときに、自動で設定ファイル等も削除するか訪ねてくれる。
+* 頻繁にアンインストールを繰り返す場合はこっちの方が便利です。
+
 
 ##App Language Chooser &#9733;&#9733;&#9733;&#9733;&#9733;
 <iframe src="http://widgets.itunes.apple.com/widget.html?c=jp&brc=FFFFFF&blc=FFFFFF&trc=FFFFFF&tlc=FFFFFF&d=&t=&m=software&e=macSoftware&w=250&h=300&ids=451732904&wt=discovery&partnerId=&affiliate_id=" frameborder=0 style="overflow-x:hidden;overflow-y:hidden;width:250px;height: 300px;border:0px"></iframe>
@@ -331,13 +337,25 @@
 [<p><span itemscope itemtype="http://schema.org/Photograph"><img src="http://cdn-ak.f.st-hatena.com/images/fotolife/r/rcmdnk/20130303/20130303053618.png" alt="f:id:rcmdnk:20130303053618p:plain" title="f:id:rcmdnk:20130303053618p:plain" class="hatena-fotolife" itemprop="image"></span></p>
 ]("http://filezilla-project.org/")
 
-* FTP,FTPS,SFTP,SCPクライアント。Windows版を使ったことがあったので、下のCyberduckよりも使いやすいです。
+* FTP,FTPS,SFTP,SCPクライアント。
+* 2カラム表示でサーバー側とクライアント側両方を表示できるので、
+両方を見ながら整理したいときに便利。
+* Windows版を使ったことがあったので、使い慣れてる部分がありますが、
+ショートカットキーとかがWindowsでの使用をコピーしているのか、
+右クリックで出てくるメニューをショートカットキーに登録しようとすると(消去とか)
+上手く効かないものがあります。
+*　直接サーバー側のファイルを開く事もできますが、一旦開いたファイルは、
+ローカルにダウンロードされたものと紐付けられ、毎回上書きするかローカルのものを
+もう一回開くか言われて少し面倒。
 
-##Cyerduck
+##Cyberduck
 <iframe src="http://widgets.itunes.apple.com/widget.html?c=jp&brc=FFFFFF&blc=FFFFFF&trc=FFFFFF&tlc=FFFFFF&d=&t=&m=software&e=macSoftware&w=250&h=300&ids=409222199&wt=discovery&partnerId=&affiliate_id=" frameborder=0 style="overflow-x:hidden;overflow-y:hidden;width:250px;height: 300px;border:0px"></iframe>
 
 * Apple Storeだといつの間にやら有料化されて2100円！
 * よくわかりませんが、[本家のページ](http://cyberduck.ch/)だとまだ無料でダウンロード出来るみたいです。
+* サーバー側を表示するだけなので、ローカルで整理するのにはFileZillaの方が便利。
+* ただ、毎回サーバー側のファイルを開こうとすると、新しくダウンロードして開いてくれるので
+単に開きたいだけならCyberduckの方が便利。
 
 
 # クラウド、ファイル共有、ノート
@@ -581,6 +599,10 @@
 <iframe src="http://widgets.itunes.apple.com/widget.html?c=jp&brc=FFFFFF&blc=FFFFFF&trc=FFFFFF&tlc=FFFFFF&d=&t=&m=software&e=macSoftware&w=250&h=300&ids=495945638&wt=discovery&partnerId=&affiliate_id=" frameborder=0 style="overflow-x:hidden;overflow-y:hidden;width:250px;height: 300px;border:0px"></iframe>
 
 * 目覚まし。
+* 他にも[Alarm Clock](http://www.robbiehanson.com/alarmclock/index.html)とか
+(これはメニューバーに配置されるので直ぐに寝るわけでもない場合や、
+リマインダー用通知として使う場合には便利だと思います。)
+
 
 ##VLC &#9733;&#9733;&#9733;
 [<p><span itemscope itemtype="http://schema.org/Photograph"><img height="100" src="http://cdn-ak.f.st-hatena.com/images/fotolife/r/rcmdnk/20130303/20130303054759.png" alt="f:id:rcmdnk:20130303054759p:plain" title="f:id:rcmdnk:20130303054759p:plain" class="hatena-fotolife" itemprop="image"></span></p>

@@ -1,3 +1,6 @@
+Windows用ソフトウェア
+個人的な必要度&#9733;5段階
+
 #デスクトップ関連
 
 ##Rainmeter &#9733;
@@ -220,6 +223,7 @@
 
 * FTP,FTPS,SFTP,SCPクライアント。
 * FileZillaも殆ど同じことができますが、WindowsではWinSCPの方が使いやすいのでをメインに使っています。
+* サーバー側をダブルクリックで直接開くように(ブラウザから直接開くようにテンポラリーフォルダにダウンロードして開く)することがSCPではできますが、FileZillaでは出きません。(Mac版FileZillaだとできます。)
 * ただ、cygwinで立てたsshサーバーに接続した時、WinSCPだと文字コードの関係で上手く操作出来なかったので、そんな時はFileZillaを使います。
 
 ##FileZilla &#9733;&#9733;&#9733;&#9733;
@@ -305,6 +309,11 @@
 * 写真管理。
 * サーバに保存するには容量制限がありますが、2048x2048サイズにしてアップロードするとカウントされずに上限なしでアップロードできるのでバックアップがてら片っ端からアップロードしています。
 * ただし、ひと月当たりのアップロード上限が10GBらしいので、最初にアップロードするときには数ヶ月に分ける必要があるかもしれません。
+
+##PWATOOL &#9733;&#9733;&#9733; 
+[PWATOOL](http://getpocket.com/a/read/100081978)
+
+* Picasaのウェブアルバムを簡単に整理できるソフト
 
 ##Tintii &#9733;&#9733;
 [<p><span itemscope itemtype="http://schema.org/Photograph"><img height="100" src="http://cdn-ak.f.st-hatena.com/images/fotolife/r/rcmdnk/20130303/20130303095430.png" alt="f:id:rcmdnk:20130303095430p:plain" title="f:id:rcmdnk:20130303095430p:plain" class="hatena-fotolife" itemprop="image"></span></p>](http://www.indii.org/software/tintii)
