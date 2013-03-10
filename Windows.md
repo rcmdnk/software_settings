@@ -1,6 +1,11 @@
 Windows用ソフトウェア
 個人的な必要度&#9733;5段階
 
+#ソフトウェア一括インストール
+[Ninite](https://ninite.com/)や[Allmyapps](http://allmyapps.com/)と言った
+一括ダウンロード補助サイト/ソフトもあります。
+
+
 #デスクトップ関連
 
 ##Rainmeter &#9733;
@@ -386,11 +391,19 @@ Windows用ソフトウェア
 
 * No-IPは固定IPがなくてもドメインが使用出来る様になるDynamicDNSサービスで、その設定ソフトです。
 
+##No-Duc  &#9733;&#9733;&#9733;
+[No-IP Duc](http://www.noip.com/downloads.php?page)
+
+* IPアドレスが変わった時に、自動的にドメイン割り当てを更新してくれる
+No-IP専用ソフト。
+* これを使うことで、固定IPが無くても通常の固定IP運用と同じように使えるようになります。
+
+
 ##DiCE  &#9733;&#9733;&#9733;
 [<p><span itemscope itemtype="http://schema.org/Photograph"><img height="100" src="http://cdn-ak.f.st-hatena.com/images/fotolife/r/rcmdnk/20130303/20130303100254.png" alt="f:id:rcmdnk:20130303100254p:plain" title="f:id:rcmdnk:20130303100254p:plain" class="hatena-fotolife" itemprop="image"></span></p> ](http://www.hi-ho.ne.jp/yoshihiro_e/dice/)
 
-* DynamicDNSサービスを使っている時にIPアドレスが変わった時、自動的にドメインの割り当てを更新してくれるソフト。
-* No-IP+DiCEでほぼ通常の固定IPの様に使える様になります。
+* 色々なDynamicDNSサービスに対応しているドメイン割り当て自動更新ソフト。
+* No-IPとの相性はNo-IP Ducのが良いかもしれませんが、両方動かしておいても問題ないです。
 
 ##Synergy &#9733;&#9733;&#9733;&#9733;
 [<p><span itemscope itemtype="http://schema.org/Photograph"><img height="100" src="http://cdn-ak.f.st-hatena.com/images/fotolife/r/rcmdnk/20130303/20130303054224.png" alt="f:id:rcmdnk:20130303054224p:plain" title="f:id:rcmdnk:20130303054224p:plain" class="hatena-fotolife" itemprop="image"></span></p> ](http://synergy-foss.org/ja/)
