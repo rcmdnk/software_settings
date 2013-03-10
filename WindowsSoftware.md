@@ -1,6 +1,10 @@
 Windows用ソフトウェア
 個人的な必要度&#9733;5段階
 
+オリジナルはGitHub
+([WindowsSoftware.md](https://github.com/rcmdnk/software_settings/blob/master/WindowsSoftware.md))にあるので、変更履歴はそちらから。
+
+
 #ソフトウェア一括インストール
 [Ninite](https://ninite.com/)や[Allmyapps](http://allmyapps.com/)と言った
 一括ダウンロード補助サイト/ソフトもあります。

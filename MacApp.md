@@ -4,6 +4,10 @@ Mac用アプリ
 
 個人的な必要度&#9733;5段階
 
+オリジナルはGitHub
+([MacApp.md](https://github.com/rcmdnk/software_settings/blob/master/MacApp.md))にあるので、変更履歴はそちらから。
+
+
 # デスクトップ表示
 ##GeekTool　&#9733;&#9733;&#9733;&#9733;
 <iframe src="http://widgets.itunes.apple.com/widget.html?c=jp&brc=FFFFFF&blc=FFFFFF&trc=FFFFFF&tlc=FFFFFF&d=&t=&m=software&e=macSoftware&w=250&h=300&ids=456877552&wt=discovery&partnerId=&affiliate_id=" frameborder=0 style="overflow-x:hidden;overflow-y:hidden;width:250px;height: 300px;border:0px"></iframe>
