@@ -1,10 +1,4 @@
----
-layout: page
-title: "Mac用アプリ"
-comments: true
-sharing: true
-footer: true
----
+\#  "Mac用アプリ"
 {% img https://dl.dropbox.com/u/630732/Blog/MacApp/MacLogo.png 300 %}
 
 Mac用アプリ
