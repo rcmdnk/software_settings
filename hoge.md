@@ -8,3 +8,5 @@
 
 
 [![MONEY](http://pic.kksg.net/)](http://pic.kksg.net/754.png)
+
+![MONEY](http://pic.kksg.net/754.png)
