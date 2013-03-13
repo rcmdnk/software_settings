@@ -1,12 +1,16 @@
-\#  "Mac用アプリ"
-{% img https://dl.dropbox.com/u/630732/Blog/MacApp/MacLogo.png 300 %}
+#  "Mac用アプリ"
+<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/MacLogo.png" width="300" alt="Mac Logo"></p>
 
 Mac用アプリ
 
 個人的な必要度&#9733;5段階
 
-オリジナルもGitHub
-([MacApp.md](https://github.com/rcmdnk/software_settings/blob/master/MacApp.md))にあるので、変更履歴はそちらから。
+
+([Octopressで変換したページ](http://rcmdnk.github.com/mac/macapp/))
+がメインですが、変更履歴が分かるように
+([GitHubのレポジトリ](https://github.com/rcmdnk/software_settings/blob/master/MacApp.md))
+に直接Markdownで入れてある物も見れるようにしてます。
+
 
 * [デスクトップ関連](#desktop)
 * [メーニューバー関連](#menubar)
@@ -64,7 +68,7 @@ Mac用アプリ
 *現在のデスクトップ*
 
 * 上の3つを上からSimpleFloatingClock, GeekTool (cal, gcalcli, ps), XRGと使うとこんな感じです（モノクロで統一）。
-{% img https://dl.dropbox.com/u/630732/Blog/MacApp/MacSidebar.png 100 %}
+<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/MacSidebar.png" width="100" alt="MacSidebar"></p>
 
 いずれこの辺りは詳しく。
 
@@ -135,6 +139,7 @@ Mac用アプリ
 ---
 *現在のメニューバー*
 {% img https://dl.dropbox.com/u/630732/Blog/MacApp/CurrentMenuBar.png %}
+<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/CurrentMenuBar.png" width="100" alt="CurrentMenuBar"></p>
 
 ## <a id="dock">Dock関連</a>
 

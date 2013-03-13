@@ -1,8 +1,11 @@
-\#  "Windows用ソフトウェア"
+#  "Windows用ソフトウェア"
 個人的な必要度&#9733;5段階
 
-オリジナルもGitHub
-([WindowsSoftware.md](https://github.com/rcmdnk/software_settings/blob/master/WindowsSoftware.md))にあるので、変更履歴はそちらから。
+([Octopressで変換したページ](http://rcmdnk.github.com/windows/windowssoftware/))
+がメインですが、変更履歴が分かるように
+([GitHubのレポジトリ](https://github.com/rcmdnk/software_settings/blob/master/WindowsSoftware.md))
+に直接Markdownで入れてある物も見れるようにしてます。
+
 
 * [ソフトウェア一括インストール](#software_install)
 * [デスクトップ関連](#desktop)
