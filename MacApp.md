@@ -1,5 +1,5 @@
 #  "Mac用アプリ"
-<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/MacLogo.png" height="300" alt="Mac Logo"></p>
+<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/MacLogo.jpg" height="300" alt="Mac Logo"></p>
 
 Mac用アプリ
 
@@ -34,7 +34,7 @@ Mac用アプリ
 
 ## <a id="desktop">デスクトップ表示</a>
 ### GeekTool　&#9733;&#9733;&#9733;&#9733;
-<a href="https://itunes.apple.com/jp/app/geektool/id456877552?mt=12&uo=4" target="_blank" rel="nofollow"><img width="75" class="alignleft" align="left" src="http://a3.mzstatic.com/us/r1000/101/Purple/05/02/3a/mzi.wldskqbn.75x75-65.png" style="border-radius: 11px 11px 11px 11px;-moz-border-radius: 11px 11px 11px 11px;-webkit-border-radius: 11px 11px 11px 11px;box-shadow: 1px 4px 6px 1px #999999;-moz-box-shadow: 1px 4px 6px 1px #999999;-webkit-box-shadow: 1px 4px 6px 1px #999999;margin: -5px 15px 1px 5px;"></a><strong> GeekTool 3.0.3（無料）</strong><a href="https://itunes.apple.com/jp/app/geektool/id456877552?mt=12&uo=4" target="_blank" rel="nofollow"><img src="http://s.mzstatic.com/htmlResources/E6C6/web-storefront/images/viewinitunes_jp.png" style="vertical-align:bottom;" width="90" alt="App"></a><br> カテゴリ: ユーティリティ, 開発ツール<br> 販売元: <a href="https://itunes.apple.com/jp/artist/tynsoe.org/id284941671?mt=12&uo=4" target="_blank" rel="nofollow">Tynsoe.org - Yann Bizeul</a>（サイズ: 1.1 MB）<br style="clear: both;">
+<a href="http://click.linksynergy.com/fs-bin/stat?id=iYVkHjWpfxk&offerid=94348&type=3&subid=0&tmpid=2192&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fgeektool%252Fid456877552%253Fmt%253D12%2526uo%253D4%2526partnerId%253D30" target="_blank" rel="nofollow"><img width="75" class="alignleft" align="left" src="http://a3.mzstatic.com/us/r1000/101/Purple/05/02/3a/mzi.wldskqbn.75x75-65.png" style="border-radius: 11px 11px 11px 11px;-moz-border-radius: 11px 11px 11px 11px;-webkit-border-radius: 11px 11px 11px 11px;box-shadow: 1px 4px 6px 1px #999999;-moz-box-shadow: 1px 4px 6px 1px #999999;-webkit-box-shadow: 1px 4px 6px 1px #999999;margin: -5px 15px 1px 5px;"></a><div style="font-size:small;line-height:1.2;"><a href="http://click.linksynergy.com/fs-bin/stat?id=iYVkHjWpfxk&offerid=94348&type=3&subid=0&tmpid=2192&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fgeektool%252Fid456877552%253Fmt%253D12%2526uo%253D4%2526partnerId%253D30" target="_blank" rel="nofollow"<strong> GeekTool 3.0.3（無料）</strong></a><br> カテゴリ: ユーティリティ, 開発ツール<br> 販売元: <a href="http://click.linksynergy.com/fs-bin/stat?id=iYVkHjWpfxk&offerid=94348&type=3&subid=0&tmpid=2192&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Ftynsoe.org%252Fid284941671%253Fmt%253D12%2526uo%253D4%2526partnerId%253D30" target="_blank" rel="nofollow">Tynsoe.org - Yann Bizeul</a>（サイズ: 1.1 MB）<br style="clear: both;">
 
 * デスクトップに色々な情報を貼り付ける事が出来るアプリです。
 * File, Shell Imageの3種のプラグインがあります。
@@ -50,7 +50,7 @@ Mac用アプリ
 
 ---
 ### Simple Floating Clock &#9733;&#9733;&#9733;&#9733;
-[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/SimpleFloatingClock.png" height="100" alt="Simple Floating Clock"></p>](http://www.splook.com/Software/Simple_Floating_Clock.html)
+[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/SimpleFloatingClock.png" width="100" height="100" alt="Simple Floating Clock"></p>](http://www.splook.com/Software/Simple_Floating_Clock.html)
 
 * その名の通りシンプルな時計を表示。
 * でも色々細かく設定できて嬉しい。
@@ -60,7 +60,7 @@ Mac用アプリ
 
 ---
 ### XRG &#9733;&#9733;&#9733;&#9733;
-[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/XRG.png" height="100" alt="XRG"></p>](http://www.gauchosoft.com/Products/XRG/)
+[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/XRG.png" width="100" height="100" alt="XRG"></p>](http://www.gauchosoft.com/Products/XRG/)
 
 * システムの色々な情報を表示してくれます。
 
@@ -68,7 +68,7 @@ Mac用アプリ
 *現在のデスクトップ*
 
 * 上の3つを上からSimpleFloatingClock, GeekTool (cal, gcalcli, ps), XRGと使うとこんな感じです（モノクロで統一）。
-<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/MacSidebar.png" height="100" alt="MacSidebar"></p>
+<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/MacSidebar.png" width="100" height="100" alt="MacSidebar"></p>
 
 いずれこの辺りは詳しく。
 
@@ -76,19 +76,19 @@ Mac用アプリ
 
 ---
 ### MenuBarFilter &#9733;&#9733;&#9733;
-[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/MenuBarFilter.png" height="100" alt="MenuBarFilter"></p>](http://eece.github.com/MenuBarFilter/)
+[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/MenuBarFilter.png" width="100" height="100" alt="MenuBarFilter"></p>](http://eece.github.com/MenuBarFilter/)
 
 * メニューバーを反転色にして黒く出来ます（アイコンの色も反転するので、全部モノクロアイコンを使っている方が綺麗に出来ます）。
 
 ---
 ### Caffeine &#9733;&#9733;&#9733;&#9733;&#9733;
-<a href="https://itunes.apple.com/jp/app/caffeine/id411246225?mt=12&uo=4" target="_blank" rel="nofollow"><img width="75" class="alignleft" align="left" src="http://a3.mzstatic.com/us/r1000/020/Purple/5f/0a/df/mzi.nvflrkie.75x75-65.png" style="border-radius: 11px 11px 11px 11px;-moz-border-radius: 11px 11px 11px 11px;-webkit-border-radius: 11px 11px 11px 11px;box-shadow: 1px 4px 6px 1px #999999;-moz-box-shadow: 1px 4px 6px 1px #999999;-webkit-box-shadow: 1px 4px 6px 1px #999999;margin: -5px 15px 1px 5px;"></a><strong> Caffeine 1.1.1（無料）</strong><a href="https://itunes.apple.com/jp/app/caffeine/id411246225?mt=12&uo=4" target="_blank" rel="nofollow"><img src="http://s.mzstatic.com/htmlResources/E6C6/web-storefront/images/viewinitunes_jp.png" style="vertical-align:bottom;" width="90" alt="App"></a><br> カテゴリ: ユーティリティ, 仕事効率化<br> 販売元: <a href="https://itunes.apple.com/jp/artist/lighthead-software/id393331825?mt=12&uo=4" target="_blank" rel="nofollow">Lighthead Software - Lighthead Software</a>（サイズ: 0.3 MB）<br style="clear: both;">
+<a href="http://click.linksynergy.com/fs-bin/stat?id=iYVkHjWpfxk&offerid=94348&type=3&subid=0&tmpid=2192&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fcaffeine%252Fid411246225%253Fmt%253D12%2526uo%253D4%2526partnerId%253D30" target="_blank" rel="nofollow"><img width="75" class="alignleft" align="left" src="http://a3.mzstatic.com/us/r1000/020/Purple/5f/0a/df/mzi.nvflrkie.75x75-65.png" style="border-radius: 11px 11px 11px 11px;-moz-border-radius: 11px 11px 11px 11px;-webkit-border-radius: 11px 11px 11px 11px;box-shadow: 1px 4px 6px 1px #999999;-moz-box-shadow: 1px 4px 6px 1px #999999;-webkit-box-shadow: 1px 4px 6px 1px #999999;margin: -5px 15px 1px 5px;"></a><div style="font-size:small;line-height:1.2;"><a href="http://click.linksynergy.com/fs-bin/stat?id=iYVkHjWpfxk&offerid=94348&type=3&subid=0&tmpid=2192&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fcaffeine%252Fid411246225%253Fmt%253D12%2526uo%253D4%2526partnerId%253D30" target="_blank" rel="nofollow"<strong> Caffeine 1.1.1（無料）</strong></a><br> カテゴリ: ユーティリティ, 仕事効率化<br> 販売元: <a href="http://click.linksynergy.com/fs-bin/stat?id=iYVkHjWpfxk&offerid=94348&type=3&subid=0&tmpid=2192&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Flighthead-software%252Fid393331825%253Fmt%253D12%2526uo%253D4%2526partnerId%253D30" target="_blank" rel="nofollow">Lighthead Software - Lighthead Software</a>（サイズ: 0.3 MB）<br style="clear: both;">
 
 * メニューバーに常駐して、クリックするだけでスリープになるのを防ぐ様にしてくれます。
 
 ---
 ### Should I Sleep &#9733;&#9733;&#9733;
-<a href="https://itunes.apple.com/jp/app/should-i-sleep/id560851219?mt=12&uo=4" target="_blank" rel="nofollow"><img width="75" class="alignleft" align="left" src="http://a2.mzstatic.com/us/r1000/103/Purple/v4/78/dc/7b/78dc7bc7-19e0-8888-cc9f-2829fd67ba59/Should_I_Sleep.75x75-65.png" style="border-radius: 11px 11px 11px 11px;-moz-border-radius: 11px 11px 11px 11px;-webkit-border-radius: 11px 11px 11px 11px;box-shadow: 1px 4px 6px 1px #999999;-moz-box-shadow: 1px 4px 6px 1px #999999;-webkit-box-shadow: 1px 4px 6px 1px #999999;margin: -5px 15px 1px 5px;"></a><strong> Should I Sleep 1.7.7（￥170）</strong><a href="https://itunes.apple.com/jp/app/should-i-sleep/id560851219?mt=12&uo=4" target="_blank" rel="nofollow"><img src="http://s.mzstatic.com/htmlResources/E6C6/web-storefront/images/viewinitunes_jp.png" style="vertical-align:bottom;" width="90" alt="App"></a><br> カテゴリ: ライフスタイル, ビデオ<br> 販売元: <a href="https://itunes.apple.com/jp/artist/marcelo-leite/id555241977?mt=12&uo=4" target="_blank" rel="nofollow">Marcelo Leite - Marcelo Leite</a>（サイズ: 2.8 MB）<br style="clear: both;">
+<a href="http://click.linksynergy.com/fs-bin/stat?id=iYVkHjWpfxk&offerid=94348&type=3&subid=0&tmpid=2192&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fshould-i-sleep%252Fid560851219%253Fmt%253D12%2526uo%253D4%2526partnerId%253D30" target="_blank" rel="nofollow"><img width="75" class="alignleft" align="left" src="http://a2.mzstatic.com/us/r1000/103/Purple/v4/78/dc/7b/78dc7bc7-19e0-8888-cc9f-2829fd67ba59/Should_I_Sleep.75x75-65.png" style="border-radius: 11px 11px 11px 11px;-moz-border-radius: 11px 11px 11px 11px;-webkit-border-radius: 11px 11px 11px 11px;box-shadow: 1px 4px 6px 1px #999999;-moz-box-shadow: 1px 4px 6px 1px #999999;-webkit-box-shadow: 1px 4px 6px 1px #999999;margin: -5px 15px 1px 5px;"></a><div style="font-size:small;line-height:1.2;"><a href="http://click.linksynergy.com/fs-bin/stat?id=iYVkHjWpfxk&offerid=94348&type=3&subid=0&tmpid=2192&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fshould-i-sleep%252Fid560851219%253Fmt%253D12%2526uo%253D4%2526partnerId%253D30" target="_blank" rel="nofollow"<strong> Should I Sleep 1.7.7（￥170）</strong></a><br> カテゴリ: ライフスタイル, ビデオ<br> 販売元: <a href="http://click.linksynergy.com/fs-bin/stat?id=iYVkHjWpfxk&offerid=94348&type=3&subid=0&tmpid=2192&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Fmarcelo-leite%252Fid555241977%253Fmt%253D12%2526uo%253D4%2526partnerId%253D30" target="_blank" rel="nofollow">Marcelo Leite - Marcelo Leite</a>（サイズ: 2.8 MB）<br style="clear: both;">
 
 * カメラで顔認識をしたり、カメラ前の動きや周辺の音などを認識してスリープになるのを防ぎます。
 * 以前は顔認識だけのバージョンだと無料でしたが、[作者のページ](http://www.mrmilk.com.br/should-i-sleep/)に行ってみてもどうやら全て有料化されてしまったみたい…
@@ -98,39 +98,39 @@ Mac用アプリ
 
 ---
 ### Degrees &#9733;&#9733;&#9733;
-<a href="https://itunes.apple.com/jp/app/degrees/id430173763?mt=12&uo=4" target="_blank" rel="nofollow"><img width="75" class="alignleft" align="left" src="http://a1.mzstatic.com/us/r1000/102/Purple/b2/bc/c7/mzi.wmyyuhlh.75x75-65.png" style="border-radius: 11px 11px 11px 11px;-moz-border-radius: 11px 11px 11px 11px;-webkit-border-radius: 11px 11px 11px 11px;box-shadow: 1px 4px 6px 1px #999999;-moz-box-shadow: 1px 4px 6px 1px #999999;-webkit-box-shadow: 1px 4px 6px 1px #999999;margin: -5px 15px 1px 5px;"></a><strong> Degrees 2.0.8（無料）</strong><a href="https://itunes.apple.com/jp/app/degrees/id430173763?mt=12&uo=4" target="_blank" rel="nofollow"><img src="http://s.mzstatic.com/htmlResources/E6C6/web-storefront/images/viewinitunes_jp.png" style="vertical-align:bottom;" width="90" alt="App"></a><br> カテゴリ: 天気, ユーティリティ<br> 販売元: <a href="https://itunes.apple.com/jp/artist/appscape/id399591503?mt=12&uo=4" target="_blank" rel="nofollow">appscape - appscape gmbh</a>（サイズ: 0.7 MB）<br style="clear: both;">
+<a href="http://click.linksynergy.com/fs-bin/stat?id=iYVkHjWpfxk&offerid=94348&type=3&subid=0&tmpid=2192&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fdegrees%252Fid430173763%253Fmt%253D12%2526uo%253D4%2526partnerId%253D30" target="_blank" rel="nofollow"><img width="75" class="alignleft" align="left" src="http://a1.mzstatic.com/us/r1000/102/Purple/b2/bc/c7/mzi.wmyyuhlh.75x75-65.png" style="border-radius: 11px 11px 11px 11px;-moz-border-radius: 11px 11px 11px 11px;-webkit-border-radius: 11px 11px 11px 11px;box-shadow: 1px 4px 6px 1px #999999;-moz-box-shadow: 1px 4px 6px 1px #999999;-webkit-box-shadow: 1px 4px 6px 1px #999999;margin: -5px 15px 1px 5px;"></a><div style="font-size:small;line-height:1.2;"><a href="http://click.linksynergy.com/fs-bin/stat?id=iYVkHjWpfxk&offerid=94348&type=3&subid=0&tmpid=2192&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fdegrees%252Fid430173763%253Fmt%253D12%2526uo%253D4%2526partnerId%253D30" target="_blank" rel="nofollow"<strong> Degrees 2.0.8（無料）</strong></a><br> カテゴリ: 天気, ユーティリティ<br> 販売元: <a href="http://click.linksynergy.com/fs-bin/stat?id=iYVkHjWpfxk&offerid=94348&type=3&subid=0&tmpid=2192&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Fappscape%252Fid399591503%253Fmt%253D12%2526uo%253D4%2526partnerId%253D30" target="_blank" rel="nofollow">appscape - appscape gmbh</a>（サイズ: 0.7 MB）<br style="clear: both;">
 
 * メニューバーに天気を表示させます。
 
 ---
 ### Google Notifier &#9733;&#9733;&#9733;
-[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/GoogleNotifier.png" height="100" alt="Google Notifier"></p>](http://toolbar.google.com/gmail-helper/notifier_mac.html)
+[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/GoogleNotifier.png" width="100" height="100" alt="Google Notifier"></p>](http://toolbar.google.com/gmail-helper/notifier_mac.html)
 
 * カレンダーやGmailの通知をメニューバーでしてくれます。メールは下の他の通知を使っているので、カレンダー通知用に使用中です。
 
 ---
 ### Mail Unread Menu &#9733;&#9733;&#9733;&#9733;&#9733;
-[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/MailUnreadMenu.png" height="100" alt="Mail Unread Menu"></p>](http://loganrockmore.com/MailUnreadMenu/)
+[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/MailUnreadMenu.png" width="100" height="100" alt="Mail Unread Menu"></p>](http://loganrockmore.com/MailUnreadMenu/)
 
 * メニューバーにMail.appでの未読メール数を表示してくれます。
 * これがあるのでメーラーをThunderbirdからMail.appに移しました。(Dockを自動的に隠しても未読メールが確認できるようになってうれしいので。)
 
 ---
 ### AccessMenuBarApps &#9733;
-[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/AccessMenuBarApps.png" height="100" alt="AccessMenuBarApps"></p>](http://www.ortisoft.de/en/accessmenubarapps/)
+[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/AccessMenuBarApps.png" width="100" height="100" alt="AccessMenuBarApps"></p>](http://www.ortisoft.de/en/accessmenubarapps/)
 
 * メニューバーのアイテムを短縮して表示してくれるようになります。沢山メニューバーに項目がある人は便利かと（未使用）。
 
 ---
 ### MenuBar Expander &#9733;
-[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/MenuBarExpander.png" height="100" alt="MenuBar Expander"></p>](http://www.seense.com/mbe/)
+[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/MenuBarExpander.png" width="100" height="100" alt="MenuBar Expander"></p>](http://www.seense.com/mbe/)
 
 * メニューバーがいっぱいになってしまってアイコンが隠れてしまった時、メニューバーが無いアプリを全面に持ってきて隠れているアプリを表示させてくれるアプリ。
 * 今のところメニューバーがいっぱいになってないので使ってませんが、AccessMenuBarApps同様、そのうち必要になるかも。
 
 ---
 ### Secondbar &#9733;&#9733;
-[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/Secondbar.png" height="100" alt="Secondbar"></p>](http://blog.boastr.net/?page_id=79)
+[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/Secondbar.png" width="100" height="100" alt="Secondbar"></p>](http://blog.boastr.net/?page_id=79)
 
 * 外部モニターに繋げて、別々の画面を映す時、メニューバーを両方の画面に表示させます。
 * MacはWindowsのタスクバーと違ってメニュー項目がこのバーにあるので、最初の頃は使ってました。
@@ -139,25 +139,25 @@ Mac用アプリ
 ---
 *現在のメニューバー*
 {% img https://dl.dropbox.com/u/630732/Blog/MacApp/CurrentMenuBar.png %}
-<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/CurrentMenuBar.png" height="100" alt="CurrentMenuBar"></p>
+<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/CurrentMenuBar.png" width="100" height="100" alt="CurrentMenuBar"></p>
 
 ## <a id="dock">Dock関連</a>
 
 ---
 ### Configure Application Dock Tile &#9733;&#9733;&#9733;&#9733;
-[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/ConfigureApplicationDockTile.png" height="100" alt="Configure Application Dock Tile"></p>](http://boredzo.org/cadt/)
+[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/ConfigureApplicationDockTile.png" width="100" height="100" alt="Configure Application Dock Tile"></p>](http://boredzo.org/cadt/)
 
 * 起動中のアプリを簡単にDock非表示に出来ます(XRGに使用)。
 
 ---
 ### Docker &#9733;&#9733;&#9733;
-[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/Docker.png" height="100" alt="Docker"></p>](http://www.blocksoft.net/docker.html)
+[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/Docker.png" width="100" height="100" alt="Docker"></p>](http://www.blocksoft.net/docker.html)
 
 * Dockのカスタマイズアプリ。
 
 ---
 ### Mirage &#9733;&#9733;&#9733;
-[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/Mirage.png" height="100" alt="Mirage"></p>](http://www.macupdate.com/app/mac/36045/mirage)
+[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/Mirage.png" width="100" height="100" alt="Mirage"></p>](http://www.macupdate.com/app/mac/36045/mirage)
 
 * 同じくDockのカスタマイズアプリ。Dockの背景を消せます。
 
@@ -165,32 +165,32 @@ Mac用アプリ
 
 ---
 ### TinkerTool &#9733;&#9733;&#9733;&#9733;
-[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/TinkerTool.png" height="100" alt="TinkerTool"></p>](http://www.bresink.com/osx/TinkerTool.html)
+[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/TinkerTool.png" width="100" height="100" alt="TinkerTool"></p>](http://www.bresink.com/osx/TinkerTool.html)
 
 * システムの環境設定からでは出来ない設定を簡単に変更できます。
 
 ---
 ### Deeper &#9733;&#9733;&#9733;
-[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/Deeper.png" height="100" alt="Deeper"></p>](http://www.titanium.free.fr/downloaddeeper.php)
+[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/Deeper.png" width="100" height="100" alt="Deeper"></p>](http://www.titanium.free.fr/downloaddeeper.php)
 
 * 同じく痒いところに手が届くあぷり。ThinkerToolと被る所がおおけど両方入れておいても良いと思います。
 
 ---
 ### OnyX &#9733;&#9733;
-[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/OnyX.png" height="100" alt="OnyX"></p>](http://www.titanium.free.fr/downloadonyx.php)
+[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/OnyX.png" width="100" height="100" alt="OnyX"></p>](http://www.titanium.free.fr/downloadonyx.php)
 
 * Deeperと同じ所が作ってるメンテナンスソフト。
 * 色々できますが、立ち上げる時、注意しないで出てきたウィンドウでyesを押してくと、ディスクチェックを初めて立ち上げてるアプリを終了させ出すので、何か編集中とかだととても危険なので注意が必要です…
 
 ---
 ### Lion Designer &#9733;&#9733;
-[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/LionDesigner.png" height="100" alt="Lion Designer"></p>](http://www.moritzwette.com/liondesigner/)
+[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/LionDesigner.png" width="100" height="100" alt="Lion Designer"></p>](http://www.moritzwette.com/liondesigner/)
 
 * Mission Controlの壁紙とかの背景を簡単に変えられます。
 
 ---
 ### HyperSwitch &#9733;&#9733;&#9733;&#9733;&#9733;
-[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/HyperSwitch.png" height="100" alt="HyperSwitch"></p>](http://bahoom.com/hyperswitch)
+[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/HyperSwitch.png" width="100" height="100" alt="HyperSwitch"></p>](http://bahoom.com/hyperswitch)
 
 * WindowsのAlt-Tabみたいにwindow毎にスイッチ出来る様になります。
 * 他に同じような事が出来るものとして、
@@ -204,7 +204,7 @@ Mac用アプリ
 
 ---
 ### XtraFinder &#9733;&#9733;&#9733;&#9733;&#9733;
-[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/XtraFinder.png" height="100" alt="XtraFinder"></p>](http://www.trankynam.com/xtrafinder/)
+[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/XtraFinder.png" width="100" height="100" alt="XtraFinder"></p>](http://www.trankynam.com/xtrafinder/)
 
 * Finderの強化。強化、と言うよりもはや別物に昇華してくれます。全部純正に取り込んで欲しい…。
 * 主にTab機能、Dual Panel機能、Windowsの様なファイルのCut & ペースト(何故デフォルトで出来ない…？)、などなど出来るようになります。
@@ -213,13 +213,13 @@ Mac用アプリ
 
 ---
 ### Google日本語入力 &#9733;&#9733;&#9733;&#9733;&#9733;
-[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/GoogleIME.png" height="100" alt="Google日本語入力"></p>](http://www.google.co.jp/ime/)
+[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/GoogleIME.png" width="100" height="100" alt="Google日本語入力"></p>](http://www.google.co.jp/ime/)
 
 * 言わずと知れた。取り敢えずことえりの代わりに。
 
 ---
 ### ClipMenu &#9733;&#9733;&#9733;&#9733;&#9733;
-[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/ClipMenu.png" height="100" alt="ClipMenu"></p>](http://www.clipmenu.com/ja/)
+[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/ClipMenu.png" width="100" height="100" alt="ClipMenu"></p>](http://www.clipmenu.com/ja/)
 
 * クリップボードの履歴を保持してくれます。スニペット機能もあります。
 * Windowsだと[CLCL](http://www.nakka.com/soft/clcl/index_eng.html)を使って同じような事が出来ます。
@@ -228,7 +228,7 @@ Mac用アプリ
 
 ---
 ### BetterTouchTool &#9733;&#9733;&#9733;&#9733;&#9733;
-[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/BetterTouchTool.png" height="100" alt="BetterTouchTool"></p>](http://blog.boastr.net/?page_id=1722)
+[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/BetterTouchTool.png" width="100" height="100" alt="BetterTouchTool"></p>](http://blog.boastr.net/?page_id=1722)
 
 * トラックパッド、（マジック）マウス、キーボード等、色々ショートカットを割り当てられます。
 * 特にトラックパッドを有効に使うために必須。
@@ -237,7 +237,7 @@ Mac用アプリ
 
 ---
 ### KeyRemap4MacBook &#9733;&#9733;&#9733;&#9733;&#9733;
-[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/KeyRemap4MacBook.png" height="100" alt="KeyRemap4MacBook"></p>](http://pqrs.org/macosx/keyremap4macbook/index.html.ja)
+[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/KeyRemap4MacBook.png" width="100" height="100" alt="KeyRemap4MacBook"></p>](http://pqrs.org/macosx/keyremap4macbook/index.html.ja)
 
 * キーボードの割り当ての変更出来ます。これも必須。
 * 元から入っている設定を有効にするだけでも色々と便利です。
@@ -252,14 +252,14 @@ Mac用アプリ
 
 ---
 ### Spark
-[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/Spark.png" height="100" alt="Spark"></p>](http://www.shadowlab.org/Software/spark.php)
+[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/Spark.png" width="100" height="100" alt="Spark"></p>](http://www.shadowlab.org/Software/spark.php)
 
 * ホットキーへの色々な割り当てが出来ます。
 * ただ同じ事がBetterTouchToolでも出来るので、そっちに全て乗り換えて今は使ってません。
 
 ---
 ### Alfred
-<a href="https://itunes.apple.com/jp/app/alfred/id405843582?mt=12&uo=4" target="_blank" rel="nofollow"><img width="75" class="alignleft" align="left" src="http://a1.mzstatic.com/us/r1000/069/Purple/v4/b4/7b/51/b47b5118-5ba5-a359-0bc6-e71494225963/appicon.75x75-65.png" style="border-radius: 11px 11px 11px 11px;-moz-border-radius: 11px 11px 11px 11px;-webkit-border-radius: 11px 11px 11px 11px;box-shadow: 1px 4px 6px 1px #999999;-moz-box-shadow: 1px 4px 6px 1px #999999;-webkit-box-shadow: 1px 4px 6px 1px #999999;margin: -5px 15px 1px 5px;"></a><strong> Alfred 1.2（無料）</strong><a href="https://itunes.apple.com/jp/app/alfred/id405843582?mt=12&uo=4" target="_blank" rel="nofollow"><img src="http://s.mzstatic.com/htmlResources/E6C6/web-storefront/images/viewinitunes_jp.png" style="vertical-align:bottom;" width="90" alt="App"></a><br> カテゴリ: 仕事効率化, ユーティリティ<br> 販売元: <a href="https://itunes.apple.com/jp/artist/running-with-crayons-ltd/id405843585?mt=12&uo=4" target="_blank" rel="nofollow">Running with Crayons Ltd - Running with Crayons Ltd</a>（サイズ: 1.9 MB）<br style="clear: both;">
+<a href="http://click.linksynergy.com/fs-bin/stat?id=iYVkHjWpfxk&offerid=94348&type=3&subid=0&tmpid=2192&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Falfred%252Fid405843582%253Fmt%253D12%2526uo%253D4%2526partnerId%253D30" target="_blank" rel="nofollow"><img width="75" class="alignleft" align="left" src="http://a1.mzstatic.com/us/r1000/069/Purple/v4/b4/7b/51/b47b5118-5ba5-a359-0bc6-e71494225963/appicon.75x75-65.png" style="border-radius: 11px 11px 11px 11px;-moz-border-radius: 11px 11px 11px 11px;-webkit-border-radius: 11px 11px 11px 11px;box-shadow: 1px 4px 6px 1px #999999;-moz-box-shadow: 1px 4px 6px 1px #999999;-webkit-box-shadow: 1px 4px 6px 1px #999999;margin: -5px 15px 1px 5px;"></a><div style="font-size:small;line-height:1.2;"><a href="http://click.linksynergy.com/fs-bin/stat?id=iYVkHjWpfxk&offerid=94348&type=3&subid=0&tmpid=2192&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Falfred%252Fid405843582%253Fmt%253D12%2526uo%253D4%2526partnerId%253D30" target="_blank" rel="nofollow"<strong> Alfred 1.2（無料）</strong></a><br> カテゴリ: 仕事効率化, ユーティリティ<br> 販売元: <a href="http://click.linksynergy.com/fs-bin/stat?id=iYVkHjWpfxk&offerid=94348&type=3&subid=0&tmpid=2192&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Frunning-with-crayons-ltd%252Fid405843585%253Fmt%253D12%2526uo%253D4%2526partnerId%253D30" target="_blank" rel="nofollow">Running with Crayons Ltd - Running with Crayons Ltd</a>（サイズ: 1.9 MB）<br style="clear: both;">
 
 * Spotlightの代わり。
 * Spotlightだと右上だけに表示が固定されますが、Alfredだとどこでも表示できるし大きく表示できるのでちょっと嬉しい。
@@ -267,29 +267,29 @@ Mac用アプリ
 
 ---
 ### QuickSilver
-[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/QuickSilver.png" height="100" alt="QuickSilver"></p>](http://qsapp.com/)
+[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/QuickSilver.png" width="100" height="100" alt="QuickSilver"></p>](http://qsapp.com/)
 
 * 同じくランチャー。同じくSpotlightで十分なので使ってません。
 
 ---
 ### Dejamenu
-[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/Dejamenu.png" height="100" alt="Dejamenu"></p>](http://www.macupdate.com/app/mac/13040/dejamenu)
+[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/Dejamenu.png" width="100" height="100" alt="Dejamenu"></p>](http://www.macupdate.com/app/mac/13040/dejamenu)
 
 * メニューバーの項目をホットキーで呼び出せます（作者のページが消えている…）。ただ、同じ事がBetterTouchToolでできるので不要に…
 
 ---
 ### MenuPop
-<a href="https://itunes.apple.com/jp/app/menupop/id404747434?mt=12&uo=4" target="_blank" rel="nofollow"><img width="75" class="alignleft" align="left" src="http://a5.mzstatic.com/us/r1000/073/Purple/2b/d5/3c/mzi.hxkqvhtx.75x75-65.png" style="border-radius: 11px 11px 11px 11px;-moz-border-radius: 11px 11px 11px 11px;-webkit-border-radius: 11px 11px 11px 11px;box-shadow: 1px 4px 6px 1px #999999;-moz-box-shadow: 1px 4px 6px 1px #999999;-webkit-box-shadow: 1px 4px 6px 1px #999999;margin: -5px 15px 1px 5px;"></a><strong> MenuPop 1.5（￥450）</strong><a href="https://itunes.apple.com/jp/app/menupop/id404747434?mt=12&uo=4" target="_blank" rel="nofollow"><img src="http://s.mzstatic.com/htmlResources/E6C6/web-storefront/images/viewinitunes_jp.png" style="vertical-align:bottom;" width="90" alt="App"></a><br> カテゴリ: 仕事効率化, ユーティリティ<br> 販売元: <a href="https://itunes.apple.com/jp/artist/binary-bakery/id404747437?mt=12&uo=4" target="_blank" rel="nofollow">Binary Bakery - Hisham Khalifa</a>（サイズ: 0.5 MB）<br style="clear: both;">
+<a href="http://click.linksynergy.com/fs-bin/stat?id=iYVkHjWpfxk&offerid=94348&type=3&subid=0&tmpid=2192&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fmenupop%252Fid404747434%253Fmt%253D12%2526uo%253D4%2526partnerId%253D30" target="_blank" rel="nofollow"><img width="75" class="alignleft" align="left" src="http://a5.mzstatic.com/us/r1000/073/Purple/2b/d5/3c/mzi.hxkqvhtx.75x75-65.png" style="border-radius: 11px 11px 11px 11px;-moz-border-radius: 11px 11px 11px 11px;-webkit-border-radius: 11px 11px 11px 11px;box-shadow: 1px 4px 6px 1px #999999;-moz-box-shadow: 1px 4px 6px 1px #999999;-webkit-box-shadow: 1px 4px 6px 1px #999999;margin: -5px 15px 1px 5px;"></a><div style="font-size:small;line-height:1.2;"><a href="http://click.linksynergy.com/fs-bin/stat?id=iYVkHjWpfxk&offerid=94348&type=3&subid=0&tmpid=2192&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fmenupop%252Fid404747434%253Fmt%253D12%2526uo%253D4%2526partnerId%253D30" target="_blank" rel="nofollow"<strong> MenuPop 1.5（￥450）</strong></a><br> カテゴリ: 仕事効率化, ユーティリティ<br> 販売元: <a href="http://click.linksynergy.com/fs-bin/stat?id=iYVkHjWpfxk&offerid=94348&type=3&subid=0&tmpid=2192&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Fbinary-bakery%252Fid404747437%253Fmt%253D12%2526uo%253D4%2526partnerId%253D30" target="_blank" rel="nofollow">Binary Bakery - Hisham Khalifa</a>（サイズ: 0.5 MB）<br style="clear: both;">
 
 * 同じくメニューバーの項目をホットキーで呼び出せる
-* [Liteバージョン](http://menupoplite.mac.informer.com/)が無料である
+* [Liteバージョン](http://menupoplite.mac.informer.com/)も無料である
 * 同じくBetterTouchToolがあるので不要に…
 
 ## <a id="app_file">アプリ、ファイル操作</a>
 
 ---
 ### AppCleaner &#9733;&#9733;&#9733;&#9733;&#9733;
-[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/AppCleaner.png" height="100" alt="AppCleaner"></p>](http://www.freemacsoft.net/appcleaner/)
+[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/AppCleaner.png" width="100" height="100" alt="AppCleaner"></p>](http://www.freemacsoft.net/appcleaner/)
 
 * アプリを消すときに設定ファイルとかもまとめて消してくれます。アンインストラーの無いMacでは必須。
 * [AppTrap](http://onnati.net/apptrap/)という物もあって、これは常駐して
@@ -298,7 +298,7 @@ Mac用アプリ
 
 ---
 ### App Language Chooser &#9733;&#9733;&#9733;&#9733;&#9733;
-<a href="https://itunes.apple.com/jp/app/app-language-chooser/id451732904?mt=12&uo=4" target="_blank" rel="nofollow"><img width="75" class="alignleft" align="left" src="http://a1.mzstatic.com/us/r1000/064/Purple/59/10/53/mzi.iwnexdzn.75x75-65.png" style="border-radius: 11px 11px 11px 11px;-moz-border-radius: 11px 11px 11px 11px;-webkit-border-radius: 11px 11px 11px 11px;box-shadow: 1px 4px 6px 1px #999999;-moz-box-shadow: 1px 4px 6px 1px #999999;-webkit-box-shadow: 1px 4px 6px 1px #999999;margin: -5px 15px 1px 5px;"></a><strong> App Language Chooser 1.0（無料）</strong><a href="https://itunes.apple.com/jp/app/app-language-chooser/id451732904?mt=12&uo=4" target="_blank" rel="nofollow"><img src="http://s.mzstatic.com/htmlResources/E6C6/web-storefront/images/viewinitunes_jp.png" style="vertical-align:bottom;" width="90" alt="App"></a><br> カテゴリ: 開発ツール, ユーティリティ<br> 販売元: <a href="https://itunes.apple.com/jp/artist/ctm-development/id451732907?mt=12&uo=4" target="_blank" rel="nofollow">CTM Development - CTM Development SA</a>（サイズ: 0.1 MB）<br style="clear: both;">
+<a href="http://click.linksynergy.com/fs-bin/stat?id=iYVkHjWpfxk&offerid=94348&type=3&subid=0&tmpid=2192&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fapp-language-chooser%252Fid451732904%253Fmt%253D12%2526uo%253D4%2526partnerId%253D30" target="_blank" rel="nofollow"><img width="75" class="alignleft" align="left" src="http://a1.mzstatic.com/us/r1000/064/Purple/59/10/53/mzi.iwnexdzn.75x75-65.png" style="border-radius: 11px 11px 11px 11px;-moz-border-radius: 11px 11px 11px 11px;-webkit-border-radius: 11px 11px 11px 11px;box-shadow: 1px 4px 6px 1px #999999;-moz-box-shadow: 1px 4px 6px 1px #999999;-webkit-box-shadow: 1px 4px 6px 1px #999999;margin: -5px 15px 1px 5px;"></a><div style="font-size:small;line-height:1.2;"><a href="http://click.linksynergy.com/fs-bin/stat?id=iYVkHjWpfxk&offerid=94348&type=3&subid=0&tmpid=2192&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fapp-language-chooser%252Fid451732904%253Fmt%253D12%2526uo%253D4%2526partnerId%253D30" target="_blank" rel="nofollow"<strong> App Language Chooser 1.0（無料）</strong></a><br> カテゴリ: 開発ツール, ユーティリティ<br> 販売元: <a href="http://click.linksynergy.com/fs-bin/stat?id=iYVkHjWpfxk&offerid=94348&type=3&subid=0&tmpid=2192&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Fctm-development%252Fid451732907%253Fmt%253D12%2526uo%253D4%2526partnerId%253D30" target="_blank" rel="nofollow">CTM Development - CTM Development SA</a>（サイズ: 0.1 MB）<br style="clear: both;">
 
 * アプリ毎に言語を変えてくれます。(一時的に開く事も、デフォルトとして設定することも可能)。
 * 英語環境だと文字化けするアプリとかがあるので、全体の言語設定は日本語にしていますが、
@@ -307,31 +307,32 @@ Mac用アプリ
 
 ---
 ### Wine, WineBottler &#9733;&#9733;
-[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/WineBottler.png" height="100" alt="Wine, WineBottler"></p>](http://winebottler.kronenberg.org/)
+[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/WineBottler.png" width="100" height="100" alt="Wine, WineBottler"></p>](http://winebottler.kronenberg.org/)
 
 * WineはWindowsのソフトをWindows外で動かすためのプログラム。WineBottlerはMacでWineを使うためのアプリ。
 
 ---
 ### MikuInstaller &#9733;&#9733;
-[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/MikuInstaller.png" height="100" alt="MikuInstaller"></p>](http://mikuinstaller.sourceforge.jp/)
+[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/MikuInstaller.png" width="100" height="100" alt="MikuInstaller"></p>](http://mikuinstaller.sourceforge.jp/)
 
 * 日本で作られたWineを使ったWindowsソフトを動かすためのアプリ。
 
 ---
 ### DupScan &#9733;&#9733;&#9733;
-[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/DupScan.png" height="100" alt="DupScan"></p>](http://www5.wind.ne.jp/miko/mac_soft/dup_scan/index.html)
+[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/DupScan.png" width="100" height="100" alt="DupScan"></p>](http://www5.wind.ne.jp/miko/mac_soft/dup_scan/index.html)
 
 * 重複ファイルを検索して削除してくれます。
 
 ---
 ### StuffIt Expander &#9733;&#9733;&#9733;&#9733;
-<a href="https://itunes.apple.com/jp/app/stuffit-expander/id405580712?mt=12&uo=4" target="_blank" rel="nofollow"><img width="75" class="alignleft" align="left" src="http://a4.mzstatic.com/us/r1000/088/Purple/v4/9c/c1/5b/9cc15bb0-0a80-fc87-d069-e37f849075ae/expander.75x75-65.png" style="border-radius: 11px 11px 11px 11px;-moz-border-radius: 11px 11px 11px 11px;-webkit-border-radius: 11px 11px 11px 11px;box-shadow: 1px 4px 6px 1px #999999;-moz-box-shadow: 1px 4px 6px 1px #999999;-webkit-box-shadow: 1px 4px 6px 1px #999999;margin: -5px 15px 1px 5px;"></a><strong> StuffIt Expander 15.0.7（無料）</strong><a href="https://itunes.apple.com/jp/app/stuffit-expander/id405580712?mt=12&uo=4" target="_blank" rel="nofollow"><img src="http://s.mzstatic.com/htmlResources/E6C6/web-storefront/images/viewinitunes_jp.png" style="vertical-align:bottom;" width="90" alt="App"></a><br> カテゴリ: ユーティリティ, 仕事効率化<br> 販売元: <a href="https://itunes.apple.com/jp/artist/smith-micro-software-inc./id300453044?mt=12&uo=4" target="_blank" rel="nofollow">Smith Micro Software, Inc.; Consumer Division - Smith Micro Software, Inc.; Consumer Division</a>（サイズ: 18.1 MB）<br style="clear: both;">
+<a href="http://click.linksynergy.com/fs-bin/stat?id=iYVkHjWpfxk&offerid=94348&type=3&subid=0&tmpid=2192&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fstuffit-expander%252Fid405580712%253Fmt%253D12%2526uo%253D4%2526partnerId%253D30" target="_blank" rel="nofollow"><img width="75" class="alignleft" align="left" src="http://a4.mzstatic.com/us/r1000/088/Purple/v4/9c/c1/5b/9cc15bb0-0a80-fc87-d069-e37f849075ae/expander.75x75-65.png" style="border-radius: 11px 11px 11px 11px;-moz-border-radius: 11px 11px 11px 11px;-webkit-border-radius: 11px 11px 11px 11px;box-shadow: 1px 4px 6px 1px #999999;-moz-box-shadow: 1px 4px 6px 1px #999999;-webkit-box-shadow: 1px 4px 6px 1px #999999;margin: -5px 15px 1px 5px;"></a><div style="font-size:small;line-height:1.2;"><a href="http://click.linksynergy.com/fs-bin/stat?id=iYVkHjWpfxk&offerid=94348&type=3&subid=0&tmpid=2192&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fstuffit-expander%252Fid405580712%253Fmt%253D12%2526uo%253D4%2526partnerId%253D30" target="_blank" rel="nofollow"<strong> StuffIt Expander 15.0.7（無料）</strong></a><br> カテゴリ: ユーティリティ, 仕事効率化<br> 販売元: <a href="http://click.linksynergy.com/fs-bin/stat?id=iYVkHjWpfxk&offerid=94348&type=3&subid=0&tmpid=2192&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Fsmith-micro-software-inc.%252Fid300453044%253Fmt%253D12%2526uo%253D4%2526partnerId%253D30" target="_blank" rel="nofollow">Smith Micro Software, Inc.; Consumer Division - Smith Micro Software, Inc.; Consumer Division</a>（サイズ: 18.1 MB）<br style="clear: both;">
+
 
 * 解凍ソフト。メインに使用。
 
 ---
 ### Zipeg &#9733;&#9733;&#9733;&#9733;
-[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/Zipeg.png" height="100" alt="Zipeg"></p>](http://www.zipeg.com/)
+[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/Zipeg.png" width="100" height="100" alt="Zipeg"></p>](http://www.zipeg.com/)
 
 * たまにファイルが壊れかけててStuffIt Expanderで解凍に失敗した時、Zipegだとファイrの中身の一部を選んで取り出せる事があります。
 
@@ -340,14 +341,13 @@ Mac用アプリ
 
 ---
 ### iTerm2 &#9733;&#9733;&#9733;&#9733;&#9733;
-[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/iTerm2.png" height="100" alt="iTerm2"></p>](http://www.iterm2.com/#/section/home)
+[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/iTerm2.png" width="100" height="100" alt="iTerm2"></p>](http://www.iterm2.com/#/section/home)
 
 * 純正ターミナルの代用品。色々と細かい所でターミナルでは出来ないことが出来たりするので最初から使ってます（何が嬉しかったのか余り覚えてないので、そのうちまた整理したいと…）
 
 ---
 ### Cathode &#9733;&#9733;
-
-<a href="https://itunes.apple.com/jp/app/cathode/id499233976?mt=12&uo=4" target="_blank" rel="nofollow"><img width="75" class="alignleft" align="left" src="http://a2.mzstatic.com/us/r1000/104/Purple/v4/07/32/47/073247c0-7905-0a48-37e4-26657685b06b/Cathode.75x75-65.png" style="border-radius: 11px 11px 11px 11px;-moz-border-radius: 11px 11px 11px 11px;-webkit-border-radius: 11px 11px 11px 11px;box-shadow: 1px 4px 6px 1px #999999;-moz-box-shadow: 1px 4px 6px 1px #999999;-webkit-box-shadow: 1px 4px 6px 1px #999999;margin: -5px 15px 1px 5px;"></a><strong> Cathode 2.0.2（￥850）</strong><a href="https://itunes.apple.com/jp/app/cathode/id499233976?mt=12&uo=4" target="_blank" rel="nofollow"><img src="http://s.mzstatic.com/htmlResources/E6C6/web-storefront/images/viewinitunes_jp.png" style="vertical-align:bottom;" width="90" alt="App"></a><br> カテゴリ: 開発ツール, 仕事効率化<br> 販売元: <a href="https://itunes.apple.com/jp/artist/secret-geometry/id499233979?mt=12&uo=4" target="_blank" rel="nofollow">Secret Geometry - Secret Geometry, Inc.</a>（サイズ: 3.6 MB）<br style="clear: both;">
+<a href="http://click.linksynergy.com/fs-bin/stat?id=iYVkHjWpfxk&offerid=94348&type=3&subid=0&tmpid=2192&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fcathode%252Fid499233976%253Fmt%253D12%2526uo%253D4%2526partnerId%253D30" target="_blank" rel="nofollow"><img width="75" class="alignleft" align="left" src="http://a2.mzstatic.com/us/r1000/104/Purple/v4/07/32/47/073247c0-7905-0a48-37e4-26657685b06b/Cathode.75x75-65.png" style="border-radius: 11px 11px 11px 11px;-moz-border-radius: 11px 11px 11px 11px;-webkit-border-radius: 11px 11px 11px 11px;box-shadow: 1px 4px 6px 1px #999999;-moz-box-shadow: 1px 4px 6px 1px #999999;-webkit-box-shadow: 1px 4px 6px 1px #999999;margin: -5px 15px 1px 5px;"></a><div style="font-size:small;line-height:1.2;"><a href="http://click.linksynergy.com/fs-bin/stat?id=iYVkHjWpfxk&offerid=94348&type=3&subid=0&tmpid=2192&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fcathode%252Fid499233976%253Fmt%253D12%2526uo%253D4%2526partnerId%253D30" target="_blank" rel="nofollow"<strong> Cathode 2.0.2（￥850）</strong></a><br> カテゴリ: 開発ツール, 仕事効率化<br> 販売元: <a href="http://click.linksynergy.com/fs-bin/stat?id=iYVkHjWpfxk&offerid=94348&type=3&subid=0&tmpid=2192&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Fsecret-geometry%252Fid499233979%253Fmt%253D12%2526uo%253D4%2526partnerId%253D30" target="_blank" rel="nofollow">Secret Geometry - Secret Geometry, Inc.</a>（サイズ: 3.6 MB）<br style="clear: both;">
 
 * 昔なつかしのブラウン管っぽい画面でターミナルを開いてくれます。[作者のページ](http://www.secretgeometry.com/apps/cathode/)から直接ダウンロードすれば無料版が試せます
 * 無料のままだと画面がみずらくなったりしますが、取り敢えず面白いので無料版を入れて遊んで見る分には楽しいと思います。
@@ -356,27 +356,27 @@ Mac用アプリ
 
 ---
 ### macvim-kaoriya &#9733;&#9733;&#9733;&#9733;
-[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/vim.png" height="100" alt="macvim-kaoriya"></p>](http://code.google.com/p/macvim-kaoriya/)
+[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/vim.png" width="100" height="100" alt="macvim-kaoriya"></p>](http://code.google.com/p/macvim-kaoriya/)
 
 * Vim。本家[MacVim](http://code.google.com/p/macvim/)を日本語環境で使いやすくしたものです。
 * テキスト的な物をFinderから開いたり編集したりしたい様な時は基本的にこれを使います。
 
 ---
 ### Mou &#9733;&#9733;&#9733;
-[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/Mou.png" height="100" alt="Mou"></p>](http://mouapp.com/)
+[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/Mou.png" width="100" height="100" alt="Mou"></p>](http://mouapp.com/)
 
 * MarkDownをLive View出来るアプリ。さくさく動くので楽しい。
 * ちなみにWebでも[Joncom](http://joncom.be/experiments/markdown-editor/edit/)や[Github Preview](http://github-preview.herokuapp.com/)というサイトにLive Viewが出来るものがあります。
 
 ---
 ### TeXShop &#9733;&#9733;
-[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/TeXShop.png" height="100" alt="TeXShop"></p>](http://pages.uoregon.edu/koch/texshop/)
+[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/TeXShop.png" width="100" height="100" alt="TeXShop"></p>](http://pages.uoregon.edu/koch/texshop/)
 
 * Texを簡単にプレビュー出来るアプリ。
 
 ---
 ### TeX2img &#9733;&#9733;
-[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/TeX2img.png" height="100" alt="TeX2img"></p>](http://island.geocities.jp/loveinequality/)
+[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/TeX2img.png" width="100" height="100" alt="TeX2img"></p>](http://island.geocities.jp/loveinequality/)
 
 * TeXで作った数式とかを簡単にファイルに出力出来ます。Power Pointのお供とかに。
 
@@ -384,7 +384,7 @@ Mac用アプリ
 
 ---
 ### FileZilla &#9733;&#9733;&#9733;&#9733;&#9733;
-[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/FileZilla.png" height="100" alt="FileZilla"></p>]("http://filezilla-project.org/")
+[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/FileZilla.png" width="100" height="100" alt="FileZilla"></p>]("http://filezilla-project.org/")
 
 * FTP,FTPS,SFTP,SCPクライアント。
 * 2カラム表示でサーバー側とクライアント側両方を表示できるので、
@@ -399,7 +399,7 @@ Mac用アプリ
 
 ---
 ### Cyberduck
-<a href="https://itunes.apple.com/jp/app/cyberduck/id409222199?mt=12&uo=4" target="_blank" rel="nofollow"><img width="75" class="alignleft" align="left" src="http://a4.mzstatic.com/us/r1000/067/Purple/fc/90/07/mzi.ocryrdbw.75x75-65.png" style="border-radius: 11px 11px 11px 11px;-moz-border-radius: 11px 11px 11px 11px;-webkit-border-radius: 11px 11px 11px 11px;box-shadow: 1px 4px 6px 1px #999999;-moz-box-shadow: 1px 4px 6px 1px #999999;-webkit-box-shadow: 1px 4px 6px 1px #999999;margin: -5px 15px 1px 5px;"></a><strong> Cyberduck 4.2.1（￥2,100）</strong><a href="https://itunes.apple.com/jp/app/cyberduck/id409222199?mt=12&uo=4" target="_blank" rel="nofollow"><img src="http://s.mzstatic.com/htmlResources/E6C6/web-storefront/images/viewinitunes_jp.png" style="vertical-align:bottom;" width="90" alt="App"></a><br> カテゴリ: 仕事効率化, ユーティリティ<br> 販売元: <a href="https://itunes.apple.com/jp/artist/david-kocher/id409222202?mt=12&uo=4" target="_blank" rel="nofollow">David Kocher - David Kocher</a>（サイズ: 54.6 MB）<br style="clear: both;">
+<a href="http://click.linksynergy.com/fs-bin/stat?id=iYVkHjWpfxk&offerid=94348&type=3&subid=0&tmpid=2192&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fcyberduck%252Fid409222199%253Fmt%253D12%2526uo%253D4%2526partnerId%253D30" target="_blank" rel="nofollow"><img width="75" class="alignleft" align="left" src="http://a4.mzstatic.com/us/r1000/067/Purple/fc/90/07/mzi.ocryrdbw.75x75-65.png" style="border-radius: 11px 11px 11px 11px;-moz-border-radius: 11px 11px 11px 11px;-webkit-border-radius: 11px 11px 11px 11px;box-shadow: 1px 4px 6px 1px #999999;-moz-box-shadow: 1px 4px 6px 1px #999999;-webkit-box-shadow: 1px 4px 6px 1px #999999;margin: -5px 15px 1px 5px;"></a><div style="font-size:small;line-height:1.2;"><a href="http://click.linksynergy.com/fs-bin/stat?id=iYVkHjWpfxk&offerid=94348&type=3&subid=0&tmpid=2192&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fcyberduck%252Fid409222199%253Fmt%253D12%2526uo%253D4%2526partnerId%253D30" target="_blank" rel="nofollow"<strong> Cyberduck 4.2.1（￥2,100）</strong></a><br> カテゴリ: 仕事効率化, ユーティリティ<br> 販売元: <a href="http://click.linksynergy.com/fs-bin/stat?id=iYVkHjWpfxk&offerid=94348&type=3&subid=0&tmpid=2192&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Fdavid-kocher%252Fid409222202%253Fmt%253D12%2526uo%253D4%2526partnerId%253D30" target="_blank" rel="nofollow">David Kocher - David Kocher</a>（サイズ: 54.6 MB）<br style="clear: both;">
 
 * Apple Storeだといつの間にやら有料化されて2100円！
 * よくわかりませんが、[本家のページ](http://cyberduck.ch/)だとまだ無料でダウンロード出来るみたいです。
@@ -411,7 +411,7 @@ Mac用アプリ
 
 ---
 ### Dropbox &#9733;&#9733;&#9733;&#9733;&#9733;
-[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/Dropbox.png" height="100" alt="Dropbox"></p>](https://www.dropbox.com/)
+[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/Dropbox.png" width="100" height="100" alt="Dropbox"></p>](https://www.dropbox.com/)
 
 * ファイル共有。メイン。なんだかんだで一番安定していると思います。
 * [Linux用のツール](https://www.dropbox.com/install?os=lnx)もあります。
@@ -420,52 +420,52 @@ Mac用アプリ
 
 ---
 ### AeroFS &#9733;&#9733;&#9733;
-[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/AeroFS.png" height="100" alt="AeroFS"></p>](https://www.aerofs.com/)
+[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/AeroFS.png" width="100" height="100" alt="AeroFS"></p>](https://www.aerofs.com/)
 
 * Windows Live Meshみたいにサーバーを通さず直接P2Pでファイルをシェア出来ます。
 * Macでは今の所使ってませんが、Live Meshがサービス終了してしまったので、他の所で使ってます。
 
 ---
 ### KDrive &#9733;&#9733;
-[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/KDrive.png" height="100" alt="KDrive"></p>](https://www.kdrive.jp/static/index.html)
+[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/KDrive.png" width="100" height="100" alt="KDrive"></p>](https://www.kdrive.jp/static/index.html)
 
 * いきなり30GBもらえる上、チェックインとかちょこちょこしていくとすぐ50GBにできるので、
 写真のバックアップに使用してます。ただ、Macではアプリは起動してません。ウェブで写真を見るだけ。
 
 ---
 ### box &#9733;
-[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/box.png" height="100" alt="box"></p>](https://www.box.com/home/)
+[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/box.png" width="100" height="100" alt="box"></p>](https://www.box.com/home/)
 
 * ちょこちょこ50GBキャペーンをやってます。取り敢えず適当にバックアップ用。Macでは起動してません。
 
 ---
 ### Nドライブ &#9733;
-[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/NDrive.png" height="100" alt="Nドライブ"></p>](http://ndrive.naver.jp/)
+[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/NDrive.png" width="100" height="100" alt="Nドライブ"></p>](http://ndrive.naver.jp/)
 
 * これも30GBいきなり貰えます 。昔大きなファイルの共有に使ってましたがいまいち不安定なところもあって今は使ってません。
 
 ---
 ### Google Drive &#9733;
-[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/GoogleDrive.png" height="100" alt="Google Drive"></p>](https://tools.google.com/dlpage/drive/index.html?hl=ja)
+[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/GoogleDrive.png" width="100" height="100" alt="Google Drive"></p>](https://tools.google.com/dlpage/drive/index.html?hl=ja)
 
 * googleの物は結構使ってますがDropboxと被るので、今の所使ってません。
 
 ---
 ### SugarSync &#9733;
-[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/SugarSync.png" height="100" alt="SugarSync"></p>](http://www.microsoft.com/japan/mac?WT.srch=1)
+[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/SugarSync.png" width="100" height="100" alt="SugarSync"></p>](http://www.microsoft.com/japan/mac?WT.srch=1)
 
 * 同じくDropboxと被るので使ってません。
 * 数年前に始まった頃にDropboxと両方使ってましたがDropboxのが安定していたのと、Linux用のツールがDropboxだけにあるので、容量がある程度増えた後はDropboxだけになりました。
 
 ---
 ### Sky Drive &#9733;
-[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/SkyDrive.png" height="100" alt="Sky Drive"></p>](http://windows.microsoft.com/ja-jp/skydrive/download)
+[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/SkyDrive.png" width="100" height="100" alt="Sky Drive"></p>](http://windows.microsoft.com/ja-jp/skydrive/download)
 
 * 今入ると7GB。去年の変更時にアップデート時に手続きをしておけば25GBに出来ましたがやらなかったので7GBのまま。上２つ同様Dropboxで事足りてるので使ってない。
 
 ---
 ### EverNote &#9733;&#9733;&#9733;&#9733;&#9733;
-<a href="https://itunes.apple.com/jp/app/evernote/id406056744?mt=12&uo=4" target="_blank" rel="nofollow"><img width="75" class="alignleft" align="left" src="http://a4.mzstatic.com/us/r1000/110/Purple2/v4/40/5c/55/405c559c-2dd1-0688-3c33-65f36b1e9aaf/Evernote.75x75-65.png" style="border-radius: 11px 11px 11px 11px;-moz-border-radius: 11px 11px 11px 11px;-webkit-border-radius: 11px 11px 11px 11px;box-shadow: 1px 4px 6px 1px #999999;-moz-box-shadow: 1px 4px 6px 1px #999999;-webkit-box-shadow: 1px 4px 6px 1px #999999;margin: -5px 15px 1px 5px;"></a><strong> Evernote 5.0.6（無料）</strong><a href="https://itunes.apple.com/jp/app/evernote/id406056744?mt=12&uo=4" target="_blank" rel="nofollow"><img src="http://s.mzstatic.com/htmlResources/E6C6/web-storefront/images/viewinitunes_jp.png" style="vertical-align:bottom;" width="90" alt="App"></a><br> カテゴリ: 仕事効率化<br> 販売元: <a href="https://itunes.apple.com/jp/artist/evernote/id281796111?mt=12&uo=4" target="_blank" rel="nofollow">Evernote - Evernote</a>（サイズ: 32.3 MB）<br style="clear: both;">
+<a href="http://click.linksynergy.com/fs-bin/stat?id=iYVkHjWpfxk&offerid=94348&type=3&subid=0&tmpid=2192&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fevernote%252Fid406056744%253Fmt%253D12%2526uo%253D4%2526partnerId%253D30" target="_blank" rel="nofollow"><img width="75" class="alignleft" align="left" src="http://a4.mzstatic.com/us/r1000/110/Purple2/v4/40/5c/55/405c559c-2dd1-0688-3c33-65f36b1e9aaf/Evernote.75x75-65.png" style="border-radius: 11px 11px 11px 11px;-moz-border-radius: 11px 11px 11px 11px;-webkit-border-radius: 11px 11px 11px 11px;box-shadow: 1px 4px 6px 1px #999999;-moz-box-shadow: 1px 4px 6px 1px #999999;-webkit-box-shadow: 1px 4px 6px 1px #999999;margin: -5px 15px 1px 5px;"></a><div style="font-size:small;line-height:1.2;"><a href="http://click.linksynergy.com/fs-bin/stat?id=iYVkHjWpfxk&offerid=94348&type=3&subid=0&tmpid=2192&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fevernote%252Fid406056744%253Fmt%253D12%2526uo%253D4%2526partnerId%253D30" target="_blank" rel="nofollow"<strong> Evernote 5.0.6（無料）</strong></a><br> カテゴリ: 仕事効率化<br> 販売元: <a href="http://click.linksynergy.com/fs-bin/stat?id=iYVkHjWpfxk&offerid=94348&type=3&subid=0&tmpid=2192&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Fevernote%252Fid281796111%253Fmt%253D12%2526uo%253D4%2526partnerId%253D30" target="_blank" rel="nofollow">Evernote - Evernote</a>（サイズ: 32.3 MB）<br style="clear: both;">
 
 * 言わずと知れた。自分に関する情報とかで覚えきれないものを整理して入れてます。
 * 色々新しく設定したものやら、何やらも。
@@ -474,7 +474,7 @@ Mac用アプリ
 
 ---
 ### Metanota &#9733;
-<a href="https://itunes.apple.com/jp/app/metanota/id511648940?mt=12&uo=4" target="_blank" rel="nofollow"><img width="75" class="alignleft" align="left" src="http://a4.mzstatic.com/us/r1000/064/Purple2/v4/4d/61/01/4d6101df-e5e2-68ae-5f04-1637dd39f902/metanota.75x75-65.png" style="border-radius: 11px 11px 11px 11px;-moz-border-radius: 11px 11px 11px 11px;-webkit-border-radius: 11px 11px 11px 11px;box-shadow: 1px 4px 6px 1px #999999;-moz-box-shadow: 1px 4px 6px 1px #999999;-webkit-box-shadow: 1px 4px 6px 1px #999999;margin: -5px 15px 1px 5px;"></a><strong> Metanota 2.0.1（無料）</strong><a href="https://itunes.apple.com/jp/app/metanota/id511648940?mt=12&uo=4" target="_blank" rel="nofollow"><img src="http://s.mzstatic.com/htmlResources/E6C6/web-storefront/images/viewinitunes_jp.png" style="vertical-align:bottom;" width="90" alt="App"></a><br> カテゴリ: 仕事効率化, ビジネス<br> 販売元: <a href="https://itunes.apple.com/jp/artist/bogdan-farca/id511648943?mt=12&uo=4" target="_blank" rel="nofollow">Bogdan Farca - Bogdan Farca</a>（サイズ: 7.5 MB）<br style="clear: both;">
+<a href="http://click.linksynergy.com/fs-bin/stat?id=iYVkHjWpfxk&offerid=94348&type=3&subid=0&tmpid=2192&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fmetanota%252Fid511648940%253Fmt%253D12%2526uo%253D4%2526partnerId%253D30" target="_blank" rel="nofollow"><img width="75" class="alignleft" align="left" src="http://a4.mzstatic.com/us/r1000/064/Purple2/v4/4d/61/01/4d6101df-e5e2-68ae-5f04-1637dd39f902/metanota.75x75-65.png" style="border-radius: 11px 11px 11px 11px;-moz-border-radius: 11px 11px 11px 11px;-webkit-border-radius: 11px 11px 11px 11px;box-shadow: 1px 4px 6px 1px #999999;-moz-box-shadow: 1px 4px 6px 1px #999999;-webkit-box-shadow: 1px 4px 6px 1px #999999;margin: -5px 15px 1px 5px;"></a><div style="font-size:small;line-height:1.2;"><a href="http://click.linksynergy.com/fs-bin/stat?id=iYVkHjWpfxk&offerid=94348&type=3&subid=0&tmpid=2192&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fmetanota%252Fid511648940%253Fmt%253D12%2526uo%253D4%2526partnerId%253D30" target="_blank" rel="nofollow"<strong> Metanota 2.0.1（無料）</strong></a><br> カテゴリ: 仕事効率化, ビジネス<br> 販売元: <a href="http://click.linksynergy.com/fs-bin/stat?id=iYVkHjWpfxk&offerid=94348&type=3&subid=0&tmpid=2192&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Fbogdan-farca%252Fid511648943%253Fmt%253D12%2526uo%253D4%2526partnerId%253D30" target="_blank" rel="nofollow">Bogdan Farca - Bogdan Farca</a>（サイズ: 7.5 MB）<br style="clear: both;">
 
 * [Simplenote](http://simplenote.com/)のMac用クライアント。
 * 一時期、テキストだけで済むような簡単なノートはSimplenoteに乗り換えようかと思いましたが、結局無駄に使うものを増やすだけなので辞めました。
@@ -490,7 +490,7 @@ Mac用アプリ
 
 ---
 ### Pocket &#9733;&#9733;
-<a href="https://itunes.apple.com/jp/app/pocket/id568494494?mt=12&uo=4" target="_blank" rel="nofollow"><img width="75" class="alignleft" align="left" src="http://a4.mzstatic.com/us/r1000/105/Purple/v4/14/94/c7/1494c7ec-30fe-4ad4-a505-4c7c64a76b73/Icon.75x75-65.png" style="border-radius: 11px 11px 11px 11px;-moz-border-radius: 11px 11px 11px 11px;-webkit-border-radius: 11px 11px 11px 11px;box-shadow: 1px 4px 6px 1px #999999;-moz-box-shadow: 1px 4px 6px 1px #999999;-webkit-box-shadow: 1px 4px 6px 1px #999999;margin: -5px 15px 1px 5px;"></a><strong> Pocket 1.1.2（無料）</strong><a href="https://itunes.apple.com/jp/app/pocket/id568494494?mt=12&uo=4" target="_blank" rel="nofollow"><img src="http://s.mzstatic.com/htmlResources/E6C6/web-storefront/images/viewinitunes_jp.png" style="vertical-align:bottom;" width="90" alt="App"></a><br> カテゴリ: ニュース, 仕事効率化<br> 販売元: <a href="https://itunes.apple.com/jp/artist/idea-shower/id309597405?mt=12&uo=4" target="_blank" rel="nofollow">Idea Shower - Idea Shower</a>（サイズ: 4.9 MB）<br style="clear: both;">
+<a href="http://click.linksynergy.com/fs-bin/stat?id=iYVkHjWpfxk&offerid=94348&type=3&subid=0&tmpid=2192&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fpocket%252Fid568494494%253Fmt%253D12%2526uo%253D4%2526partnerId%253D30" target="_blank" rel="nofollow"><img width="75" class="alignleft" align="left" src="http://a4.mzstatic.com/us/r1000/105/Purple/v4/14/94/c7/1494c7ec-30fe-4ad4-a505-4c7c64a76b73/Icon.75x75-65.png" style="border-radius: 11px 11px 11px 11px;-moz-border-radius: 11px 11px 11px 11px;-webkit-border-radius: 11px 11px 11px 11px;box-shadow: 1px 4px 6px 1px #999999;-moz-box-shadow: 1px 4px 6px 1px #999999;-webkit-box-shadow: 1px 4px 6px 1px #999999;margin: -5px 15px 1px 5px;"></a><div style="font-size:small;line-height:1.2;"><a href="http://click.linksynergy.com/fs-bin/stat?id=iYVkHjWpfxk&offerid=94348&type=3&subid=0&tmpid=2192&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fpocket%252Fid568494494%253Fmt%253D12%2526uo%253D4%2526partnerId%253D30" target="_blank" rel="nofollow"<strong> Pocket 1.1.2（無料）</strong></a><br> カテゴリ: ニュース, 仕事効率化<br> 販売元: <a href="http://click.linksynergy.com/fs-bin/stat?id=iYVkHjWpfxk&offerid=94348&type=3&subid=0&tmpid=2192&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Fidea-shower%252Fid309597405%253Fmt%253D12%2526uo%253D4%2526partnerId%253D30" target="_blank" rel="nofollow">Idea Shower - Idea Shower</a>（サイズ: 4.9 MB）<br style="clear: both;">
 
 * Pocketのデスクトップクライアント。
 * PocketはWebページを「後で読む」ためのサービス。
@@ -501,7 +501,7 @@ Mac用アプリ
 
 ---
 ### Picasa &#9733;&#9733;&#9733;
-[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/Picasa.png" height="100" alt="Picasa"></p>](http://picasa.google.co.jp/intl/ja/)
+[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/Picasa.png" width="100" height="100" alt="Picasa"></p>](http://picasa.google.co.jp/intl/ja/)
 
 * 写真管理。
 * サーバに保存するには容量制限がありますが、2048x2048サイズにしてアップロードするとカウントされずに上限なしでアップロードできるのでバックアップがてら片っ端からアップロードしています。
@@ -509,40 +509,41 @@ Mac用アプリ
 
 ---
 ### cooViewer &#9733;&#9733;&#9733;
-[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/cooViewer.png" height="100" alt="cooViewer"></p>](http://www.geocities.jp/coo_ona/viewer.html)
+[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/cooViewer.png" width="100" height="100" alt="cooViewer"></p>](http://www.geocities.jp/coo_ona/viewer.html)
 
 * 同じフォルダ内にある写真とか、連続して見るに楽です（プレビュー.appでも同じフォルダ内の写真を連続して見れたら良いのですが、、、もしかして出来たり…？）。
 
 ---
 ### Skitch &#9733;&#9733;&#9733;
-<a href="https://itunes.apple.com/jp/app/skitch/id425955336?mt=12&uo=4" target="_blank" rel="nofollow"><img width="75" class="alignleft" align="left" src="http://a3.mzstatic.com/us/r1000/067/Purple/v4/da/a9/45/daa945be-f70a-26c3-0504-8f38b877ba4f/SkitchMac.75x75-65.png" style="border-radius: 11px 11px 11px 11px;-moz-border-radius: 11px 11px 11px 11px;-webkit-border-radius: 11px 11px 11px 11px;box-shadow: 1px 4px 6px 1px #999999;-moz-box-shadow: 1px 4px 6px 1px #999999;-webkit-box-shadow: 1px 4px 6px 1px #999999;margin: -5px 15px 1px 5px;"></a><strong> Skitch 2.0.5（無料）</strong><a href="https://itunes.apple.com/jp/app/skitch/id425955336?mt=12&uo=4" target="_blank" rel="nofollow"><img src="http://s.mzstatic.com/htmlResources/E6C6/web-storefront/images/viewinitunes_jp.png" style="vertical-align:bottom;" width="90" alt="App"></a><br> カテゴリ: 仕事効率化, グラフィック&デザイン<br> 販売元: <a href="https://itunes.apple.com/jp/artist/skitch/id425955339?mt=12&uo=4" target="_blank" rel="nofollow">Skitch - Skitch Inc</a>（サイズ: 17.9 MB）<br style="clear: both;">
+<a href="http://click.linksynergy.com/fs-bin/stat?id=iYVkHjWpfxk&offerid=94348&type=3&subid=0&tmpid=2192&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fskitch%252Fid425955336%253Fmt%253D12%2526uo%253D4%2526partnerId%253D30" target="_blank" rel="nofollow"><img width="75" class="alignleft" align="left" src="http://a3.mzstatic.com/us/r1000/067/Purple/v4/da/a9/45/daa945be-f70a-26c3-0504-8f38b877ba4f/SkitchMac.75x75-65.png" style="border-radius: 11px 11px 11px 11px;-moz-border-radius: 11px 11px 11px 11px;-webkit-border-radius: 11px 11px 11px 11px;box-shadow: 1px 4px 6px 1px #999999;-moz-box-shadow: 1px 4px 6px 1px #999999;-webkit-box-shadow: 1px 4px 6px 1px #999999;margin: -5px 15px 1px 5px;"></a><div style="font-size:small;line-height:1.2;"><a href="http://click.linksynergy.com/fs-bin/stat?id=iYVkHjWpfxk&offerid=94348&type=3&subid=0&tmpid=2192&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fskitch%252Fid425955336%253Fmt%253D12%2526uo%253D4%2526partnerId%253D30" target="_blank" rel="nofollow"<strong> Skitch 2.0.5（無料）</strong></a><br> カテゴリ: 仕事効率化, グラフィック&デザイン<br> 販売元: <a href="http://click.linksynergy.com/fs-bin/stat?id=iYVkHjWpfxk&offerid=94348&type=3&subid=0&tmpid=2192&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Fskitch%252Fid425955339%253Fmt%253D12%2526uo%253D4%2526partnerId%253D30" target="_blank" rel="nofollow">Skitch - Skitch Inc</a>（サイズ: 17.9 MB）<br style="clear: both;">
 
 * 画像編集ソフト。簡単に編集できて、Evernoteと連携できるので便利です。
 
 ---
 ### Gimp &#9733;&#9733;&#9733;
-[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/Gimp.png" height="100" alt="Gimp"></p>](http://www.gimp.org/)
+[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/Gimp.png" width="100" height="100" alt="Gimp"></p>](http://www.gimp.org/)
 
 * 画像処理ソフト。無料ですが、WindowsにもLinuxにも対応していて、取り敢えず頑張ればひと通りの事は出来ると思います。
 
 ---
 ### 縮小専用Air &#9733;&#9733;&#9733;
-[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/ShukuSenAir.png" height="100" alt="縮小専用Air"></p>](http://labo.i-section.net/shukusen-air/)
+[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/ShukuSenAir.png" width="100" height="100" alt="縮小専用Air"></p>](http://labo.i-section.net/shukusen-air/)
 
 * 画像を簡単に縮小出来ます。
 * Windowsで昔から携帯向けに写真を送る時とかに良く使ってました。
 
 ---
 ### JPEGmini Lite &#9733;&#9733;&#9733;
-<a href="https://itunes.apple.com/jp/app/jpegmini-lite/id525742250?mt=12&uo=4" target="_blank" rel="nofollow"><img width="75" class="alignleft" align="left" src="http://a2.mzstatic.com/us/r1000/080/Purple/v4/d9/80/8d/d9808dd4-3bc7-fef4-213b-e455167c4cd2/JPEGmini.75x75-65.png" style="border-radius: 11px 11px 11px 11px;-moz-border-radius: 11px 11px 11px 11px;-webkit-border-radius: 11px 11px 11px 11px;box-shadow: 1px 4px 6px 1px #999999;-moz-box-shadow: 1px 4px 6px 1px #999999;-webkit-box-shadow: 1px 4px 6px 1px #999999;margin: -5px 15px 1px 5px;"></a><strong> JPEGmini Lite 1.6（無料）</strong><a href="https://itunes.apple.com/jp/app/jpegmini-lite/id525742250?mt=12&uo=4" target="_blank" rel="nofollow"><img src="http://s.mzstatic.com/htmlResources/E6C6/web-storefront/images/viewinitunes_jp.png" style="vertical-align:bottom;" width="90" alt="App"></a><br> カテゴリ: 写真, グラフィック&デザイン<br> 販売元: <a href="https://itunes.apple.com/jp/artist/icvt-ltd./id498944726?mt=12&uo=4" target="_blank" rel="nofollow">ICVT Ltd. - ICVT Ltd.</a>（サイズ: 4.3 MB）<br style="clear: both;">
+<a href="http://click.linksynergy.com/fs-bin/stat?id=iYVkHjWpfxk&offerid=94348&type=3&subid=0&tmpid=2192&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fjpegmini%252Fid498944723%253Fmt%253D12%2526uo%253D4%2526partnerId%253D30" target="_blank" rel="nofollow"><img width="75" class="alignleft" align="left" src="http://a5.mzstatic.com/us/r1000/098/Purple2/v4/5f/0e/57/5f0e579d-1dfb-81ab-7908-494dbdf3c643/JPEGmini.75x75-65.png" style="border-radius: 11px 11px 11px 11px;-moz-border-radius: 11px 11px 11px 11px;-webkit-border-radius: 11px 11px 11px 11px;box-shadow: 1px 4px 6px 1px #999999;-moz-box-shadow: 1px 4px 6px 1px #999999;-webkit-box-shadow: 1px 4px 6px 1px #999999;margin: -5px 15px 1px 5px;"></a><div style="font-size:small;line-height:1.2;"><a href="http://click.linksynergy.com/fs-bin/stat?id=iYVkHjWpfxk&offerid=94348&type=3&subid=0&tmpid=2192&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fjpegmini%252Fid498944723%253Fmt%253D12%2526uo%253D4%2526partnerId%253D30" target="_blank" rel="nofollow"<strong> JPEGmini 1.6.1（￥1,700）</strong></a><br> カテゴリ: 写真, グラフィック&デザイン<br> 販売元: <a href="http://click.linksynergy.com/fs-bin/stat?id=iYVkHjWpfxk&offerid=94348&type=3&subid=0&tmpid=2192&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Ficvt-ltd.%252Fid498944726%253Fmt%253D12%2526uo%253D4%2526partnerId%253D30" target="_blank" rel="nofollow">ICVT Ltd. - ICVT Ltd.</a>（サイズ: 3.6 MB）<br style="clear: both;">
 
-* jpgの画像サイズはそのままの状態でファイルサイズを縮小します。Lite版だと一日20枚まで。
+* jpgの画像サイズはそのままの状態でファイルサイズを縮小します。Lite版もありますが、
+　そちらだとだと一日20枚まで。
 
 ## <a id="network">ネットワーク</a>
 
 ---
 ### LogMeIn &#9733;&#9733;&#9733;
-[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/LogMeIn.png" height="100" alt="LogMeIn"></p>](https://secure.logmein.com/jp/)
+[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/LogMeIn.png" width="100" height="100" alt="LogMeIn"></p>](https://secure.logmein.com/jp/)
 
 * サーバーソフトを入れておくとリモートアクセスできる用になります。
 * サーバーとクライアントが共にLogMeInサーバーに接続してマッチングする形なので、サーバーが固定IPを持ってなくても大丈夫です。
@@ -551,7 +552,7 @@ Mac用アプリ
 
 ---
 ### Synergy &#9733;&#9733;
-[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/Synergy.png" height="100" alt="Synergy"></p>](http://synergy-foss.org/ja/)
+[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/Synergy.png" width="100" height="100" alt="Synergy"></p>](http://synergy-foss.org/ja/)
 
 * 1セットのマウスとキーボードで複数のコンピューターをシームレスに使うことが出来るようになります使うことが出来ます。
 * Windows, Linuxでも使えます。
@@ -561,20 +562,20 @@ Mac用アプリ
 
 ---
 ### Firefox &#9733;&#9733;&#9733;&#9733;&#9733;
-[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/Firefox.png" height="100" alt="Firefox"></p>](http://www.mozilla.jp/firefox/)
+[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/Firefox.png" width="100" height="100" alt="Firefox"></p>](http://www.mozilla.jp/firefox/)
 
 * メインブラウザ。vimperatorというアドオンが便利すぎるのでChromeには移れません。
 * アドオンについて、vimperatorについても別個にいつか紹介したいと思います。
 
 ---
 ### Chrome &#9733;&#9733;&#9733;&#9733;
-[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/Chrome.png" height="100" alt="Chrome"></p>](http://www.google.co.jp/intl/ja/chrome/browser/)
+[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/Chrome.png" width="100" height="100" alt="Chrome"></p>](http://www.google.co.jp/intl/ja/chrome/browser/)
 
 * 複数のGoogleアカウントを簡単に切り替えて使える様になったので、たまに使います。(Chromeでしか見れないサイトもあったりしますので…)
 
 ---
 ### Xmarks for Mac &#9733;&#9733;&#9733;&#9733;
-[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/XmarksForMac.png" height="100" alt="Xmarks for Mac"></p>](http://download.xmarks.com/download/macosx_10_6)
+[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/XmarksForMac.png" width="100" height="100" alt="Xmarks for Mac"></p>](http://download.xmarks.com/download/macosx_10_6)
 
 * SafariのブックマークをXmarksで同期するためのアプリ。
 * Safari自体は殆ど使いませんが、iCloud経由でブックマークをiPhoneのSafariと同期させて結果的にPC/MacのFirefoxとiPhoneのSafariを同期させています。
@@ -585,7 +586,7 @@ Mac用アプリ
 
 ---
 ### Mail.app &#9733;&#9733;&#9733;&#9733;&#9733;
-[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/Mailapp.png" height="100" alt="Mail.app"></p>](http://www.apple.com/jp/support/mail/)
+[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/Mailapp.png" width="100" height="100" alt="Mail.app"></p>](http://www.apple.com/jp/support/mail/)
 
 * 純正で入っているものですが、メーラー。現在メインで使用中。
 * Mail Unread Menuでメニューバーに表示出来るのが嬉しいです（これでDockを未読メール数確認用に常に表示してなくても良くなりました）。
@@ -593,7 +594,7 @@ Mac用アプリ
 
 ---
 ### Thunderbird &#9733;&#9733;
-[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/Thunderbird.png" height="100" alt="Thunderbird"></p>](http://www.mozilla.jp/thunderbird/)
+[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/Thunderbird.png" width="100" height="100" alt="Thunderbird"></p>](http://www.mozilla.jp/thunderbird/)
 
 * 少し前まですべてのフィルターをメーラー側でやりたかったので、WindowsでもMacでもどこでも簡単に設定が移植出来るThunderbirdが便利でした。
 * 現在は、Microsoft Exchangeを使ったサーバー、Gmail、IMAPのサーバーのメールを使ってますが、それぞれサーバーで側で振り分けするようにしたのでフィルターの問題は無くなりました。
@@ -609,13 +610,13 @@ Mac用アプリ
 
 ---
 ### Skype &#9733;&#9733;&#9733;&#9733;&#9733;
-[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/Skype.png" height="100" alt="Skype"></p>](http://www.skype.com/ja/download-skype/skype-for-computer/)
+[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/Skype.png" width="100" height="100" alt="Skype"></p>](http://www.skype.com/ja/download-skype/skype-for-computer/)
 
 * パソコン同士の通話、チャットの他、国際電話も安くできるので重宝してます。
 
 ---
 ### Callnote &#9733;&#9733;&#9733;
-[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/Callnote.png" height="100" alt="Callnote"></p>](http://www.kandasoft.com/home/kanda-apps/callnote.html)
+[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/Callnote.png" width="100" height="100" alt="Callnote"></p>](http://www.kandasoft.com/home/kanda-apps/callnote.html)
 
 * Skypeを録音してEvernoteに保存（Evernoteにリンクさせていないとエラーっぽいのが出ますが、ローカルだけにも保存出来る）
 
@@ -623,13 +624,13 @@ Mac用アプリ
 
 ---
 ###  Adobe関連 &#9733;&#9733;&#9733;&#9733;
-[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/AdobeAcrobat.png" height="100" alt=" Adobe関連"></p>](http://www.adobe.com/jp/)
+[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/AdobeAcrobat.png" width="100" height="100" alt=" Adobe関連"></p>](http://www.adobe.com/jp/)
 
 * Reader, Acrobt Pro, Illustlator
 
 ---
 ###  Microsoft Office for Mac &#9733;&#9733;&#9733;&#9733;&#9733;
-[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/MicrosoftOfficeForMac.png" height="100" alt=" Microsoft Office for Mac"></p>](http://www.microsoft.com/japan/mac?WT.srch=1)
+[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/MicrosoftOfficeForMac.png" width="100" height="100" alt=" Microsoft Office for Mac"></p>](http://www.microsoft.com/japan/mac?WT.srch=1)
 
 * Word, Excel, Power Point, Outlook
 * 何故Office for Macのページは黒いのでしょうか…？
@@ -641,7 +642,7 @@ Mac用アプリ
 
 ---
 ###  Open Office &#9733;&#9733;
-[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/OpenOffice.png" height="100" alt=" Open Office"></p>](http://www.openoffice.org/ja/)
+[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/OpenOffice.png" width="100" height="100" alt=" Open Office"></p>](http://www.openoffice.org/ja/)
 
 * 無料のOffice。
 * まだMicrosoft Officeとの互換性が完璧ではないですが、自分だけで使う使う分には十分です。
@@ -652,7 +653,7 @@ Mac用アプリ
 
 ---
 ### GitHub &#9733;&#9733;
-[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/GitHub.png" height="100" alt="GitHub"></p>](http://mac.github.com/)
+[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/GitHub.png" width="100" height="100" alt="GitHub"></p>](http://mac.github.com/)
 
 * GitHub用クライアント。
 * dotfilesやアプリの設定ファイルなど、履歴が取れるのでなるべくGitHubに入れるようにしています。
@@ -660,7 +661,7 @@ Mac用アプリ
 
 ---
 ### Wake Up Time &#9733;&#9733;&#9733;&#9733;
-<a href="https://itunes.apple.com/jp/app/wake-up-time/id495945638?mt=12&uo=4" target="_blank" rel="nofollow"><img width="75" class="alignleft" align="left" src="http://a2.mzstatic.com/us/r1000/078/Purple/v4/0d/4a/9c/0d4a9ce3-b8a9-b277-4623-8b75f894550f/wut_icon.75x75-65.png" style="border-radius: 11px 11px 11px 11px;-moz-border-radius: 11px 11px 11px 11px;-webkit-border-radius: 11px 11px 11px 11px;box-shadow: 1px 4px 6px 1px #999999;-moz-box-shadow: 1px 4px 6px 1px #999999;-webkit-box-shadow: 1px 4px 6px 1px #999999;margin: -5px 15px 1px 5px;"></a><strong> Wake Up Time 1.2.1（無料）</strong><a href="https://itunes.apple.com/jp/app/wake-up-time/id495945638?mt=12&uo=4" target="_blank" rel="nofollow"><img src="http://s.mzstatic.com/htmlResources/E6C6/web-storefront/images/viewinitunes_jp.png" style="vertical-align:bottom;" width="90" alt="App"></a><br> カテゴリ: 仕事効率化, ライフスタイル<br> 販売元: <a href="https://itunes.apple.com/jp/artist/rocky-sand-studio-ltd./id457404255?mt=12&uo=4" target="_blank" rel="nofollow">Rocky Sand Studio Ltd. - Rocky Sand Studio Ltd.</a>（サイズ: 13.7 MB）<br style="clear: both;">
+<a href="http://click.linksynergy.com/fs-bin/stat?id=iYVkHjWpfxk&offerid=94348&type=3&subid=0&tmpid=2192&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fwake-up-time%252Fid495945638%253Fmt%253D12%2526uo%253D4%2526partnerId%253D30" target="_blank" rel="nofollow"><img width="75" class="alignleft" align="left" src="http://a2.mzstatic.com/us/r1000/078/Purple/v4/0d/4a/9c/0d4a9ce3-b8a9-b277-4623-8b75f894550f/wut_icon.75x75-65.png" style="border-radius: 11px 11px 11px 11px;-moz-border-radius: 11px 11px 11px 11px;-webkit-border-radius: 11px 11px 11px 11px;box-shadow: 1px 4px 6px 1px #999999;-moz-box-shadow: 1px 4px 6px 1px #999999;-webkit-box-shadow: 1px 4px 6px 1px #999999;margin: -5px 15px 1px 5px;"></a><div style="font-size:small;line-height:1.2;"><a href="http://click.linksynergy.com/fs-bin/stat?id=iYVkHjWpfxk&offerid=94348&type=3&subid=0&tmpid=2192&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fwake-up-time%252Fid495945638%253Fmt%253D12%2526uo%253D4%2526partnerId%253D30" target="_blank" rel="nofollow"<strong> Wake Up Time 1.2.1（無料）</strong></a><br> カテゴリ: 仕事効率化, ライフスタイル<br> 販売元: <a href="http://click.linksynergy.com/fs-bin/stat?id=iYVkHjWpfxk&offerid=94348&type=3&subid=0&tmpid=2192&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Frocky-sand-studio-ltd.%252Fid457404255%253Fmt%253D12%2526uo%253D4%2526partnerId%253D30" target="_blank" rel="nofollow">Rocky Sand Studio Ltd. - Rocky Sand Studio Ltd.</a>（サイズ: 13.7 MB）<br style="clear: both;">
 
 * 目覚まし。
 * 他にも[Alarm Clock](http://www.robbiehanson.com/alarmclock/index.html)とか
@@ -669,6 +670,6 @@ Mac用アプリ
 
 ---
 ### VLC &#9733;&#9733;&#9733;
-[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/VLC.png" height="100" alt="VLC"></p>](http://www.videolan.org/vlc/releases/2.0.2.html)
+[<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/VLC.png" width="100" height="100" alt="VLC"></p>](http://www.videolan.org/vlc/releases/2.0.2.html)
 
 * 大概のする種類の動画や音楽が再生出来るプレーヤー。
