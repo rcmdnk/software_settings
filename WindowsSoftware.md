@@ -128,7 +128,7 @@
 * MacのKeyRemap4MacBookに比べて自分で書いて設定するのが大変ですが、いろんな事が出来ます。
 * 他にも似たようなものとして
   * [AutoHotkey](http://www.autohotkey.com/)
-  * [https://sites.google.com/site/craftware/keyhac](https://sites.google.com/site/craftware/keyhac)
+  * [keyhac](https://sites.google.com/site/craftware/keyhac)
   * [のどか](http://www.appletkan.com/nodoka.htm)
   (有料ですが窓使いの憂鬱をよりそのまま継承しているもの)
 
