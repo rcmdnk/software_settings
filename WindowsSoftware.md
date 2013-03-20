@@ -278,7 +278,18 @@
 [<p><img src="https://dl.dropbox.com/u/630732/Blog/WinApp/latex2rtf.png" width="100" height="100" alt="latex2rtf"></p>](http://latex2rtf.sourceforge.net/)
 
 * Latex文書をrtf形式にしてWordで編集できる様にするソフト。
-* Wordの文法チェックが結構賢くて便利なので、Latexで書いてる文章を最後に校正したい時に使うことがあります。
+* MacやLinuxだと予め`latex2rtf`と言うコマンドがインストールされてることが多いと思います。
+* Wordの文法チェックが結構賢くて便利なので、
+Latexで書いてる文章を最後に校正したい時に使うことがあります。
+(単純に元のlatexファイルを貼り付けると数式部分とか画像入力部分とかが
+引っかかって使い物にならないので。)
+  * ただ、これで作ったrtfファイルをwordで開くと全て校正済みの形に
+  なっているようなので、一回開いて、それをコピーしてもう一回貼り付けてやる必要があります。
+    * さらにこの作業自体は、大量の整形分をクリップボードに入れることになるので、
+    Wordではなく、WordPad等、軽いテキストファイルで一度rtfファイルを開いて、全文コピーし、
+    それをWordに貼り付けるのが良いと思います。(それでも重い場合は小分けに)
+
+
 
 ## <a id="file_transfer">ファイル転送</a>
 ---
@@ -474,7 +485,7 @@
 
 ---
 ### No-Duc  &#9733;&#9733;&#9733;
-[<p><img src="uc](http://www.noip.com/downloads.php?page)
+[<p><img src="https://dl.dropbox.com/u/630732/Blog/WinApp/No-IP.png" width="100" height="100" alt="No-IP "></p>](http://www.noip.com/downloads.php?page)
 
 * IPアドレスが変わった時に、自動的にドメイン割り当てを更新してくれる
 No-IP専用ソフト。
