@@ -114,6 +114,7 @@
 * 同じく色々な設定が簡単に変えられる。
 
 ---
+<a name="CLCL"></a>
 ### CLCL &#9733;&#9733;&#9733;&#9733;&#9733;
 [<p><img src="https://dl.dropbox.com/u/630732/Blog/WinApp/CLCL.png" width="100" height="100" alt="CLCL"></p>](http://www.nakka.com/soft/clcl/)
 
