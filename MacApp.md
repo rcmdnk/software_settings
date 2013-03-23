@@ -218,6 +218,7 @@ Mac用アプリ
 * 言わずと知れた。取り敢えずことえりの代わりに。
 
 ---
+<a name="ClipMenu"></a>
 ### ClipMenu &#9733;&#9733;&#9733;&#9733;&#9733;
 [<p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/ClipMenu.png" width="100" height="100" alt="ClipMenu"></p>](http://www.clipmenu.com/ja/)
 
