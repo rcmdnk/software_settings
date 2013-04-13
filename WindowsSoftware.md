@@ -125,7 +125,7 @@
 ### Yet Another Mado tsukai no Yuutsu (yamy)　&#9733;&#9733;&#9733;&#9733;&#9733;
 [<p><img src="https://dl.dropbox.com/u/630732/Blog/WinApp/yamy.png" width="100" height="100" alt="Yet Another Mado tsukai no Yuutsu (yamy)"></p>](http://sourceforge.jp/projects/yamy/)
 
-* [yamyの紹介](/blog/categories/yamy)
+* [yamy関連の記事](/blog/tags/yamy)
 
 * [窓使いの憂鬱](http://mayu.sourceforge.net/)の後継のキーボードのカスタマイズ。
 * MacのKeyRemap4MacBookに比べて自分で書いて設定するのが大変ですが、いろんな事が出来ます。
