@@ -12,27 +12,12 @@ Mac用アプリ
 に直接Markdownで入れてある物も見れるようにしてます。
 
 
-* [デスクトップ関連](#desktop)
-* [メーニューバー関連](#menubar)
-* [Dock関連](#dock)
-* [システム、設定](#system)
-* [キーボード、トラックパッド、マウス、ショートカット](#shortcut)
-* [アプリ、ファイル操作](#app_file)
-* [ターミナル](#terminal)
-* [テキスト、エディタ](#editor)
-* [ファイル転送](#file_transfer)
-* [クラウド、ファイル共有、ノート](#cloud)
-* [写真、画像編集、動画](#picture)
-* [ネットワーク](#network)
-* [ブラウザ](#browser)
-* [メーラー](#mailer)
-* [コミュニケーション](#communication)
-* [Office](#office)
-* [その他](#others)
+{% comment %}
+** Contents **
+{:TOC}
+{% endcomment %}
 
----
-
-## <a id="desktop">デスクトップ表示</a>
+## デスクトップ表示
 ### GeekTool　&#9733;&#9733;&#9733;&#9733;
 <a href="http://click.linksynergy.com/fs-bin/stat?id=iYVkHjWpfxk&offerid=94348&type=3&subid=0&tmpid=2192&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fgeektool%252Fid456877552%253Fmt%253D12%2526uo%253D4%2526partnerId%253D30" target="_blank" rel="nofollow"><img width="75" class="alignleft" align="left" src="http://a3.mzstatic.com/us/r1000/101/Purple/05/02/3a/mzi.wldskqbn.75x75-65.png" style="border-radius: 11px 11px 11px 11px;-moz-border-radius: 11px 11px 11px 11px;-webkit-border-radius: 11px 11px 11px 11px;box-shadow: 1px 4px 6px 1px #999999;-moz-box-shadow: 1px 4px 6px 1px #999999;-webkit-box-shadow: 1px 4px 6px 1px #999999;margin: -5px 15px 1px 5px;"></a><div style="font-size:small;line-height:1.2;"><a href="http://click.linksynergy.com/fs-bin/stat?id=iYVkHjWpfxk&offerid=94348&type=3&subid=0&tmpid=2192&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fgeektool%252Fid456877552%253Fmt%253D12%2526uo%253D4%2526partnerId%253D30" target="_blank" rel="nofollow"<strong> GeekTool 3.0.3（無料）</strong></a><br> カテゴリ: ユーティリティ, 開発ツール<br> 販売元: <a href="http://click.linksynergy.com/fs-bin/stat?id=iYVkHjWpfxk&offerid=94348&type=3&subid=0&tmpid=2192&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Ftynsoe.org%252Fid284941671%253Fmt%253D12%2526uo%253D4%2526partnerId%253D30" target="_blank" rel="nofollow">Tynsoe.org - Yann Bizeul</a>（サイズ: 1.1 MB）</div><br style="clear: both;">
 
@@ -72,7 +57,7 @@ Mac用アプリ
 
 いずれこの辺りは詳しく。
 
-## <a id="menubar">メニューバー関連</a>
+## メニューバー関連
 
 ---
 ### MenuBarFilter &#9733;&#9733;&#9733;
@@ -141,7 +126,7 @@ Mac用アプリ
 {% img https://dl.dropbox.com/u/630732/Blog/MacApp/CurrentMenuBar.png %}
 <p><img src="https://dl.dropbox.com/u/630732/Blog/MacApp/CurrentMenuBar.png" width="100" height="100" alt="CurrentMenuBar"></p>
 
-## <a id="dock">Dock関連</a>
+## Dock関連
 
 ---
 ### Configure Application Dock Tile &#9733;&#9733;&#9733;&#9733;
@@ -161,7 +146,7 @@ Mac用アプリ
 
 * 同じくDockのカスタマイズアプリ。Dockの背景を消せます。
 
-## <a id="system">システム、設定</a>
+## システム、設定
 
 ---
 ### TinkerTool &#9733;&#9733;&#9733;&#9733;
@@ -225,7 +210,7 @@ Mac用アプリ
 * クリップボードの履歴を保持してくれます。スニペット機能もあります。
 * Windowsだと[CLCL](http://www.nakka.com/soft/clcl/index_eng.html)を使って同じような事が出来ます。
 
-## <a id="shortcut">キーボード、トラックパッド、マウス、ショートカット</a>
+## キーボード、トラックパッド、マウス、ショートカット
 
 ---
 ### BetterTouchTool &#9733;&#9733;&#9733;&#9733;&#9733;
@@ -286,7 +271,7 @@ Mac用アプリ
 * [Liteバージョン](http://menupoplite.mac.informer.com/)も無料である
 * 同じくBetterTouchToolがあるので不要に…
 
-## <a id="app_file">アプリ、ファイル操作</a>
+## アプリ、ファイル操作
 
 ---
 ### AppCleaner &#9733;&#9733;&#9733;&#9733;&#9733;
@@ -338,7 +323,7 @@ Mac用アプリ
 * たまにファイルが壊れかけててStuffIt Expanderで解凍に失敗した時、Zipegだとファイrの中身の一部を選んで取り出せる事があります。
 
 
-## <a id="terminal">ターミナル</a>
+## ターミナル
 
 ---
 ### iTerm2 &#9733;&#9733;&#9733;&#9733;&#9733;
@@ -353,7 +338,7 @@ Mac用アプリ
 * 昔なつかしのブラウン管っぽい画面でターミナルを開いてくれます。[作者のページ](http://www.secretgeometry.com/apps/cathode/)から直接ダウンロードすれば無料版が試せます
 * 無料のままだと画面がみずらくなったりしますが、取り敢えず面白いので無料版を入れて遊んで見る分には楽しいと思います。
 
-## <a id="editor">テキスト、エディタ</a>
+## テキスト、エディタ
 
 ---
 ### macvim-kaoriya &#9733;&#9733;&#9733;&#9733;
@@ -381,7 +366,7 @@ Mac用アプリ
 
 * TeXで作った数式とかを簡単にファイルに出力出来ます。Power Pointのお供とかに。
 
-## <a id="file_transfer">ファイル転送</a>
+## ファイル転送
 
 ---
 ### FileZilla &#9733;&#9733;&#9733;&#9733;&#9733;
@@ -408,7 +393,7 @@ Mac用アプリ
 * ただ、毎回サーバー側のファイルを開こうとすると、新しくダウンロードして開いてくれるので
 単に開きたいだけならCyberduckの方が便利。
 
-## <a id="cloud">クラウド、ファイル共有、ノート</a>
+## クラウド、ファイル共有、ノート
 
 ---
 ### Dropbox &#9733;&#9733;&#9733;&#9733;&#9733;
@@ -498,7 +483,7 @@ Mac用アプリ
 * ブラウザのブックマークレットから簡単に保存しておけるので、一時的なブックマーク的に使っています。
 * デスクトップクライアントを使うと溜めた記事をダウンロードできるのでオフラインで読める様になります。
 
-## <a id="picture">写真、画像編集、動画</a>
+## 写真、画像編集、動画
 
 ---
 ### Picasa &#9733;&#9733;&#9733;
@@ -540,7 +525,7 @@ Mac用アプリ
 * jpgの画像サイズはそのままの状態でファイルサイズを縮小します。Lite版もありますが、
 　そちらだとだと一日20枚まで。
 
-## <a id="network">ネットワーク</a>
+## ネットワーク
 
 ---
 ### LogMeIn &#9733;&#9733;&#9733;
@@ -559,7 +544,7 @@ Mac用アプリ
 * Windows, Linuxでも使えます。
 * クリップボードも共有できるので色々と便利です。
 
-## <a id="browser">ブラウザ</a>
+## ブラウザ
 
 ---
 ### Firefox &#9733;&#9733;&#9733;&#9733;&#9733;
@@ -583,7 +568,7 @@ Mac用アプリ
   * iPhone用のXmarksは有料なので…
 * iPhoneでChoromを使って、google同期で、ということともやってみましたが、この場合、Mac側のChromeでXmarksを有効にしていると、Xmarksの同期とgoogle同期がかち合ってブックマークが悲惨な事になってしまいました…(firefoxのsyncとかも同時に使うべきではないですね…)
 
-## <a id="mailer">メーラー</a>
+## メーラー
 
 ---
 ### Mail.app &#9733;&#9733;&#9733;&#9733;&#9733;
@@ -607,7 +592,7 @@ Mac用アプリ
 * 一方Windowsでは相変わらずThunderbirdを使ってます(フィルタをローカルで使わなくなった分大分軽くなりました)。
 
 
-## <a id="communication">コミュニケーション</a>
+## コミュニケーション
 
 ---
 ### Skype &#9733;&#9733;&#9733;&#9733;&#9733;
@@ -621,7 +606,7 @@ Mac用アプリ
 
 * Skypeを録音してEvernoteに保存（Evernoteにリンクさせていないとエラーっぽいのが出ますが、ローカルだけにも保存出来る）
 
-## <a id="office">Office関連</a>
+## Office関連
 
 ---
 ###  Adobe関連 &#9733;&#9733;&#9733;&#9733;
@@ -650,7 +635,7 @@ Mac用アプリ
 * Open Officeのプレゼンテーションだと埋め込んだハイパーリンクが正しく反映されてクリック出来るようになるので一時期本気で乗り換えようかと思いました
   * ただパワーポイントとの互換性がまだ弱いので留まってます。
 
-## <a id="others">その他</a>
+## その他
 
 ---
 ### GitHub &#9733;&#9733;
