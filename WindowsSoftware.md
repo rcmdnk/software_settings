@@ -6,7 +6,7 @@
 ([GitHubのレポジトリ](https://github.com/rcmdnk/software_settings/blob/master/WindowsSoftware.md))
 に直接Markdownで入れてある物も見れるようにしてます。
 
-
+{% comment %}
 * [ソフトウェア一括インストール](#software_install)
 * [デスクトップ関連](#desktop)
 * [タスクバー関連、タスクバー常駐ソフト](#taskbar)
@@ -23,14 +23,15 @@
 * [コミュニケーション](#communication)
 * [Office](#office)
 * [その他](#others)
+{% endcomment %}
 
 ---
 
-## <a id="software_install">ソフトウェア一括インストール</a>
+## ソフトウェア一括インストール
 [Ninite](https://ninite.com/)や[Allmyapps](http://allmyapps.com/)と言った
 一括ダウンロード補助サイト/ソフトがあります。
 
-## <a id="desktop">デスクトップ関連</a>
+## デスクトップ関連
 
 ---
 ### Rainmeter &#9733;
@@ -47,7 +48,7 @@
 * 色々な物がありますが、これに落ち着きました。（でも実際には同じ画面CTRL-Tabで切り替えがしたいので、取り敢えず起動してても余り使ってないです。)
 * [日本語版](http://hammm.blog21.fc2.com/blog-entry-69.html)もあります。
 
-## <a id="taskbar">タスクバー関連、タスクバー常駐ソフト</a>
+## タスクバー関連、タスクバー常駐ソフト
 
 ---
 ### TClock Light &#9733;
@@ -62,7 +63,7 @@
 * インターネット上のサーバーを確認して時刻を合わせてくれるソフトです。
 * 普通はWndowsの自動調整で十分だと思いますが、Windowsの自動時刻調整が上手く効かなくなったマシンがあるので、これで強制的に直しています…
 
-## <a id="launcher">ランチャー</a>
+## ランチャー
 
 ---
 ### Magic Formation　&#9733;&#9733;&#9733;&#9733;&#9733;
@@ -81,7 +82,7 @@
 * ただ、自分の環境だとかなり不安定で直ぐに落ちるので使えてません…
 
 
-## <a id="system">システム、設定</a>
+## システム、設定
 
 ---
 ### Avast &#9733;&#9733;&#9733;&#9733;&#9733;
@@ -238,7 +239,7 @@
 * タスクトレイに常駐して一定期間毎にバックアップしたり、Windowsのタスクとして登録して指定時間に実行させる事も出来ます。
 * 外付けハードディスク等、ドライブ名が変わる可能性があるものでも毎回指定し直さなくても使えるように設定出来ます。
 
-## <a id="terminal">ターミナル、Unix環境</a>
+## ターミナル、Unix環境
 ---
 ### cygwin &#9733;&#9733;&#9733;&#9733;&#9733;
 [<p><img src="https://dl.dropbox.com/u/630732/Blog/WinApp/cygwin.png" width="100" height="100" alt="cygwin"></p>](http://www.cygwin.com/)
@@ -259,7 +260,7 @@
 * SSHクライアント。
 * Cygwin内のターミナル達はどうしても立ち上がるのが遅いので、他のコンピューターに繋ぎたいときはPuttyを使います。
 
-## <a id="editor">テキスト、エディタ</a>
+## テキスト、エディタ
 
 ---
 ### vim73 (vim73-aio, UTF-8 日本語版) &#9733;&#9733;&#9733;&#9733;&#9733;
@@ -294,7 +295,7 @@ Latexで書いてる文章を最後に校正したい時に使うことがあり
 
 
 
-## <a id="file_transfer">ファイル転送</a>
+## ファイル転送
 ---
 ### WinSCP &#9733;&#9733;&#9733;&#9733;&#9733;
 [<p><img src="https://dl.dropbox.com/u/630732/Blog/WinApp/WinSCP.png" width="100" height="100" alt="WinSCP"></p>](http://winscp.net/eng/docs/lang:jp)
@@ -311,7 +312,7 @@ Latexで書いてる文章を最後に校正したい時に使うことがあり
 * FTP,FTPS,SFTP,SCPクライアント。
 * Windowsではcygwinサーバーへの接続用です。
 
-## <a id="cloud">クラウド、ファイル共有、ノート</a>
+## クラウド、ファイル共有、ノート
 ---
 ### Dropbox &#9733;&#9733;&#9733;&#9733;&#9733;
 [<p><img src="https://dl.dropbox.com/u/630732/Blog/WinApp/Dropbox.png" width="100" height="100" alt="Dropbox"></p>](https://www.dropbox.com/)
@@ -376,7 +377,7 @@ Latexで書いてる文章を最後に校正したい時に使うことがあり
 
 * 直接クラウドサービスがあるわけではないですが、Subversion (SVN) クライアント。
 
-## <a id="picture">写真、画像編集、動画</a>
+## 写真、画像編集、動画
 
 ---
 ### CorelDraw  &#9733;&#9733;&#9733;&#9733;
@@ -439,7 +440,7 @@ Latexで書いてる文章を最後に校正したい時に使うことがあり
 
 * こちらも大概のする種類の動画や音楽が再生出来るプレーヤー。
 
-## <a id="network">ネットワーク</a>
+## ネットワーク
 
 ---
 ### Dns jumper &#9733;&#9733;
@@ -509,7 +510,7 @@ No-IP専用ソフト。
 * Windows, Linuxでも使えます。
 * クリップボードも共有できるので色々と便利です。
 
-## <a id="browser">ブラウザ</a>
+## ブラウザ
 ---
 ### Firefox &#9733;&#9733;&#9733;&#9733;&#9733;
 [<p><img src="https://dl.dropbox.com/u/630732/Blog/WinApp/Firefox.png" width="100" height="100" alt="Firefox"></p>](http://www.mozilla.jp/firefox/)
@@ -531,7 +532,7 @@ No-IP専用ソフト。
 * Safari同様IE自体は殆ど使いませんが、iCluoudをインストールして、iCloud経由でブックマークをiPhoneと同期できるのがIEだけなので、Macを使ってないときにはこれで同期します。
 
 
-## <a id="mailer">メーラー</a>
+## メーラー
 
 ---
 ###Thunderbird &#9733;&#9733;&#9733;&#9733;&#9733;
@@ -541,7 +542,7 @@ No-IP専用ソフト。
 * [Mutter](http://www.vimperator.org/muttator)をvimperator同様に使いたいと思って何度か試して見ましたが、どうしても使い勝手が良くなりませんでした。
 * その代わりに外部エディタを開けるアドオンを入れてvimで開いて編集したりします。
 
-## <a id="communication">コミュニケーション</a>
+## コミュニケーション
 ---
 ### Skype &#9733;&#9733;&#9733;&#9733;&#9733;
 [<p><img src="https://dl.dropbox.com/u/630732/Blog/WinApp/Skype.png" width="100" height="100" alt="Skype"></p>](http://www.skype.com/ja/download-skype/skype-for-computer/)
@@ -554,7 +555,7 @@ No-IP専用ソフト。
 
 * Skypeを録音してEvernoteに保存（Evernoteにリンクさせていないとエラーっぽいのが出ますが、ローカルだけにも保存出来る）
 
-## <a id="office">Office</a>
+## Office
 
 ---
 ###  Microsoft Office &#9733;&#9733;&#9733;&#9733;&#9733;
@@ -575,7 +576,7 @@ No-IP専用ソフト。
 * 無料のOffice。
 * まだMicrosoft Officeとの互換性が完璧ではないですが、自分だけで使う使う分には十分です。
 
-## <a id="others">その他</a>
+## その他
 
 ---
 ### BlueStacks &#9733;
