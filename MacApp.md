@@ -12,10 +12,8 @@ Mac用アプリ
 に直接Markdownで入れてある物も見れるようにしてます。
 
 
-{% comment %}
-** Contents **
+<h2>Contents</h2>
 {:TOC}
-{% endcomment %}
 
 ## デスクトップ表示
 ### GeekTool　&#9733;&#9733;&#9733;&#9733;
