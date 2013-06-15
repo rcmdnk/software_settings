@@ -147,6 +147,9 @@
   keyhacは使ったことないですが、pythonベースなので分かりやすいかな、
   とちょっと興味あり。
 
+  他にも<a href="http://www.softantenna.com/5.html#8">ここに</a>ある様に
+  まだまだ色々な物があるみたいです。
+
 * 上記の物は設定ファイルの書き方を覚えるのがちょっと大変ですが、GUIで出来るものとして
   * [KeySwap](http://www.asahi-net.or.jp/~ee7k-nsd/)
   * [Keyboard Butler ～鍵盤の執事くん～](http://www.asahi-net.or.jp/~ee7k-nsd/)
