@@ -208,6 +208,10 @@ Mac用アプリ
 * クリップボードの履歴を保持してくれます。スニペット機能もあります。
 * Windowsだと[CLCL](http://www.nakka.com/soft/clcl/index_eng.html)を使って同じような事が出来ます。
 
+* [KopyPasta](https://itunes.apple.com/jp/app/kopypasta/id463243494?mt=12)
+という似たようなアプリもあります(ただショートカットで呼び出せない?のが致命的で
+スニペット機能なども含めてClipMenuの方が圧倒的に便利。重さはそもそも気にならない。)
+
 ## キーボード、トラックパッド、マウス、ショートカット
 
 ---
