@@ -31,7 +31,7 @@
 ---
 
 ## ソフトウェア一括インストール
-[Ninite](https://ninite.com/)や[Allmyapps](http://allmyapps.com/)と言った
+[Chocolatey](http://chocolatey.org/)、[Ninite](https://ninite.com/)や[Allmyapps](http://allmyapps.com/)と言った
 一括ダウンロード補助サイト/ソフトがあります。
 
 ## デスクトップ関連
