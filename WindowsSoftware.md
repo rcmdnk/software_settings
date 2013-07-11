@@ -28,7 +28,7 @@
 {:TOC}
 
 
----
+- - -
 
 ## ソフトウェア一括インストール
 [Chocolatey](http://chocolatey.org/)、[Ninite](https://ninite.com/)や[Allmyapps](http://allmyapps.com/)と言った
@@ -36,14 +36,14 @@
 
 ## デスクトップ関連
 
----
+- - -
 ### Rainmeter &#9733;
 [<p><img src="http://rcmdnk.github.io/images/WinApp/Rainmeter.png" width="100" height="100" alt="Rainmeter"></p>](http://rainmeter.net/cms/)
 
 * デスクトップカスタマイズ。
 * いまいち思い通りに使いこなせないまま、結局使えず仕舞いで未だにサイドバーを使ったりしています。
 
----
+- - -
 ### Virtual Dimension &#9733;&#9733;&#9733;
 [<p><img src="http://rcmdnk.github.io/images/WinApp/VirtualDimension.png" width="100" height="100" alt="Virtual Dimension"></p>](http://virt-dimension.sourceforge.net/)
 
@@ -53,13 +53,13 @@
 
 ## タスクバー関連、タスクバー常駐ソフト
 
----
+- - -
 ### TClock Light &#9733;
 [<p><img src="http://rcmdnk.github.io/images/WinApp/TClockLight.png" width="100" height="100" alt="TClock Light"></p>](http://homepage1.nifty.com/kazubon/tclocklight/index.html)
 
 * タスクバーを色々いじれるソフト。
 
----
+- - -
 ### 桜時計 &#9733;&#9733;&#9733;&#9733;
 [<p><img src="http://rcmdnk.github.io/images/WinApp/SakuraDokei.png" width="100" height="100" alt="桜時計"></p>](http://www.venus.dti.ne.jp/~uno/software/index.html)
 
@@ -68,7 +68,7 @@
 
 ## ランチャー
 
----
+- - -
 ### Magic Formation　&#9733;&#9733;&#9733;&#9733;&#9733;
 [<p><img src="http://rcmdnk.github.io/images/WinApp/MagicFormation.png" width="100" height="100" alt="Magic Formation"></p>](http://www.vector.co.jp/soft/dl/winnt/util/se387155.html)
 
@@ -77,7 +77,7 @@
 * 長いことメインのランチャーとして使っています。
 * ただ、今確認した所、[本家のホームページ](http://tokyodownstairs.blogspot.fr/2008/03/magic-formation.html)が無くなってる？（Magic Formationのページがリンク切れになってます…）
 
----
+- - -
 ### Launchy &#9733;
 [<p><img src="http://rcmdnk.github.io/images/WinApp/Launchy.png" width="100" height="100" alt="Launchy"></p>](http://www.launchy.net/)
 
@@ -87,37 +87,37 @@
 
 ## システム、設定
 
----
+- - -
 ### Avast &#9733;&#9733;&#9733;&#9733;&#9733;
 [<p><img src="http://rcmdnk.github.io/images/WinApp/Avast.png" width="100" height="100" alt="Avast"></p>](http://www.avast.co.jp/index)
 
 * ウイルス対策ソフト。
 * ウイルス対策としてはAvastとWindows Defenderを使っています。
 
----
+- - -
 ### CCleaner &#9733;&#9733;&#9733;
 [<p><img src="http://rcmdnk.github.io/images/WinApp/CCleaner.png" width="100" height="100" alt="CCleaner"></p>](http://www.piriform.com/ccleaner)
 
 * 色々なソフトのキャッシュを消したり、レジストリを掃除出来るお掃除ソフト。
 
----
+- - -
 ### Google日本語入力 &#9733;&#9733;&#9733;&#9733;&#9733;
 [<p><img src="http://rcmdnk.github.io/images/WinApp/GoogleIME.png" width="100" height="100" alt="Google日本語入力"></p>](http://www.google.co.jp/ime/)
 * 言わずと知れた。取り敢えずMS IMEの代わりに。
 
----
+- - -
 ### いじくるつくーる &#9733;&#9733;&#9733;
 [<p><img src="http://rcmdnk.github.io/images/WinApp/IzikuruTukuru.png" width="100" height="100" alt="いじくるつくーる"></p>](http://www.inasoft.org/rnsf7.html)
 
 * 色々な設定が簡単に変えられる。
 
----
+- - -
 ###窓の手 &#9733;&#9733;&#9733;
 [<p><img src="http://rcmdnk.github.io/images/WinApp/Madonote.png" width="100" height="100" alt="の手"></p>](http://www.asahi-net.or.jp/~vr4m-ikw/)
 
 * 同じく色々な設定が簡単に変えられる。
 
----
+- - -
 <a name="CLCL"></a>
 ### CLCL &#9733;&#9733;&#9733;&#9733;&#9733;
 [<p><img src="http://rcmdnk.github.io/images/WinApp/CLCL.png" width="100" height="100" alt="CLCL"></p>](http://www.nakka.com/soft/clcl/)
@@ -125,7 +125,7 @@
 * クリップボードの履歴を保持して後で呼び出せます。スニペット機能もあります。
 * MacのClipMenuもそうですが、クリップボードの履歴がないともうやってられません。
 
----
+- - -
 ### Yet Another Mado tsukai no Yuutsu (yamy)　&#9733;&#9733;&#9733;&#9733;&#9733;
 [<p><img src="http://rcmdnk.github.io/images/WinApp/yamy.png" width="100" height="100" alt="Yet Another Mado tsukai no Yuutsu (yamy)"></p>](http://sourceforge.jp/projects/yamy/)
 
@@ -160,28 +160,36 @@
   作る事も可能です
   ([プログラムを素早く起動する方法（ショートカット・キーを設定する）](http://www.atmarkit.co.jp/fwin2k/win2ktips/150use_shortcut/use_shortcut.html))
 
----
+- - -
 ### Revo Uninstaller　&#9733;&#9733;&#9733;
 [<p><img src="http://rcmdnk.github.io/images/WinApp/RevoUninstaller.png" width="100" height="100" alt="Revo Uninstaller"></p>](http://www.revouninstaller.com/revo_uninstaller_free_download.html)
 
 * 強力なアンインストーラー。使われていたレジストリーキーの検索もしてくれる。
 
----
+- - -
 ### CrystalDiskMark &#9733;&#9733;
 [<p><img src="http://rcmdnk.github.io/images/WinApp/CrystalDiskMark.png" width="100" height="100" alt="CrystalDiskMark"></p>](http://crystalmark.info/software/CrystalDiskMark/)
 
 * ディスクの読み書き速度を測定できるベンチマークソフトです。
 
----
+- - -
 ### Gavotte Ramdisk &#9733;&#9733;&#9733;
 [<p><img src="http://rcmdnk.github.io/images/WinApp/GavotteRamdisk.png" width="100" height="100" alt="Gavotte Ramdisk"></p>](http://www10.atwiki.jp/gavotterd/)
 
 * 余ったメモリ領域をRamdiskにすることが出来るソフト。
 * 32bit OSなのに4GBのメモリを積んでる時などに(なので今はもう余り需要は無いかもしれませんが…)
 
+- - -
+### AOMEI Partition Assistant Standard &#9733;&#9733;
+[<p><img src="http://rcmdnk.github.io/images/WinApp/omeipartition.png" width="100" height="100" alt="AOMEI Partition Assistant Standard"></p>](http://www.disk-partition.com/free-partition-manager.html?spu=null&ref=http://www.forest.impress.co.jp/docs/review/20130123_584579.html&furl=http://www.aomeitech.com/)
+
+* パーティッションの拡張、分割、結合に加え、
+ドライブやパーティッションのコピー、復元、削除等も出来る
+高機能なパーティッションユーティリティソフト。
+
 ##ファイル操作
 
----
+- - -
 ### Link Shell Extension &#9733;&#9733;&#9733;&#9733;
 [<p><img src="http://rcmdnk.github.io/images/WinApp/LinkShellExtension.png" width="100" height="100" alt="Link Shell Extension"></p>](http://schinagl.priv.at/nt/hardlinkshellext/hardlinkshellext.html)
 
@@ -192,38 +200,38 @@
 * [Link Creation Shell Extension](http://sourceforge.jp/projects/sfnet_lnhdr/)という、ほぼ同じ機能を持つツールもあります。
   * Link Shell Extensionと同じような機能。どちらでも好きな方を、両方入れても問題ないです。
 
----
+- - -
 ### Lhaplus &#9733;&#9733;&#9733;&#9733;&#9733;
 [<p><img src="http://rcmdnk.github.io/images/WinApp/Lhaplus.png" width="100" height="100" alt="Lhaplus"></p>](http://www7a.biglobe.ne.jp/~schezo/)
 
 * メインに使っている解凍ソフト。
 
----
+- - -
 ### 7-Zip &#9733;&#9733;&#9733;
 [<p><img src="http://rcmdnk.github.io/images/WinApp/7zip.png" width="100" height="100" alt="7-Zip"></p>](http://sevenzip.sourceforge.jp/)
 
 * 解凍ソフト。Lhaplusで解凍できない種類がある場合に使います。
 
----
+- - -
 ### AllDup &#9733;&#9733;&#9733;
 [<p><img src="http://rcmdnk.github.io/images/WinApp/AllDup.png" width="100" height="100" alt="AllDup"></p>](http://www.alldup.de/en_alldup.htm)
 
 * 重複ファイルの削除ソフト。
 
----
+- - -
 ### EaseUS Data Recovery Wizard Free &#9733;&#9733;
 [<p><img src="http://rcmdnk.github.io/images/WinApp/EaseUSDataRecoveryWizardFree.png" width="100" height="100" alt="EaseUS Data Recovery Wizard Free"></p>](http://www.easeus.com/datarecoverywizard/free-data-recovery-software.htm)
 
 * ファイル復元ソフト。
 * Free版は機能は制限なく使えますが、累積で1GBまでと言う制限があります。
 
----
+- - -
 ### Zar &#9733;&#9733;
 [<p><img src="http://rcmdnk.github.io/images/WinApp/Zar.png" width="100" height="100" alt="Zar"></p>](http://www.z-a-recovery.com/download.htm)
 
 * 画像専用の消してしまったファイルの復旧ソフト。
 
----
+- - -
 ### DiskDigger &#9733;&#9733;
 [<p><img src="http://rcmdnk.github.io/images/WinApp/DiskDigger.png" width="100" height="100" alt="DiskDigger"></p>](http://diskdigger.org/)
 
@@ -231,13 +239,13 @@
 * Windows版だとLicense keyを要求されますが、基本的には無料で利用できます。
   * Licenseを入れないと１枚ずつしか復元できなかったり少し面倒です。
 
----
+- - -
 ### Belvedre &#9733;&#9733;&#9733;&#9733;
 [<p><img src="http://rcmdnk.github.io/images/WinApp/Belvedre.png" width="100" height="100" alt="Belvedre"></p>](http://www.lifehacker.jp/2010/04/post_1454.html)
 
 * 自動ファイル操作ソフト。一定以上変更されてないファイルを消したりすることが出来ます。
 
----
+- - -
 ### BunBackup &#9733;&#9733;&#9733;&#9733;
 [<p><img src="http://rcmdnk.github.io/images/WinApp/BunBackup.png" width="100" height="100" alt="BunBackup"></p>](http://homepage3.nifty.com/nagatsuki/bunbackup/icon/gwoing/gwoing.htm)
 
@@ -246,20 +254,20 @@
 * 外付けハードディスク等、ドライブ名が変わる可能性があるものでも毎回指定し直さなくても使えるように設定出来ます。
 
 ## ターミナル、Unix環境
----
+- - -
 ### cygwin &#9733;&#9733;&#9733;&#9733;&#9733;
 [<p><img src="http://rcmdnk.github.io/images/WinApp/cygwin.png" width="100" height="100" alt="cygwin"></p>](http://www.cygwin.com/)
 
 * Windows上でUnixの様な環境を作れる。
 
----
+- - -
 ### Xming &#9733;&#9733;&#9733;&#9733;
 [<p><img src="http://rcmdnk.github.io/images/WinApp/Xming.png" width="100" height="100" alt="Xming"></p>](http://sourceforge.jp/projects/sfnet_xming/releases/)
 
 * Xサーバー。
 * cygwinのXが不安定だったりして駄目な時はためしてみると良いかもしれません([詳しい設定の説明のあるサイト](http://www.kkaneko.com/rinkou/cygwin/xming.html))。
 
----
+- - -
 ### PuTTY &#9733;&#9733;&#9733;&#9733;&#9733;
 [<p><img src="http://rcmdnk.github.io/images/WinApp/PuTTY.png" width="100" height="100" alt="PuTTY"></p>](http://www.chiark.greenend.org.uk/~sgtatham/putty/)
 
@@ -268,14 +276,14 @@
 
 ## テキスト、エディタ
 
----
+- - -
 ### vim73 (vim73-aio, UTF-8 日本語版) &#9733;&#9733;&#9733;&#9733;&#9733;
 [<p><img src="http://rcmdnk.github.io/images/WinApp/vim.png" width="100" height="100" alt="vim73 (vim73-aio, UTF-8 日本語版)"></p>](https://sites.google.com/site/fudist/Home/vim-nihongo-ban)
 
 * [本家](http://www.vim.org/)のWindows用vimを日本語周りを便利にしたもの。
 * [Kaoriya(香り屋)版](http://www.kaoriya.net/)というのもあります。(Mac用にも移植されれたものがあります。)
 
----
+- - -
 ### Markdown#Editor &#9733;&#9733;
 [<p><img src="http://rcmdnk.github.io/images/WinApp/MarkdownEditor.png" width="100" height="100" alt="Markdown#Editor"></p>](http://hibara.org/software/markdownsharpeditor/)
 
@@ -283,7 +291,7 @@
 * MacのMouとかに比べるとややもっさりしてる気がします。
 * ので、webにある[Joncom](http://joncom.be/experiments/markdown-editor/edit/)や[Github Preview](http://github-preview.herokuapp.com/)といったもので十分かもしれません。
 
----
+- - -
 ### latex2rtf &#9733;&#9733;&#9733;&#9733;
 [<p><img src="http://rcmdnk.github.io/images/WinApp/latex2rtf.png" width="100" height="100" alt="latex2rtf"></p>](http://latex2rtf.sourceforge.net/)
 
@@ -302,7 +310,7 @@ Latexで書いてる文章を最後に校正したい時に使うことがあり
 
 
 ## ファイル転送
----
+- - -
 ### WinSCP &#9733;&#9733;&#9733;&#9733;&#9733;
 [<p><img src="http://rcmdnk.github.io/images/WinApp/WinSCP.png" width="100" height="100" alt="WinSCP"></p>](http://winscp.net/eng/docs/lang:jp)
 
@@ -311,7 +319,7 @@ Latexで書いてる文章を最後に校正したい時に使うことがあり
 * サーバー側をダブルクリックで直接開くように(ブラウザから直接開くようにテンポラリーフォルダにダウンロードして開く)することがSCPではできますが、FileZillaでは出きません。(Mac版FileZillaだとできます。)
 * ただ、cygwinで立てたsshサーバーに接続した時、WinSCPだと文字コードの関係で上手く操作出来なかったので、そんな時はFileZillaを使います。
 
----
+- - -
 ### FileZilla &#9733;&#9733;&#9733;&#9733;
 [<p><img src="http://rcmdnk.github.io/images/WinApp/FileZilla.png" width="100" height="100" alt="FileZilla"></p>]("http://filezilla-project.org/")
 
@@ -319,7 +327,7 @@ Latexで書いてる文章を最後に校正したい時に使うことがあり
 * Windowsではcygwinサーバーへの接続用です。
 
 ## クラウド、ファイル共有、ノート
----
+- - -
 ### Dropbox &#9733;&#9733;&#9733;&#9733;&#9733;
 [<p><img src="http://rcmdnk.github.io/images/WinApp/Dropbox.png" width="100" height="100" alt="Dropbox"></p>](https://www.dropbox.com/)
 
@@ -328,7 +336,7 @@ Latexで書いてる文章を最後に校正したい時に使うことがあり
 * 無料だと最初は2GBですが、友達紹介やキャンペーンなんかで20GB以上になったので、
 普段使うようなドキュメントや設定ファイルなんかは全て入れてあります。(~10GB程使ってます。)
 
----
+- - -
 ### AeroFS &#9733;&#9733;&#9733;
 [<p><img src="http://rcmdnk.github.io/images/WinApp/AeroFS.png" width="100" height="100" alt="AeroFS"></p>](https://www.aerofs.com/)
 
@@ -337,13 +345,13 @@ Latexで書いてる文章を最後に校正したい時に使うことがあり
 * 余り人のサーバーに置いておきたくないファイルとかを共有するのにも使えます。
 * まだベータ版なので、今後の改良に期待です。
 
----
+- - -
 ### KDrive &#9733;&#9733;
 [<p><img src="http://rcmdnk.github.io/images/WinApp/KDrive.png" width="100" height="100" alt="KDrive"></p>](https://www.kdrive.jp/static/index.html)
 
 * 写真のバックアップ用。
 
----
+- - -
 ### iCloud &#9733;&#9733;
 [<p><img src="http://rcmdnk.github.io/images/WinApp/iCloud.png" width="100" height="100" alt="iCloud"></p>](http://www.apple.com/jp/icloud/setup/pc.html)
 
@@ -353,7 +361,7 @@ Latexで書いてる文章を最後に校正したい時に使うことがあり
 
 その他のクラウドストレージは[Macの所で](http://rcmdnk.hatenablog.com/entry/2013/03/03/060650)。
 
----
+- - -
 ### EverNote &#9733;&#9733;&#9733;&#9733;&#9733;
 [<p><img src="http://rcmdnk.github.io/images/WinApp/Evernote.png" width="100" height="100" alt="EverNote"></p>](http://evernote.com/intl/jp/)
 
@@ -362,14 +370,14 @@ Latexで書いてる文章を最後に校正したい時に使うことがあり
 * それから取り敢えずwebで気になった物も簡単にクリップできるので只管入れたりもしてます。
   * そして後にオフラインで無い限り何も考えずに同じ情報をgoogleで検索して見ると言う意味ないことも…
 
----
+- - -
 ### ResophNotes
 [<p><img src="http://rcmdnk.github.io/images/WinApp/ResophNotes.png" width="100" height="100" alt="ResophNotes"></p>](http://www.resoph.com/ResophNotes/Welcome.html)
 
 * シンプルノートのwindowsクライアント。
 * [Macの所](http://rcmdnk.hatenablog.com/entry/2013/03/03/060650)で書いたように、今は使ってません。
 
----
+- - -
 ### GitHub &#9733;&#9733;&#9733;
 [<p><img src="http://rcmdnk.github.io/images/WinApp/GitHub.png" width="100" height="100" alt="GitHub"></p>](http://windows.github.com/)
 
@@ -377,7 +385,7 @@ Latexで書いてる文章を最後に校正したい時に使うことがあり
 * Cygwinでもgitを入れられますが、Macよりもターミナルを立ち上げるのが面倒なのでより使う機会があります。
 * 私のレポジトリは[ここ](https://github.com/rcmdnk)です。
 
----
+- - -
 ### TortoiseSVN &#9733;&#9733;
 [<p><img src="http://rcmdnk.github.io/images/WinApp/TortoiseSVN.png" width="100" height="100" alt="TortoiseSVN"></p>](http://sourceforge.jp/projects/tortoisesvn/)
 
@@ -385,7 +393,7 @@ Latexで書いてる文章を最後に校正したい時に使うことがあり
 
 ## 写真、画像編集、動画
 
----
+- - -
 ### CorelDraw  &#9733;&#9733;&#9733;&#9733;
 [<p><img src="http://rcmdnk.github.io/images/WinApp/CorelDraw.png" width="100" height="100" alt="CorelDraw "></p>](http://corel.e-frontier.co.jp/products/illustrator/graphics/CorelDRAWGraphicsSuiteX6/buy.html)
 
@@ -393,13 +401,13 @@ Latexで書いてる文章を最後に校正したい時に使うことがあり
 * Power Pointにeps画像を貼り付けるのに、これで開いてから選択してPower Pointにドラッグして貼り付ける、と言う方法が一番上手くvector画像として貼り付けられます。
   * Illustratorでも同じ様な事が出来るのですが、色合いとか、CorelDrawのが良い感じになります。(設定とかで買えられるのかもしれませんが…)
 
----
+- - -
 ### Gimp &#9733;&#9733;&#9733;
 [<p><img src="http://rcmdnk.github.io/images/WinApp/Gimp.png" width="100" height="100" alt="Gimp"></p>](http://www.gimp.org/)
 
 * 画像処理ソフト。MacにもLinuxにも対応していて、取り敢えず頑張ればひと通りの事は出来ると思います。
 
----
+- - -
 ### Picasa &#9733;&#9733;&#9733;
 [<p><img src="http://rcmdnk.github.io/images/WinApp/Picasa.png" width="100" height="100" alt="Picasa"></p>](http://picasa.google.co.jp/intl/ja/)
 
@@ -407,40 +415,46 @@ Latexで書いてる文章を最後に校正したい時に使うことがあり
 * サーバに保存するには容量制限がありますが、2048x2048サイズにしてアップロードするとカウントされずに上限なしでアップロードできるのでバックアップがてら片っ端からアップロードしています。
 * ただし、ひと月当たりのアップロード上限が10GBらしいので、最初にアップロードするときには数ヶ月に分ける必要があるかもしれません。
 
----
-### PWATOOL &#9733;&#9733;&#9733; 
+- - -
+### PWATOOL &#9733;&#9733;&#9733;
 [<p><img src="](http://getpocket.com/a/read/100081978)
 
 * Picasaのウェブアルバムを簡単に整理できるソフト
 
----
+- - -
 ### Tintii &#9733;&#9733;
 [<p><img src="http://rcmdnk.github.io/images/WinApp/Tintii.png" width="100" height="100" alt="Tintii"></p>](http://www.indii.org/software/tintii)
 
 * 画像編集ソフト。一部の色を残して残りをモノクロにする所謂カラーホッピングが簡単に出来ます。
 * Photoshopとかのプラグインとして使う場合には有料ですが、これだけで使う限りは無料です。
 
----
+- - -
 ### MINI+TUNE &#9733;&#9733;
 [<p><img src="http://rcmdnk.github.io/images/WinApp/MINITUNE.png" width="100" height="100" alt="MINI+TUNE"></p>](http://www.01256.net/tools/tune_sample/)
 
 * 写真をミニチュア風に改造できるツール。
 * ブルドックがミニチュア風になると…？
 
----
+- - -
 ### 縮小専用 &#9733;&#9733;&#9733;
 [<p><img src="http://rcmdnk.github.io/images/WinApp/Shukusen.png" width="100" height="100" alt="縮小専用"></p>](http://i-section.net/software/shukusen/)
 
 * 画像を簡単に縮小出来ます。
 * Windowsで昔から携帯向けに写真を送る時とかに良く使ってました。
 
----
+- - -
+### Caesium &#9733;
+[<p><img src="http://rcmdnk.github.io/images/WinApp/caesium.jpg" width="100" height="100" alt="Caesium"></p>](http://caesium.sourceforge.net/)
+
+* 様々な種類の画像ファイルを軽量化するソフト。
+
+- - -
 ### Media Player Classic (K-Lite Codec Pack)  &#9733;&#9733;&#9733;
 [<p><img src="http://rcmdnk.github.io/images/WinApp/MediaPlayerClassic.png" width="100" height="100" alt="Media Player Classic (K-Lite Codec Pack) "></p>](http://codecguide.com/download_kl.htm)
 
 * 色々な種類のビデオの再生が出来る。
 
----
+- - -
 ### VLC &#9733;&#9733;&#9733;
 [<p><img src="http://rcmdnk.github.io/images/WinApp/VLC.png" width="100" height="100" alt="VLC"></p>](http://www.videolan.org/vlc/releases/2.0.2.html)
 
@@ -448,14 +462,14 @@ Latexで書いてる文章を最後に校正したい時に使うことがあり
 
 ## ネットワーク
 
----
+- - -
 ### Dns jumper &#9733;&#9733;
 [<p><img src="http://rcmdnk.github.io/images/WinApp/Dnsjumper.png" width="100" height="100" alt="Dns jumper"></p>](http://www.sordum.org/4573/dns-jumper-v1-0-4/)
 
 * DNSを簡単に変更出来るソフト。
 * 最速のDNSを調査することもできます。
 
----
+- - -
 ### PEkahau HeatMapper - The Free Wi-Fi Coverage Mapping Site Survey Tool &#9733;&#9733;&#9733;
 [<p><img src="http://rcmdnk.github.io/images/WinApp/PEkahauHeatMapper.png" width="100" height="100" alt="PEkahau HeatMapper - The Free Wi-Fi Coverage Mapping Site Survey Tool"></p>](http://www.ekahau.com/products/heatmapper/overview.html)
 
@@ -463,7 +477,7 @@ Latexで書いてる文章を最後に校正したい時に使うことがあり
 * このソフトを立ち上げて部屋の中を歩きまわると無線LANの強度マップが作れます。
 * 取り敢えずマップを作ってみるだけでも楽しいです。
 
----
+- - -
 ### MetaVNC &#9733;&#9733;&#9733;&#9733;
 [<p><img src="http://rcmdnk.github.io/images/WinApp/MetaVNC.png" width="100" height="100" alt="MetaVNC"></p>](http://metavnc.sourceforge.net/index-j.html)
 
@@ -471,7 +485,7 @@ Latexで書いてる文章を最後に校正したい時に使うことがあり
 * サーバーもクライアントもいくつかありますが、クライアントソフトとしてはこれが一番安定して速く感じてこれに落ち着きました。
 * サーバー側は、Windowsだと[UltraVNC](http://www.uvnc.com/)の方が安定して居る気がします。（以前WindowsでVNCサーバーをたててたときはUltraVNCを使っていました。）
 
----
+- - -
 ### LogMeIn &#9733;&#9733;&#9733;&#9733;&#9733;
 [<p><img src="http://rcmdnk.github.io/images/WinApp/LogMeIn.png" width="100" height="100" alt="LogMeIn"></p>](https://secure.logmein.com/jp/)
 
@@ -480,20 +494,20 @@ Latexで書いてる文章を最後に校正したい時に使うことがあり
   * なのでVNCでは無理な状況でもOKだし、サーバー側の設定も簡単。
 * Webからアクセスできるので、クライアント側は何でもOK。iPhoneやAndroid用のクライアントアプリもあります。
 
----
+- - -
 ### TeamViewer  &#9733;&#9733;
 [<p><img src="http://rcmdnk.github.io/images/WinApp/LogMeIn.png" width="100" height="100" alt="TeamViewer "></p>](http://www.teamviewer.com/ja/index.aspx)
 
 * サーバーソフトを入れておくとリモートアクセスできる用になります。
 * LogMeIn同様サーバーとクライアントが共にTeamViwerサーバーに接続してマッチングする形なので、サーバーが固定IPを持ってなくても大丈夫です。
 
----
+- - -
 ### No-IP  &#9733;&#9733;&#9733;
 [<p><img src="http://rcmdnk.github.io/images/WinApp/No-IP.png" width="100" height="100" alt="No-IP "></p>](http://www.noip.com/)
 
 * No-IPは固定IPがなくてもドメインが使用出来る様になるDynamicDNSサービスで、その設定ソフトです。
 
----
+- - -
 ### No-Duc  &#9733;&#9733;&#9733;
 [<p><img src="http://rcmdnk.github.io/images/WinApp/No-IP.png" width="100" height="100" alt="No-IP "></p>](http://www.noip.com/downloads.php?page)
 
@@ -501,14 +515,14 @@ Latexで書いてる文章を最後に校正したい時に使うことがあり
 No-IP専用ソフト。
 * これを使うことで、固定IPが無くても通常の固定IP運用と同じように使えるようになります。
 
----
+- - -
 ### DiCE  &#9733;&#9733;&#9733;
 [<p><img src="http://rcmdnk.github.io/images/WinApp/DiCE.png" width="100" height="100" alt="DiCE "></p>](http://www.hi-ho.ne.jp/yoshihiro_e/dice/)
 
 * 色々なDynamicDNSサービスに対応しているドメイン割り当て自動更新ソフト。
 * No-IPとの相性はNo-IP Ducのが良いかもしれませんが、両方動かしておいても問題ないです。
 
----
+- - -
 ### Synergy &#9733;&#9733;&#9733;&#9733;
 [<p><img src="http://rcmdnk.github.io/images/WinApp/Synergy.png" width="100" height="100" alt="Synergy"></p>](http://synergy-foss.org/ja/)
 
@@ -517,20 +531,20 @@ No-IP専用ソフト。
 * クリップボードも共有できるので色々と便利です。
 
 ## ブラウザ
----
+- - -
 ### Firefox &#9733;&#9733;&#9733;&#9733;&#9733;
 [<p><img src="http://rcmdnk.github.io/images/WinApp/Firefox.png" width="100" height="100" alt="Firefox"></p>](http://www.mozilla.jp/firefox/)
 
 * Windowsでもメインブラウザ。
 * やはりvimperatorが手放せません。
 
----
+- - -
 ### Chrome &#9733;&#9733;&#9733;&#9733;
 [<p><img src="http://rcmdnk.github.io/images/WinApp/Chrome.png" width="100" height="100" alt="Chrome"></p>](http://www.google.co.jp/intl/ja/chrome/browser/)
 
 * Windowsでもgoogleアカウントを切り替えたいときに使います。
 
----
+- - -
 ### Xmarks for Internet Explorer &#9733;&#9733;&#9733;&#9733;
 [<p><img src="http://rcmdnk.github.io/images/WinApp/XmarksForInternetExploler.png" width="100" height="100" alt="Xmarks for Internet Explorer"></p>](http://download.xmarks.com/download/ie)
 
@@ -540,7 +554,7 @@ No-IP専用ソフト。
 
 ## メーラー
 
----
+- - -
 ###Thunderbird &#9733;&#9733;&#9733;&#9733;&#9733;
 [<p><img src="http://rcmdnk.github.io/images/WinApp/Thunderbird.png" width="100" height="100" alt="hunderbird"></p>](http://www.mozilla.jp/thunderbird/)
 
@@ -549,13 +563,13 @@ No-IP専用ソフト。
 * その代わりに外部エディタを開けるアドオンを入れてvimで開いて編集したりします。
 
 ## コミュニケーション
----
+- - -
 ### Skype &#9733;&#9733;&#9733;&#9733;&#9733;
 [<p><img src="http://rcmdnk.github.io/images/WinApp/Skype.png" width="100" height="100" alt="Skype"></p>](http://www.skype.com/ja/download-skype/skype-for-computer/)
 
 * パソコン同士の通話、チャットの他、国際電話も安くできるので重宝してます。
 
----
+- - -
 ### Callnote &#9733;&#9733;&#9733;
 [<p><img src="http://rcmdnk.github.io/images/WinApp/Callnote.png" width="100" height="100" alt="Callnote"></p>](http://www.kandasoft.com/home/kanda-apps/callnote.html)
 
@@ -563,19 +577,19 @@ No-IP専用ソフト。
 
 ## Office
 
----
+- - -
 ###  Microsoft Office &#9733;&#9733;&#9733;&#9733;&#9733;
 [<p><img src="http://rcmdnk.github.io/images/WinApp/MicrosoftOffice2007.png" width="100" height="100" alt=" Microsoft Office"></p>](http://office.microsoft.com/ja-jp/products/FX102233883.aspx)
 
 * Word, Excel, Power Point, (Outlook)
 
----
+- - -
 ###  Adobe関連 &#9733;&#9733;&#9733;&#9733;&#9733;
 [<p><img src="http://rcmdnk.github.io/images/WinApp/AdobeAcrobat.png" width="100" height="100" alt=" Adobe関連"></p>](http://www.adobe.com/jp/)
 
 * Reader, Acrobt Pro, Illustlator
 
----
+- - -
 ###  Open Office &#9733;&#9733;
 [<p><img src="http://rcmdnk.github.io/images/WinApp/OpenOffice.png" width="100" height="100" alt=" Open Office"></p>](http://www.openoffice.org/ja/)
 
@@ -584,32 +598,32 @@ No-IP専用ソフト。
 
 ## その他
 
----
+- - -
 ### BlueStacks &#9733;
 [<p><img src="http://rcmdnk.github.io/images/WinApp/BlueStacks.png" width="100" height="100" alt="BlueStacks"></p>](http://www.bluestacks.com/)
 
 * Androidのアプリケーションを動かすことができます。
 * Mac用もあります。
 
----
+- - -
 ### iTunes  &#9733;&#9733;&#9733;&#9733;&#9733;
 [<p><img src="http://rcmdnk.github.io/images/WinApp/iTunes.png" width="100" height="100" alt="iTunes "></p>](http://www.apple.com/jp/itunes/download/)
 
 * iPhoneのために必要。
 
----
+- - -
 ### foobar2000   &#9733;&#9733;&#9733;
 [<p><img src="http://rcmdnk.github.io/images/WinApp/foobar2000.png" width="100" height="100" alt="foobar2000  "></p>](http://www.foobar2000.org/)
 
 * 軽い音楽再生ソフト。
 
----
+- - -
 ### ストップウォッチッチ   &#9733;&#9733;&#9733;
 [<p><img src="http://rcmdnk.github.io/images/WinApp/StopWatch.png" width="100" height="100" alt="ストップウォッチッチ  "></p>](http://www.vector.co.jp/soft/win95/personal/se225325.html)
 
 * とってもシンプルで必要十分なストップウォッチです。
 
----
+- - -
 ### WakeMeUp!!  &#9733;&#9733;&#9733;&#9733;
 [<p><img src="http://rcmdnk.github.io/images/WinApp/WakeMeUp.png" width="100" height="100" alt="WakeMeUp!! "></p>](http://www.vector.co.jp/soft/winnt/personal/se369250.html)
 
