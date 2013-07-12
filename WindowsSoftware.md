@@ -84,6 +84,14 @@
 * MacでのSpotlightやAlfredの様な事をしてくれるランチャー。
 * ただ、自分の環境だとかなり不安定で直ぐに落ちるので使えてません…
 
+- - -
+### Everything &#9733;&#9733;&#9733;
+[<p><img src="http://rcmdnk.github.io/images/WinApp/everything.jpg" width="100" height="100" alt="Everything"></p>](http://www.voidtools.com/)
+
+* インデックスを先に作っておいて検索をかけられるソフト。
+* インデックスを作るのも検索も高速で安定してます。
+* ただ、ランチャー的な用途で使おうとすると、出てきた物をクリックしても
+Everythingの窓自体が残ってしまうのが少し残念。
 
 ## システム、設定
 
@@ -187,6 +195,12 @@
 ドライブやパーティッションのコピー、復元、削除等も出来る
 高機能なパーティッションユーティリティソフト。
 
+- - -
+### Windows Sideber Styler &#9733;&#9733;
+[<p><img src="http://rcmdnk.github.io/images/WinApp/wss.png" width="100" height="100" alt="windows sidebar styler"></p>](http://stoyanov.in/code/styler/)
+
+* Vistaのサイドバーを色々もてあそぶソフト。
+
 ##ファイル操作
 
 - - -
@@ -258,6 +272,7 @@
 ### cygwin &#9733;&#9733;&#9733;&#9733;&#9733;
 [<p><img src="http://rcmdnk.github.io/images/WinApp/cygwin.png" width="100" height="100" alt="cygwin"></p>](http://www.cygwin.com/)
 
+* [cygwin関連の記事](/blog/tags/cygwin)
 * Windows上でUnixの様な環境を作れる。
 
 - - -
@@ -273,6 +288,13 @@
 
 * SSHクライアント。
 * Cygwin内のターミナル達はどうしても立ち上がるのが遅いので、他のコンピューターに繋ぎたいときはPuttyを使います。
+
+- - -
+### coLinux &#9733;&#9733;&#9733;&#9733;&#9733;
+[<p><img src="http://rcmdnk.github.io/images/WinApp/coLinux.png" width="100" height="100" alt="coLinux"></p>](http://www.colinux.org/)
+
+* [coLinux関連の記事](/blog/tags/coLinux)
+* Windows上でUnixカーネルを動かせる。
 
 ## テキスト、エディタ
 
@@ -292,6 +314,12 @@
 * ので、webにある[Joncom](http://joncom.be/experiments/markdown-editor/edit/)や[Github Preview](http://github-preview.herokuapp.com/)といったもので十分かもしれません。
 
 - - -
+### TeraPad#Editor &#9733;
+[<p><img src="http://rcmdnk.github.io/images/WinApp/terapad.gif" width="100" height="100" alt="terapad"></p>](http://www5f.biglobe.ne.jp/~t-susumu/)
+
+* 矩形選択が出来るエディタ。
+
+- - -
 ### latex2rtf &#9733;&#9733;&#9733;&#9733;
 [<p><img src="http://rcmdnk.github.io/images/WinApp/latex2rtf.png" width="100" height="100" alt="latex2rtf"></p>](http://latex2rtf.sourceforge.net/)
 
@@ -307,7 +335,35 @@ Latexで書いてる文章を最後に校正したい時に使うことがあり
     Wordではなく、WordPad等、軽いテキストファイルで一度rtfファイルを開いて、全文コピーし、
     それをWordに貼り付けるのが良いと思います。(それでも重い場合は小分けに)
 
+- - -
+### Ginger &#9733;&#9733;&#9733;
+[<p><img src="http://rcmdnk.github.io/images/WinApp/ginger.png" width="100" height="100" alt="Ginger"></p>](http://www.getginger.jp/)
 
+* スペルチェック、英文法チェックソフト。
+* ブラウザにアドオンとしてインストールして使ったり、
+Windowsだと単体でインストールしてWordとかでも使えます。
+
+- - -
+## Office
+
+- - -
+###  Microsoft Office &#9733;&#9733;&#9733;&#9733;&#9733;
+[<p><img src="http://rcmdnk.github.io/images/WinApp/MicrosoftOffice2007.png" width="100" height="100" alt=" Microsoft Office"></p>](http://office.microsoft.com/ja-jp/products/FX102233883.aspx)
+
+* Word, Excel, Power Point, (Outlook)
+
+- - -
+###  Adobe関連 &#9733;&#9733;&#9733;&#9733;&#9733;
+[<p><img src="http://rcmdnk.github.io/images/WinApp/AdobeAcrobat.png" width="100" height="100" alt=" Adobe関連"></p>](http://www.adobe.com/jp/)
+
+* Reader, Acrobt Pro, Illustlator
+
+- - -
+###  Open Office &#9733;&#9733;
+[<p><img src="http://rcmdnk.github.io/images/WinApp/OpenOffice.png" width="100" height="100" alt=" Open Office"></p>](http://www.openoffice.org/ja/)
+
+* 無料のOffice。
+* まだMicrosoft Officeとの互換性が完璧ではないですが、自分だけで使う使う分には十分です。
 
 ## ファイル転送
 - - -
@@ -427,6 +483,8 @@ Latexで書いてる文章を最後に校正したい時に使うことがあり
 
 * 画像編集ソフト。一部の色を残して残りをモノクロにする所謂カラーホッピングが簡単に出来ます。
 * Photoshopとかのプラグインとして使う場合には有料ですが、これだけで使う限りは無料です。
+* *追記*上のサイトからだと試用期間制限がありますが[SourceForge](http://sourceforge.jp/projects/sfnet_tint/)にある
+古いものなら試用期間無しで使えるみたいです。
 
 - - -
 ### MINI+TUNE &#9733;&#9733;
@@ -460,6 +518,37 @@ Latexで書いてる文章を最後に校正したい時に使うことがあり
 
 * こちらも大概のする種類の動画や音楽が再生出来るプレーヤー。
 
+- - -
+### CamStudio &#9733;&#9733;
+[<p><img src="http://rcmdnk.github.io/images/WinApp/camstudio.jpg" width="100" height="100" alt="camstudio"></p>](http://camstudio.org/)
+
+* 画面をキャプチャしてAVI/SWF形式で保存してくれるソフト。
+
+- - -
+### oCam &#9733;&#9733;
+[<p><img src="http://rcmdnk.github.io/images/WinApp/ocam.png" width="100" height="100" alt="camstudio"></p>](http://ohsoft.net/product_ocam.php)
+
+* 同じく画面を録画出来るソフト。AVI形式で保存します。
+
+- - -
+### Giam &#9733;&#9733;&#9733;
+[<p><img src="http://rcmdnk.github.io/images/WinApp/giam.jpg" width="100" height="100" alt="giam"></p>](http://homepage3.nifty.com/furumizo/giamd.htm)
+
+* gifアニメ作成ソフト。最適化によりサイズを小さくすることも可能。
+* AVIファイルとGIFアニメの相互変換が可能。
+
+- - -
+### DigicameDePrint &#9733;&#9733;
+[<p><img src="http://rcmdnk.github.io/images/WinApp/digicamedeprint.png" width="100" height="100" alt="digicamedeprint"></p>](http://www.vector.co.jp/soft/winnt/writing/se483851.html)
+
+* 台形補正ソフト。
+
+- - -
+### Reflector &#9733;&#9733;
+[<p><img src="http://rcmdnk.github.io/images/WinApp/reflector.png" width="100" height="100" alt="reflector"></p>](http://www.airsquirrels.com/reflector/)
+
+* iPhoneに繋げた状態でiPhoneの画面をWindows側に移して録画できるソフト。
+
 ## ネットワーク
 
 - - -
@@ -470,7 +559,7 @@ Latexで書いてる文章を最後に校正したい時に使うことがあり
 * 最速のDNSを調査することもできます。
 
 - - -
-### PEkahau HeatMapper - The Free Wi-Fi Coverage Mapping Site Survey Tool &#9733;&#9733;&#9733;
+### Ekahau HeatMapper - The Free Wi-Fi Coverage Mapping Site Survey Tool &#9733;&#9733;&#9733;
 [<p><img src="http://rcmdnk.github.io/images/WinApp/PEkahauHeatMapper.png" width="100" height="100" alt="PEkahau HeatMapper - The Free Wi-Fi Coverage Mapping Site Survey Tool"></p>](http://www.ekahau.com/products/heatmapper/overview.html)
 
 * 無線LANの強度を可視化してくれる。
@@ -556,11 +645,18 @@ No-IP専用ソフト。
 
 - - -
 ###Thunderbird &#9733;&#9733;&#9733;&#9733;&#9733;
-[<p><img src="http://rcmdnk.github.io/images/WinApp/Thunderbird.png" width="100" height="100" alt="hunderbird"></p>](http://www.mozilla.jp/thunderbird/)
+[<p><img src="http://rcmdnk.github.io/images/WinApp/Thunderbird.png" width="100" height="100" alt="thunderbird"></p>](http://www.mozilla.jp/thunderbird/)
 
 * Windowsでは相変わらずThunderbirdを使ってます。
 * [Mutter](http://www.vimperator.org/muttator)をvimperator同様に使いたいと思って何度か試して見ましたが、どうしても使い勝手が良くなりませんでした。
 * その代わりに外部エディタを開けるアドオンを入れてvimで開いて編集したりします。
+
+- - -
+###Scrubly &#9733;&#9733;
+[<p><img src="http://rcmdnk.github.io/images/WinApp/scrubly.jpg" width="100" height="100" alt="scrubly"></p>](http://www.scrubly.com/)
+
+* メーラーではないですが、GmailやFacebook等のコンタクトリストをまとめて整理してくれます。
+* 250人までが無料で、それ以上は有料になります。
 
 ## コミュニケーション
 - - -
@@ -575,26 +671,11 @@ No-IP専用ソフト。
 
 * Skypeを録音してEvernoteに保存（Evernoteにリンクさせていないとエラーっぽいのが出ますが、ローカルだけにも保存出来る）
 
-## Office
-
 - - -
-###  Microsoft Office &#9733;&#9733;&#9733;&#9733;&#9733;
-[<p><img src="http://rcmdnk.github.io/images/WinApp/MicrosoftOffice2007.png" width="100" height="100" alt=" Microsoft Office"></p>](http://office.microsoft.com/ja-jp/products/FX102233883.aspx)
+### SkyHistory &#9733;&#9733;&#9733;
+[<p><img src="http://rcmdnk.github.io/images/WinApp/skyhistory.png" width="100" height="100" alt="skyhistory"></p>](http://scand.com/products/skyhistory/)
 
-* Word, Excel, Power Point, (Outlook)
-
-- - -
-###  Adobe関連 &#9733;&#9733;&#9733;&#9733;&#9733;
-[<p><img src="http://rcmdnk.github.io/images/WinApp/AdobeAcrobat.png" width="100" height="100" alt=" Adobe関連"></p>](http://www.adobe.com/jp/)
-
-* Reader, Acrobt Pro, Illustlator
-
-- - -
-###  Open Office &#9733;&#9733;
-[<p><img src="http://rcmdnk.github.io/images/WinApp/OpenOffice.png" width="100" height="100" alt=" Open Office"></p>](http://www.openoffice.org/ja/)
-
-* 無料のOffice。
-* まだMicrosoft Officeとの互換性が完璧ではないですが、自分だけで使う使う分には十分です。
+* Skypeのチャット過去ログを保存、管理するソフト。
 
 ## その他
 
