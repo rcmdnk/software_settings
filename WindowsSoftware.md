@@ -359,6 +359,12 @@ Windowsだと単体でインストールしてWordとかでも使えます。
 * Reader, Acrobt Pro, Illustlator
 
 - - -
+### PDF-XChange Viewer
+[PDF-XChange Viewer](http://www.tracker-software.com/)
+
+* フリー版でも色々PDFに書き込んだり出来るソフト。
+
+- - -
 ###  Open Office &#9733;&#9733;
 [<p><img src="http://rcmdnk.github.io/images/WinApp/OpenOffice.png" width="100" height="100" alt=" Open Office"></p>](http://www.openoffice.org/ja/)
 
