@@ -412,6 +412,13 @@ Windowsだと単体でインストールしてWordとかでも使えます。
 [<p><img src="http://rcmdnk.github.io/images/WinApp/KDrive.png" width="100" height="100" alt="KDrive"></p>](https://www.kdrive.jp/static/index.html)
 
 * 写真のバックアップ用。
+* 2014年にサービスが全て終了。。。
+
+- - -
+### Copy.com &#9733;&#9733;&#9733;
+[<p><img src="http://rcmdnk.github.io/images/WinApp/copy.png" width="100" height="100" alt="KDrive"></p>](https://copy.com?r=wKmayU)
+* 初期状態で15GB, 紹介で簡単に5GBずつ増やせる。
+* こちら[https://copy.com?r=wKmayU](https://copy.com?r=wKmayU)の紹介リンクから入ればすぐに5GB貰えます。
 
 - - -
 ### iCloud &#9733;&#9733;
