@@ -451,6 +451,12 @@ Mac用アプリ
 
 * 今入ると7GB。去年の変更時にアップデート時に手続きをしておけば25GBに出来ましたがやらなかったので7GBのまま。上２つ同様Dropboxで事足りてるので使ってない。
 
+- - -
+### Copy.com &#9733;&#9733;&#9733;
+[<p><img src="http://rcmdnk.github.io/images/WinApp/copy.png" width="100" height="100" alt="KDrive"></p>](https://copy.com?r=wKmayU)
+* 初期状態で15GB, 紹介で簡単に5GBずつ増やせる。
+* こちら[https://copy.com?r=wKmayU](https://copy.com?r=wKmayU)の紹介リンクから入ればすぐに5GB貰えます。なので、すぐに20GBから始められます。
+
 ---
 ### EverNote &#9733;&#9733;&#9733;&#9733;&#9733;
 <a href="http://click.linksynergy.com/fs-bin/stat?id=iYVkHjWpfxk&offerid=94348&type=3&subid=0&tmpid=2192&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fevernote%252Fid406056744%253Fmt%253D12%2526uo%253D4%2526partnerId%253D30" target="_blank" rel="nofollow"><img width="75" class="alignleft" align="left" src="http://a4.mzstatic.com/us/r1000/110/Purple2/v4/40/5c/55/405c559c-2dd1-0688-3c33-65f36b1e9aaf/Evernote.75x75-65.png" style="border-radius: 11px 11px 11px 11px;-moz-border-radius: 11px 11px 11px 11px;-webkit-border-radius: 11px 11px 11px 11px;box-shadow: 1px 4px 6px 1px #999999;-moz-box-shadow: 1px 4px 6px 1px #999999;-webkit-box-shadow: 1px 4px 6px 1px #999999;margin: -5px 15px 1px 5px;"></a><div style="font-size:small;line-height:1.2;"><a href="http://click.linksynergy.com/fs-bin/stat?id=iYVkHjWpfxk&offerid=94348&type=3&subid=0&tmpid=2192&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fapp%252Fevernote%252Fid406056744%253Fmt%253D12%2526uo%253D4%2526partnerId%253D30" target="_blank" rel="nofollow"<strong> Evernote 5.0.6（無料）</strong></a><br> カテゴリ: 仕事効率化<br> 販売元: <a href="http://click.linksynergy.com/fs-bin/stat?id=iYVkHjWpfxk&offerid=94348&type=3&subid=0&tmpid=2192&RD_PARM1=https%253A%252F%252Fitunes.apple.com%252Fjp%252Fartist%252Fevernote%252Fid281796111%253Fmt%253D12%2526uo%253D4%2526partnerId%253D30" target="_blank" rel="nofollow">Evernote - Evernote</a>（サイズ: 32.3 MB）</div><br class="clearBoth">
