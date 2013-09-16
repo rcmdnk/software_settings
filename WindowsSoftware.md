@@ -589,7 +589,7 @@ Windowsだと単体でインストールしてWordとかでも使えます。
 
 - - -
 ### LogMeIn &#9733;&#9733;&#9733;&#9733;&#9733;
-[<p><img src="http://rcmdnk.github.io/images/WinApp/LogMeIn.png" width="100" height="100" alt="LogMeIn"></p>](https://secure.logmein.com/jp/)
+[<p><nnl src="http://rcmdnk.github.io/images/WinApp/LogMeIn.png" width="100" height="100" alt="LogMeIn"></p>](https://secure.logmein.com/jp/)
 
 * サーバーソフトを入れておくとリモートアクセスできる用になります。
 * サーバーとクライアントが共にLogMeInサーバーに接続してマッチングする形なので、サーバーが固定IPを持ってなくても大丈夫です。
