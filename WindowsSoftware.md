@@ -120,8 +120,10 @@ Everythingの窓自体が残ってしまうのが少し残念。
   keyhacは使ったことないですが、pythonベースなので分かりやすいかな、
   とちょっと興味あり。
 
+{%comment%}
   他にも<a href="http://www.softantenna.com/5.html#8">ここに</a>ある様に
   まだまだ色々な物があるみたいです。
+{%endcomment%}
 
 * 上記の物は設定ファイルの書き方を覚えるのがちょっと大変ですが、GUIで出来るものとして
   * [KeySwap](http://www.asahi-net.or.jp/~ee7k-nsd/)
@@ -221,7 +223,7 @@ Everythingの窓自体が残ってしまうのが少し残念。
 # ターミナル、Unix環境
 
 ## cygwin &#9733;&#9733;&#9733;&#9733;&#9733;
-<a href="http://www.cygwin.com/"><img src="http://rcmdnk.github.io/images/WinApp/cygwin.png" width="100" height="100" alt="cygwin"></a>
+<a href="http://www.cygwin.com/"><img src="http://rcmdnk.github.io/images/WinApp/Cygwin.png" width="100" height="100" alt="cygwin"></a>
 
 * [cygwin関連の記事](/blog/tags/cygwin)
 * Windows上でUnixの様な環境を作れる。
@@ -241,7 +243,7 @@ Everythingの窓自体が残ってしまうのが少し残念。
 ## coLinux &#9733;&#9733;&#9733;&#9733;&#9733;
 <a href="http://www.colinux.org/"><img src="http://rcmdnk.github.io/images/WinApp/coLinux.png" width="100" height="100" alt="coLinux"></a>
 
-* [coLinux関連の記事](/blog/tags/coLinux)
+* [coLinux関連の記事](/blog/tags/colinux)
 * Windows上でUnixカーネルを動かせる。
 
 # テキスト、エディタ
@@ -350,7 +352,7 @@ Windowsだと単体でインストールしてWordとかでも使えます。
 * 2014年にサービスが全て終了。。。
 
 ## Copy.com &#9733;&#9733;&#9733;
-<a href="https://copy.com?r=wKmayU"><img src="http://rcmdnk.github.io/images/WinApp/copy.png" width="100" height="100" alt="KDrive"></a>
+<a href="https://copy.com?r=wKmayU"><img src="http://rcmdnk.github.io/images/WinApp/copy.jpg" width="100" height="100" alt="Copy"></a>
 
 * 初期状態で15GB, 紹介で簡単に5GBずつ増やせる。
 * こちら[https://copy.com?r=wKmayU](https://copy.com?r=wKmayU)の紹介リンクから入ればすぐに5GB貰えます。
@@ -362,7 +364,7 @@ Windowsだと単体でインストールしてWordとかでも使えます。
 * 下にあるように、Xmarksを使ってIEのブックマークを共通ブックマークにして、このブックマークをIE->iCloud経由でiPhoneと動機したいときに使います。
 * MacでXmarks->Safari->iCloud->iPhoneでできるので、今は普段は動かしてません。
 
-その他のクラウドストレージは[Macの所で](http://rcmdnk.hatenablog.com/entry/2013/03/03/060650)。
+その他のクラウドストレージは[Macの所で](http://rcmdnk.github.io/mac/macapp/)。
 
 ## EverNote &#9733;&#9733;&#9733;&#9733;&#9733;
 <a href="http://evernote.com/intl/jp/"><img src="http://rcmdnk.github.io/images/WinApp/Evernote.png" width="100" height="100" alt="EverNote"></a>
@@ -376,7 +378,7 @@ Windowsだと単体でインストールしてWordとかでも使えます。
 <a href="http://www.resoph.com/ResophNotes/Welcome.html"><img src="http://rcmdnk.github.io/images/WinApp/ResophNotes.png" width="100" height="100" alt="ResophNotes"></a>
 
 * シンプルノートのwindowsクライアント。
-* [Macの所](http://rcmdnk.hatenablog.com/entry/2013/03/03/060650)で書いたように、今は使ってません。
+* [Macの所](http://rcmdnk.github.io/mac/macapp/)で書いたように、今は使ってません。
 
 ## GitHub &#9733;&#9733;&#9733;
 <a href="http://windows.github.com/"><img src="http://rcmdnk.github.io/images/WinApp/GitHub.png" width="100" height="100" alt="GitHub"></a>
