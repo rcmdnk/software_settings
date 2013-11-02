@@ -1,6 +1,6 @@
 #  "Mac用アプリ"
 
-<img src="http://rcmdnk.github.io/images/MacApp/MacLogo.jpg" height="300" alt="Mac Logo">
+<img src="http://rcmdnk.github.io/images/MacApp/MacLogoMiddle.jpg" height="300" alt="Mac Logo">
 
 Mac用アプリ
 
