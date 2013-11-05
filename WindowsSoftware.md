@@ -8,7 +8,7 @@
 
 * Table Of Contents
 {:toc}
-
+<div class="group"></div>
 
 # ソフトウェア一括インストール
 [Chocolatey](http://chocolatey.org/)、[Ninite](https://ninite.com/)や[Allmyapps](http://allmyapps.com/)と言った
@@ -510,7 +510,7 @@ Windowsだと単体でインストールしてWordとかでも使えます。
 * Webからアクセスできるので、クライアント側は何でもOK。iPhoneやAndroid用のクライアントアプリもあります。
 
 ## TeamViewer  &#9733;&#9733;
-<a href="http://www.teamviewer.com/ja/index.aspx"><img src="http://rcmdnk.github.io/images//WinApp/LogMeIn.png" width="100" height="100" alt="TeamViewer "></a>
+<a href="http://www.teamviewer.com/ja/index.aspx"><img src="http://rcmdnk.github.io/images//WinApp/TeamViewer.png" width="100" height="100" alt="TeamViewer "></a>
 
 * サーバーソフトを入れておくとリモートアクセスできる用になります。
 * LogMeIn同様サーバーとクライアントが共にTeamViwerサーバーに接続してマッチングする形なので、サーバーが固定IPを持ってなくても大丈夫です。
@@ -539,6 +539,13 @@ No-IP専用ソフト。
 * 1セットのマウスとキーボードで複数のコンピューターをシームレスに使うことが出来るようになります使うことが出来ます。
 * Windows, Linuxでも使えます。
 * クリップボードも共有できるので色々と便利です。
+
+## LinkChecker &#9733;&#9733;&#9733;&#9733;
+<a href="http://wummel.github.io/linkchecker/"><img src="http://rcmdnk.github.io/images//WinApp/LinkChecker.jpg" width="100" height="100" alt="LinkChecker"></a>
+
+* サイトのリンク切れを調べるツール。
+* 自分のサイトのリンク切れを調べるのに便利。
+* Mac, Debianバージョンもあります。
 
 # ブラウザ
 

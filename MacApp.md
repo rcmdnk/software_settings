@@ -14,6 +14,7 @@ Mac用アプリ
 
 * Table Of Contents
 {:toc}
+<div class="group"></div>
 
 # デスクトップ表示
 
@@ -548,6 +549,14 @@ Mac用アプリ
 * 1セットのマウスとキーボードで複数のコンピューターをシームレスに使うことが出来るようになります使うことが出来ます。
 * Windows, Linuxでも使えます。
 * クリップボードも共有できるので色々と便利です。
+
+## LinkChecker &#9733;&#9733;&#9733;&#9733;
+<a href="http://wummel.github.io/linkchecker/"><img src="http://rcmdnk.github.io/images//WinApp/LinkChecker.jpg" width="100" height="100" alt="LinkChecker"></a>
+
+* サイトのリンク切れを調べるツール。
+* 自分のサイトのリンク切れを調べるのに便利。
+* Windows, Debianバージョンもあります。
+
 
 # ブラウザ
 
