@@ -29,6 +29,10 @@
 * 色々な物がありますが、これに落ち着きました。（でも実際には同じ画面CTRL-Tabで切り替えがしたいので、取り敢えず起動してても余り使ってないです。)
 * [日本語版](http://hammm.blog21.fc2.com/blog-entry-69.html)もあります。
 
+## サイドバー
+
+> [Windowsサイドバーガジェット - rcmdnk's blog](/blog/2013/11/10/computer-windows/)
+
 # タスクバー関連、タスクバー常駐ソフト
 
 ## TClock Light &#9733;
@@ -41,6 +45,18 @@
 
 * インターネット上のサーバーを確認して時刻を合わせてくれるソフトです。
 * 普通はWndowsの自動調整で十分だと思いますが、Windowsの自動時刻調整が上手く効かなくなったマシンがあるので、これで強制的に直しています…
+
+## Perfgraph
+
+[perfgraph](http://codefromthe70s.org/perfgraph3.aspx)
+
+* タスクバーにCPUやメモリの使用量のグラフを表示。
+
+## BatteryBar
+
+[BatteryBar](http://batterybarpro.comv/)
+
+* タスクバーにMacみたいなバッテリーアイコンを表示。
 
 # ランチャー
 
