@@ -533,6 +533,17 @@ Mac用アプリ
 * jpgの画像サイズはそのままの状態でファイルサイズを縮小します。Lite版もありますが、
 　そちらだとだと一日20枚まで。
 
+## TinyPNG &#9733;&#9733;&#9733;
+
+* [TinyPNG – Compress PNG images while preserving transparency](https://tinypng.com/)
+* アプリではなくウェブサービスですが、PNGを縮小したい場合はこちら。
+
+## ImageOptim &#9733;&#9733;&#9733;
+
+* [ImageOptim — better Save For Web](http://imageoptim.com/)
+* jpgなどの画像からExifなどのメタ情報を削除(してサイズ削減)。
+* サイズ削減よりもメタ情報削除が便利
+
 # ネットワーク
 
 ## LogMeIn &#9733;&#9733;&#9733;
