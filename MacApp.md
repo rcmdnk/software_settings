@@ -158,7 +158,7 @@ Mac用アプリ
 ## Deeper &#9733;&#9733;&#9733;
 <a href="http://www.titanium.free.fr/downloaddeeper.php"><img src="http://rcmdnk.github.io/images//MacApp/Deeper.png" width="100" height="100" alt="Deeper"></a>
 
-* 同じく痒いところに手が届くあぷり。ThinkerToolと被る所がおおけど両方入れておいても良いと思います。
+* 同じく痒いところに手が届くあぷり。TinkerToolと被る所がおおけど両方入れておいても良いと思います。
 
 ## OnyX &#9733;&#9733;
 <a href="http://www.titanium.free.fr/downloadonyx.php"><img src="http://rcmdnk.github.io/images//MacApp/OnyX.png" width="100" height="100" alt="OnyX"></a>
@@ -448,10 +448,13 @@ Mac用アプリ
 
 ## EverNote &#9733;&#9733;&#9733;&#9733;&#9733;
 
+<a href="https://www.evernote.com/referral/Registration.action?uid=6364820&sig=ce30993269f34b30d82499ebafa6f8be"><img src="http://rcmdnk.github.io/images//WinApp/Evernote.png" width="100" height="100" alt="Evetnote"></a>
+{%comment%}
 <div class="group">
 <a href="https://itunes.apple.com/jp/app/id406056744?mt=12&uo=4&at=10lc94" target="_blank" rel="nofollow"><img width="75" class="alignleft" align="left" src="http://a4.mzstatic.com/us/r1000/110/Purple2/v4/40/5c/55/405c559c-2dd1-0688-3c33-65f36b1e9aaf/Evernote.75x75-65.png" style="border-radius: 11px 11px 11px 11px;-moz-border-radius: 11px 11px 11px 11px;-webkit-border-radius: 11px 11px 11px 11px;box-shadow: 1px 4px 6px 1px #999999;-moz-box-shadow: 1px 4px 6px 1px #999999;-webkit-box-shadow: 1px 4px 6px 1px #999999;margin: -5px 15px 1px 5px;"></a>
 <div style="font-size:small;line-height:1.2;"><a href="https://itunes.apple.com/jp/app/id406056744?mt=12&uo=4&at=10lc94" target="_blank" rel="nofollow"><strong> Evernote 5.0.6（無料）</strong></a><br> カテゴリ: 仕事効率化<br> 販売元: <a href="https://itunes.apple.com/jp/app/id406056744?mt=12&uo=4&at=10lc94" target="_blank" rel="nofollow">Evernote - Evernote</a>（サイズ: 32.3 MB）</div>
 </div>
+{%endcomment%}
 
 * 言わずと知れた。自分に関する情報とかで覚えきれないものを整理して入れてます。
 * 色々新しく設定したものやら、何やらも。
