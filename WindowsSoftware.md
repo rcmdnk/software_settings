@@ -485,6 +485,19 @@ Windowsだと単体でインストールしてWordとかでも使えます。
 * gifアニメ作成ソフト。最適化によりサイズを小さくすることも可能。
 * AVIファイルとGIFアニメの相互変換が可能。
 
+## LICEcap &#9733;&#9733;&#9733;&#9733;
+[LICEcap](http://www.cockos.com/licecap/)
+
+* スクリーンを撮影してgifアニメを作成。
+* Mac版もあり。
+
+## GifCam &#9733;&#9733;&#9733;&#9733;&#9733;
+[GifCam](http://blog.bahraniapps.com/gifcam/)
+
+* スクリーンを撮影してgifアニメを作成。
+* LICEcapよりフレーム数等の表示があったりする。
+* 編集っぽいことも出来る。
+
 ## DigicameDePrint &#9733;&#9733;
 <a href="http://www.vector.co.jp/soft/winnt/writing/se483851.html"><img src="http://rcmdnk.github.io/images//WinApp/digicamedeprint.png" width="100" height="100" alt="digicamedeprint"></a>
 
