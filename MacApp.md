@@ -148,6 +148,12 @@ Mac用アプリ
 
 * 同じくDockのカスタマイズアプリ。Dockの背景を消せます。
 
+## cDock
+
+<a href="http://sourceforge.net/projects/cdock/"><img src="http://rcmdnk.github.io/images//MacApp/Mirage.png" width="100" height="100" alt="cDock"></a>
+
+* Yosemite対応のDockカスタマイズアプリ。
+
 # システム、設定
 
 ## TinkerTool &#9733;&#9733;&#9733;&#9733;
