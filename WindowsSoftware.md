@@ -168,7 +168,7 @@ Everythingの窓自体が残ってしまうのが少し残念。
 * 32bit OSなのに4GBのメモリを積んでる時などに(なので今はもう余り需要は無いかもしれませんが…)
 
 ## AOMEI Partition Assistant Standard &#9733;&#9733;
-<a href="http://www.disk-partition.com/free-partition-manager.html?spu=null&ref=http://www.forest.impress.co.jp/docs/review/20130123_584579.html&furl=http://www.aomeitech.com/"><img src="http://rcmdnk.github.io/images//WinApp/omeipartition.png" width="100" height="100" alt="AOMEI Partition Assistant Standard"></a>
+<a href="http://www.disk-partition.com/free-partition-manager.html?spu=null&ref=http://www.forest.impress.co.jp/docs/review/20130123_584579.html&furl=http://www.aomeitech.com/">AOMEI Partition Assistant Standard</a>
 
 * パーティッションの拡張、分割、結合に加え、
 ドライブやパーティッションのコピー、復元、削除等も出来る
@@ -430,7 +430,7 @@ Windowsだと単体でインストールしてWordとかでも使えます。
 * ただし、ひと月当たりのアップロード上限が10GBらしいので、最初にアップロードするときには数ヶ月に分ける必要があるかもしれません。
 
 ## PWATOOL &#9733;&#9733;&#9733;
-<a href="http://www.vector.co.jp/soft/winnt/net/se491457.html"><img src="http://rcmdnk.github.io/images//WinApp/pwatool.png" width="100" height="100" alt="PWATOOL"></a>
+<a href="http://www.vector.co.jp/soft/winnt/net/se491457.html">PWATOOL</a>
 
 * Picasaのウェブアルバムを簡単に整理できるソフト
 
