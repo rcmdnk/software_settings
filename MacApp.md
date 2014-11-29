@@ -7,14 +7,20 @@ Mac用アプリ
 個人的な必要度&#9733;5段階
 
 
+{%comment%}
 ([Octopressで変換したページ](http://rcmdnk.github.com/mac/macapp/))
 がメインですが、変更履歴が分かるように
 ([GitHubのレポジトリ](https://github.com/rcmdnk/software_settings/blob/master/MacApp.md))
 に直接Markdownで入れてある物も見れるようにしてます。
+{%endcomment%}
 
-* Table Of Contents
-{:toc}
-<div class="group"></div>
+現在実際に使ってるアプリは
+[Brew-file](https://github.com/rcmdnk/homebrew-file)
+で管理してる
+[Brewfile](https://github.com/rcmdnk/Brewfile/blob/master/Brewfile)
+にリストされてます。
+
+{%include after_excerpt.html%}
 
 # デスクトップ表示
 
@@ -36,6 +42,8 @@ Mac用アプリ
   * 使用状況（psコマンドの出力をちょっといじったもの)
 
   を表示させてます。
+
+> [GeekTool](http://rcmdnk.github.io/blog/2013/04/18/computer-mac-geektool-desktop/)
 
 ## Simple Floating Clock &#9733;&#9733;&#9733;&#9733;
 <a href="http://www.splook.com/Software/Simple_Floating_Clock.html"><img src="http://rcmdnk.github.io/images//MacApp/SimpleFloatingClock.png" width="100" height="100" alt="Simple Floating Clock"></a>
@@ -59,12 +67,19 @@ Mac用アプリ
 
 いずれこの辺りは詳しく。
 
+> [Macのデスクトップ上の情報表示](http://rcmdnk.github.com/blog/2013/04/19/computer-mac-desktop/)
+
+> [MacでのGeekToolの設定](http://rcmdnk.github.com/blog/2014/05/19/computer-macc-geektool/)
+
 # メニューバー関連
 
-## MenuBarFilter &#9733;&#9733;&#9733;
+## MenuBarFilter &#9733;
 <a href="http://eece.github.com/MenuBarFilter/"><img src="http://rcmdnk.github.io/images//MacApp/MenuBarFilter.png" width="100" height="100" alt="MenuBarFilter"></a>
 
 * メニューバーを反転色にして黒く出来ます（アイコンの色も反転するので、全部モノクロアイコンを使っている方が綺麗に出来ます）。
+* Mavericksから使えなくなってましたが、YosemitaからOS自体で出来る様になりました。
+
+> [OS X Yosemite 10.10にアップデートして気になったこととか](http://rcmdnk.github.io/blog/2014/10/19/computer-mac/)
 
 ## Caffeine &#9733;&#9733;&#9733;&#9733;&#9733;
 
@@ -198,10 +213,16 @@ Mac用アプリ
 * [TotalFinder](http://totalfinder.binaryage.com/)というシェアソフトがあって良く聞きますが、やりたかったことがXtraFinderで殆ど出来ます。
 * たまに落ちる(気づくと普通のFinderになってる…)
 
+> [MacでのFinderの設定](http://rcmdnk.github.com/blog/2014/05/19/computer-mac-finder/)
+
 ## Google日本語入力 &#9733;&#9733;&#9733;&#9733;&#9733;
 <a href="http://www.google.co.jp/ime/"><img src="http://rcmdnk.github.io/images//MacApp/GoogleIME.png" width="100" height="100" alt="Google日本語入力"></a>
 
 * 言わずと知れた。取り敢えずことえりの代わりに。
+
+> [MacでのIMEの設定](http://rcmdnk.github.io/blog/2014/05/15/computer-mac-ime/)
+
+> [Macで入力ソースにいつの間にかU.S.が入ってきて消せない時の対処法](http://rcmdnk.github.io/blog/2014/05/23/computer-mac/)
 
 ## ClipMenu &#9733;&#9733;&#9733;&#9733;&#9733;
 <a href="http://www.clipmenu.com/ja/"><img src="http://rcmdnk.github.io/images//MacApp/ClipMenu.png" width="100" height="100" alt="ClipMenu"></a>
@@ -213,6 +234,15 @@ Mac用アプリ
 という似たようなアプリもあります(ただショートカットで呼び出せない?のが致命的で
 スニペット機能なども含めてClipMenuの方が圧倒的に便利。重さはそもそも気にならない。)
 
+## LiteIcon &#9733;&#9733;&#9733;&#9733;
+
+<a href="http://www.freemacsoft.net/liteicon/"><img src="http://rcmdnk.github.io/images//post/20131219_liteicon.jpg" width="100" height="100" alt="LiteIcon"></a>
+
+* アイコンを簡単に変更できます。
+* FinderとかDockのゴミ箱とか簡単に変更出来ないものもコレなら簡単。
+
+> [MacでDockにあるFinderやゴミ箱アイコンを変える方法](http://rcmdnk.github.io/blog/2013/12/19/computer-mac/)
+
 # キーボード、トラックパッド、マウス、ショートカット
 
 ## BetterTouchTool &#9733;&#9733;&#9733;&#9733;&#9733;
@@ -223,19 +253,32 @@ Mac用アプリ
 * キーボードショートカットにコマンドやAppleScriptなどを当てる事も出来ます。
 * 設定についてはいずれ
 
-## KeyRemap4MacBook &#9733;&#9733;&#9733;&#9733;&#9733;
+> [BetterTouchToolの設定](http://rcmdnk.github.io/blog/2014/05/14/computer-mac-btt/)
+
+## Karabiner (旧KeyRemap4MacBook) &#9733;&#9733;&#9733;&#9733;&#9733;
 <a href="http://pqrs.org/macosx/keyremap4macbook/index.html.ja"><img src="http://rcmdnk.github.io/images//MacApp/KeyRemap4MacBook.png" width="100" height="100" alt="KeyRemap4MacBook"></a>
 
 * キーボードの割り当ての変更出来ます。これも必須。
 * 元から入っている設定を有効にするだけでも色々と便利です。
 * 自分で設定ファイルを書き換えれる様になると何でも出来る気になります。
 * これも設定についてはいずれ
+* 最近KeyRemap4MacBookからKarabinerに名前を変更されました。
 
-* Windowsだと[yammy](http://sourceforge.net/projects/yammy/)とか[のどか](http://www.appletkan.com/nodoka.htm)(旧[窓使いの憂鬱](http://mayu.sourceforge.net/))的なもの。（Windowsではyammyを使用中）
+* Windowsだと[yamy](http://rcmdnk.github.io/blog/tags/yamy/)とか[のどか](http://www.appletkan.com/nodoka.htm)(旧[窓使いの憂鬱](http://mayu.sourceforge.net/))的なもの。（Windowsではyammyを使用中）
+    * 最近はyammyではなく[AutoHotkey](/blog/tags/autohotkey/)を使ってます。
 
 * 元からあるキーボードショートカットはシステムの環境設定->キーボード->キーボードショートカットからでも変更出来ますが、そちらは全てデフォルトのままにしてKeyRemap4MacBookで全て変更するようにしてます。(これもメンテナンスや移行時に便利だと思うので。)
   * 修飾キーだけは、「キーボード」から修飾キー設定に行ってCaps LockをControlに変更してある。
 * 各アプリのショートカットキーも、アプリそれぞれでは変えないでKeyRemap4MacBookから変更するようにしてます。
+
+
+> [Tag: Karabiner - rcmdnk’s blog](http://rcmdnk.github.io/blog/tags/karabiner/)
+
+> [Vim以外でVimする: Mac編](http://rcmdnk.github.io/blog/2013/06/10/computer-mac-keyremap4macbook-vim/)
+
+> [Vimを使う上でのIME(日本語入力)の取り扱い](http://rcmdnk.github.io/blog/2013/06/20/computer-mac-keyremap4macbook-vim/)
+
+> [KeyRemap4MacBookの設定(+MadRuby)](http://rcmdnk.github.io/blog/2014/05/14/computer-mac-keyremap4macbook/)
 
 ## Spark
 <a href="http://www.shadowlab.org/Software/spark.php"><img src="http://rcmdnk.github.io/images//MacApp/Spark.png" width="100" height="100" alt="Spark"></a>
@@ -297,6 +340,8 @@ Mac用アプリ
 英語でメールを書いてて転送する時、Mail.appだとヘッダに「差出人」とか日本語が入ってしまいます。
 なのでMail.appだけ英語に設定して使用中です。
 
+> [App Language ChooserでMail.app等特定のアプリだけ英語設定にする](http://rcmdnk.github.io/blog/2013/07/15/computer-mac-english/)
+
 ## Wine, WineBottler &#9733;&#9733;
 <a href="http://winebottler.kronenberg.org/"><img src="http://rcmdnk.github.io/images//MacApp/WineBottler.png" width="100" height="100" alt="Wine, WineBottler"></a>
 
@@ -334,6 +379,13 @@ Mac用アプリ
 <a href="http://www.iterm2.com/#/section/home"><img src="http://rcmdnk.github.io/images//MacApp/iTerm2.png" width="100" height="100" alt="iTerm2"></a>
 
 * 純正ターミナルの代用品。色々と細かい所でターミナルでは出来ないことが出来たりするので最初から使ってます（何が嬉しかったのか余り覚えてないので、そのうちまた整理したいと…）
+    * GNU screenとか使うときに表示が綺麗だったりする。
+    * ただ、最近HyperSwitchとの相性が悪くて現在仕方なくターミナル.appを使用中。。。
+
+
+> [iTerm2の設定](http://rcmdnk.github.com/blog/2014/05/14/computer-mac-iterm2/)
+
+> [iTerm2上でHyperSwitchなどが使えなくなったのでターミナル.appに乗り換えた](http://rcmdnk.github.io/blog/2014/09/30/computer-mac-iterm2/)
 
 ## Cathode &#9733;&#9733;
 
@@ -353,11 +405,20 @@ Mac用アプリ
 * Vim。本家[MacVim](http://code.google.com/p/macvim/)を日本語環境で使いやすくしたものです。
 * テキスト的な物をFinderから開いたり編集したりしたい様な時は基本的にこれを使います。
 
-## Mou &#9733;&#9733;&#9733;
+## Mou &#9733;&#9733;
 <a href="http://mouapp.com/"><img src="http://rcmdnk.github.io/images//MacApp/Mou.png" width="100" height="100" alt="Mou"></a>
 
 * MarkDownをLive View出来るアプリ。さくさく動くので楽しい。
 * ちなみにWebでも[Joncom](http://joncom.be/experiments/markdown-editor/edit/)や[Github Preview](http://github-preview.herokuapp.com/)というサイトにLive Viewが出来るものがあります。
+* ただ、作者が一時期更新がこれ以上出来ない、としていて、ファンディングを行ったり色々何とかしようとしています。
+* そんな中、Mouに強く影響を受けてる下のMacDownと言うフリーのエディタが出てきたのでそちらに移りました。
+
+## MacDown &#9733;&#9733;&#9733;  
+
+<a href="http://macdown.uranusjr.com/"><img src="http://rcmdnk.github.io/images//MacApp/MacDown.png" width="100" height="100" alt="MacDown"></a>
+
+* Mouに影響を受けて作られたMarkdownエディタ。
+* 取り敢えずこちら中心に使用で。
 
 ## TeXShop &#9733;&#9733;
 <a href="http://pages.uoregon.edu/koch/texshop/"><img src="http://rcmdnk.github.io/images//MacApp/TeXShop.png" width="100" height="100" alt="TeXShop"></a>
@@ -408,6 +469,8 @@ Mac用アプリ
 * 無料だと最初は2GBですが、友達紹介やキャンペーンなんかで20GB以上になったので、
 普段使うようなドキュメントや設定ファイルなんかは全て入れてあります。(~10GB程使ってます。)
 
+> [Dropboxの初期設定](http://rcmdnk.github.io/blog/2014/05/14/computer-mac-dropbox/)
+
 ## AeroFS &#9733;&#9733;&#9733;
 <a href="https://www.aerofs.com/"><img src="http://rcmdnk.github.io/images//MacApp/AeroFS.png" width="100" height="100" alt="AeroFS"></a>
 
@@ -429,11 +492,13 @@ Mac用アプリ
 <a href="http://ndrive.naver.jp/"><img src="http://rcmdnk.github.io/images//MacApp/NDrive.png" width="100" height="100" alt="Nドライブ"></a>
 
 * これも30GBいきなり貰えます 。昔大きなファイルの共有に使ってましたがいまいち不安定なところもあって今は使ってません。
+* 2013年の11月でサービス終了してます。
 
 ## Google Drive &#9733;
 <a href="https://tools.google.com/dlpage/drive/index.html?hl=ja"><img src="http://rcmdnk.github.io/images//MacApp/GoogleDrive.png" width="100" height="100" alt="Google Drive"></a>
 
 * googleの物は結構使ってますがDropboxと被るので、今の所使ってません。
+    * Google Docs的な物でなんだかんだ少しは使ってる。
 
 ## SugarSync &#9733;
 <a href="http://www.microsoft.com/japan/mac?WT.srch=1"><img src="http://rcmdnk.github.io/images//MacApp/SugarSync.png" width="100" height="100" alt="SugarSync"></a>
@@ -441,16 +506,19 @@ Mac用アプリ
 * 同じくDropboxと被るので使ってません。
 * 数年前に始まった頃にDropboxと両方使ってましたがDropboxのが安定していたのと、Linux用のツールがDropboxだけにあるので、容量がある程度増えた後はDropboxだけになりました。
 
-## Sky Drive &#9733;
+## OneDrive (旧Sky Drive) &#9733;
 <a href="http://windows.microsoft.com/ja-jp/skydrive/download"><img src="http://rcmdnk.github.io/images//MacApp/SkyDrive.png" width="100" height="100" alt="Sky Drive"></a>
 
 * 今入ると7GB。去年の変更時にアップデート時に手続きをしておけば25GBに出来ましたがやらなかったので7GBのまま。上２つ同様Dropboxで事足りてるので使ってない。
+* 名前に問題があるとかで今はOneDriveに。
 
 ## Copy.com &#9733;&#9733;&#9733;
 <a href="https://copy.com?r=wKmayU"><img src="http://rcmdnk.github.io/images//WinApp/copy.jpg" width="100" height="100" alt="copy"></a>
 
 * 初期状態で15GB, 紹介で簡単に5GBずつ増やせる。
-* こちら[https://copy.com?r=wKmayU](https://copy.com?r=wKmayU)の紹介リンクから入ればすぐに5GB貰えます。なので、すぐに20GBから始められます。
+* 凄い増えた。。。
+
+> [オンラインストレージCopy.comを導入](http://rcmdnk.github.io/blog/2013/09/01/computer/)
 
 ## EverNote &#9733;&#9733;&#9733;&#9733;&#9733;
 
@@ -466,6 +534,8 @@ Mac用アプリ
 * 色々新しく設定したものやら、何やらも。
 * それから取り敢えずwebで気になった物も簡単にクリップできるので只管入れたりもしてます。
   * そして後にオフラインで無い限り何も考えずに同じ情報をgoogleで検索して見ると言う意味ないことも…
+
+> [Evernoteの設定](http://rcmdnk.github.com/blog/2014/05/14/computer-mac-evernote/)
 
 ## Metanota &#9733;
 
@@ -547,21 +617,56 @@ Mac用アプリ
 * [TinyPNG – Compress PNG images while preserving transparency](https://tinypng.com/)
 * アプリではなくウェブサービスですが、PNGを縮小したい場合はこちら。
 
-## ImageOptim &#9733;&#9733;&#9733;
+## ImageOptim &#9733;&#9733;&#9733;&#9733;&#9733;
 
 * [ImageOptim — better Save For Web](http://imageoptim.com/)
 * jpgなどの画像からExifなどのメタ情報を削除(してサイズ削減)。
 * サイズ削減よりもメタ情報削除が便利
 
+## Img2icns &#9733;&#9733;&#9733;&#9733;
+
+<a href="http://www.img2icnsapp.com/"><img src="http://rcmdnk.github.io/images//post/20131213_img2icns.jpg" width="100" height="100" alt="Img2icns"></a>
+
+* アプリのアイコン用画像を簡単に作れる。
+
+> [Macでアプリのアイコンを変更する](http://rcmdnk.github.com/blog/2013/12/13/computer-mac/)
+
+> [MacのRetinaモデルでアイコンを作るときの注意](http://rcmdnk.github.com/blog/2014/05/19/computer-mac-icon/)
+
+## LICEcap &#9733;&#9733;&#9733;&#9733;
+
+<a href="http://www.cockos.com/licecap/"><img src="http://rcmdnk.github.io/images//MacApp/licecap.png" width="100" height="100" alt="LICEcap"></a>
+
+* デスクトップをGifでキャプチャ出来る。
+
+## KeyCastr &#9733;&#9733;&#9733;&#9733;
+
+<a href="https://github.com/sdeken/keycastr"><img src="http://rcmdnk.github.io/images//MacApp/KeyCastr.png" width="100" height="100" alt="KeyCastr"></a>
+
+* キー入力を表示させられるアプリ。
+* LICEcapとの組み合わせで入力キーを表示しながらターミナルでの作業の様子をとれたりして楽しい。
+
+> [キー入力を表示しながらスクリーンショットGifを撮る](http://rcmdnk.github.io/blog/2014/08/01/computer-mac-windows/)
+
 # ネットワーク
 
-## LogMeIn &#9733;&#9733;&#9733;
+## LogMeIn &#9733;
 <a href="https://secure.logmein.com/jp/"><img src="http://rcmdnk.github.io/images//MacApp/LogMeIn.png" width="100" height="100" alt="LogMeIn"></a>
 
 * サーバーソフトを入れておくとリモートアクセスできる用になります。
 * サーバーとクライアントが共にLogMeInサーバーに接続してマッチングする形なので、サーバーが固定IPを持ってなくても大丈夫です。
   * なのでVNCでは無理な状況でもOKだし、サーバー側の設定も簡単。
 * Webからアクセスできるので、クライアント側は何でもOK。iPhoneやAndroid用のクライアントアプリもあります。
+* ただ、最近無料ユーザーが廃止になってしまったのでTeamViwerに移行。
+
+## TeamViewer &#9733;&#9733;&#9733;
+
+<a href="http://www.teamviewer.com/ja/index.aspx"><img src="http://rcmdnk.github.io/images//WinApp/TeamViewer.png" width="100" height="100" alt="TeamViewer "></a>
+
+* サーバーソフトを入れておくとリモートアクセスできる用になります。
+* LogMeIn同様サーバーとクライアントが共にTeamViwerサーバーに接続してマッチングする形なので、サーバーが固定IPを持ってなくても大丈夫です。
+
+[Tag: TeamViewer](http://rcmdnk.github.io/blog/tags/teamviewer/)
 
 ## Synergy &#9733;&#9733;
 <a href="http://synergy-foss.org/ja/"><img src="http://rcmdnk.github.io/images//MacApp/Synergy.png" width="100" height="100" alt="Synergy"></a>
@@ -586,10 +691,16 @@ Mac用アプリ
 * メインブラウザ。vimperatorというアドオンが便利すぎるのでChromeには移れません。
 * アドオンについて、vimperatorについても別個にいつか紹介したいと思います。
 
+> [Tag: Firefox](http://rcmdnk.github.com/blog/tags/firefox/)
+
+> [MacでのFirefoxの設定](http://rcmdnk.github.com/blog/2014/05/15/computer-mac-firefox/)
+
 ## Chrome &#9733;&#9733;&#9733;&#9733;
 <a href="http://www.google.co.jp/intl/ja/chrome/browser/"><img src="http://rcmdnk.github.io/images//MacApp/Chrome.png" width="100" height="100" alt="Chrome"></a>
 
 * 複数のGoogleアカウントを簡単に切り替えて使える様になったので、たまに使います。(Chromeでしか見れないサイトもあったりしますので…)
+
+> [Google Chromeのメニューバー通知を消す](http://rcmdnk.github.io/blog/2014/09/06/computer-mac-chorome/)
 
 ## Xmarks for Mac &#9733;&#9733;&#9733;&#9733;
 <a href="http://download.xmarks.com/download/macosx_10_6"><img src="http://rcmdnk.github.io/images//MacApp/XmarksForMac.png" width="100" height="100" alt="Xmarks for Mac"></a>
@@ -601,12 +712,15 @@ Mac用アプリ
 
 # メーラー
 
-## Mail.app &#9733;&#9733;&#9733;&#9733;&#9733;
+## Mail.app &#9733;&#9733;
 <a href="http://www.apple.com/jp/support/mail/"><img src="http://rcmdnk.github.io/images//MacApp/Mailapp.png" width="100" height="100" alt="Mail.app"></a>
 
 * 純正で入っているものですが、メーラー。現在メインで使用中。
 * Mail Unread Menuでメニューバーに表示出来るのが嬉しいです（これでDockを未読メール数確認用に常に表示してなくても良くなりました）。
 * Gmailだけで良ければGoogle Notifierでも代わりになりますが、今のところそうもいかないので。(Gmailだけならもうメーラー使わずにNotifierとwebクライアントだけで十分な気が…)
+
+* 今はMail.appは使わずブラウザで全部やってます。
+* Mail Unread Menuの代わりに下のNotify Prof for Macを使用。
 
 ## Thunderbird &#9733;&#9733;
 <a href="http://www.mozilla.jp/thunderbird/"><img src="http://rcmdnk.github.io/images//MacApp/Thunderbird.png" width="100" height="100" alt="Thunderbird"></a>
@@ -619,6 +733,15 @@ Mac用アプリ
   * IMAPの物はサーバーに直接入れるところなので、procmailを使って振り分けをしています。
 
 * 一方Windowsでは相変わらずThunderbirdを使ってます(フィルタをローカルで使わなくなった分大分軽くなりました)。
+
+## Notify Pro for Mac  &#9733;&#9733;&#9733;&#9733;
+
+[Notify Pro for Mac](http://www.macupdate.com/app/mac/32217/notify-pro)
+
+* メニューバーにメールの未読数を表示。
+* 最近は完全にGmailに以降してブラウザでメールの読み書きをするようになりました。
+
+> [Macでのメールの設定 - rcmdnk’s blog](http://rcmdnk.github.io/blog/2014/05/15/computer-mac-gmail/)
 
 
 # コミュニケーション

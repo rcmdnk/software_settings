@@ -1,14 +1,14 @@
 #  "Windows用ソフトウェア"
 個人的な必要度&#9733;5段階
 
+{%comment%}
 ([Octopressで変換したページ](http://rcmdnk.github.com/windows/windowssoftware/))
 がメインですが、変更履歴が分かるように
 ([GitHubのレポジトリ](https://github.com/rcmdnk/software_settings/blob/master/WindowsSoftware.md))
 に直接Markdownで入れてある物も見れるようにしてます。
+{%endcomment%}
 
-* Table Of Contents
-{:toc}
-<div class="group"></div>
+{%include after_excerpt.html%}
 
 # ソフトウェア一括インストール
 [Chocolatey](http://chocolatey.org/)、[Ninite](https://ninite.com/)や[Allmyapps](http://allmyapps.com/)と言った
