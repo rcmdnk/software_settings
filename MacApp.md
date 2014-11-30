@@ -243,6 +243,17 @@ Mac用アプリ
 
 > [MacでDockにあるFinderやゴミ箱アイコンを変える方法](http://rcmdnk.github.io/blog/2013/12/19/computer-mac/)
 
+## Sophos &#9733;&#9733;&#9733;&#9733;
+
+<a href="http://www.sophos.com/ja-jp/products/free-tools/sophos-antivirus-for-mac-home-edition.aspx"><img src="http://rcmdnk.github.io/images//MacApp/Sophos.png" width="100" height="100" alt="Sophos"></a>
+
+* ウイルス対策ソフト。
+* Webスキャンとかも出来るのですが、Webスキャンはやたら重くなるのでWebスキャン機能はオフにして使用中。
+
+> [Macでウィルス対策ソフトSophosを入れてみた, Proxyを使ったりする際の注意点](http://rcmdnk.github.io/blog/2014/10/06/computer-mac/)
+
+> [Yosemiteの高速化等](http://rcmdnk.github.io/blog/2014/11/02/computer-mac)
+
 # キーボード、トラックパッド、マウス、ショートカット
 
 ## BetterTouchTool &#9733;&#9733;&#9733;&#9733;&#9733;
