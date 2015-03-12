@@ -473,7 +473,7 @@ Mac用アプリ
 # クラウド、ファイル共有、ノート
 
 ## Dropbox &#9733;&#9733;&#9733;&#9733;&#9733;
-<a href="https://www.dropbox.com/"><img src="http://rcmdnk.github.io/images//MacApp/Dropbox.png" width="100" height="100" alt="Dropbox"></a>
+<a href="https://www.dropbox.com/"><img src="http://rcmdnk.github.io/images//MacApp/Dropbox.jpg" width="100" height="100" alt="Dropbox"></a>
 
 * ファイル共有。メイン。なんだかんだで一番安定していると思います。
 * [Linux用のツール](https://www.dropbox.com/install?os=lnx)もあります。

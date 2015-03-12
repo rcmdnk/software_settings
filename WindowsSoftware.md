@@ -346,7 +346,7 @@ Windowsだと単体でインストールしてWordとかでも使えます。
 # クラウド、ファイル共有、ノート
 
 ## Dropbox &#9733;&#9733;&#9733;&#9733;&#9733;
-<a href="https://www.dropbox.com/"><img src="http://rcmdnk.github.io/images//WinApp/Dropbox.png" width="100" height="100" alt="Dropbox"></a>
+<a href="https://www.dropbox.com/"><img src="http://rcmdnk.github.io/images//WinApp/Dropbox.jpg" width="100" height="100" alt="Dropbox"></a>
 
 * ファイル共有。メイン。なんだかんだで一番安定してると思います。
 * [Linux用のツール](https://www.dropbox.com/install?os=lnx)もあります。
