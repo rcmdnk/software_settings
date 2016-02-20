@@ -383,7 +383,7 @@ Windowsだと単体でインストールしてWordとかでも使えます。
 その他のクラウドストレージは[Macの所で](http://rcmdnk.github.io/mac/macapp/)。
 
 ## EverNote &#9733;&#9733;&#9733;&#9733;&#9733;
-<a href="http://evernote.com/intl/jp/"><img src="http://rcmdnk.github.io/images//WinApp/Evernote.png" width="100" height="100" alt="EverNote"></a>
+<a href="https://www.evernote.com/referral/Registration.action?uid=6364820&sig=ce30993269f34b30d82499ebafa6f8be"><img src="http://rcmdnk.github.io/images//WinApp/Evernote.png" width="100" height="100" alt="EverNote"></a>
 
 * 言わずと知れた。自分に関する情報とかで覚えきれないものを整理して入れてます。
 * 色々新しく設定したものやら、何やらも。
