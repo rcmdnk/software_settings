@@ -54,7 +54,7 @@
 
 ## BatteryBar
 
-[BatteryBar](http://batterybarpro.comv/)
+[BatteryBar](http://batterybarpro.com/)
 
 * タスクバーにMacみたいなバッテリーアイコンを表示。
 
