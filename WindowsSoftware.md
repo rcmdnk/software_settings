@@ -207,7 +207,7 @@ Everythingの窓自体が残ってしまうのが少し残念。
 * 重複ファイルの削除ソフト。
 
 ### EaseUS Data Recovery Wizard Free &#9733;&#9733;
-<a href="http://jp.easeus.com/data-recovery-software/drw-free.html"><img src="http://rcmdnk.github.io/images//WinApp/EaseUSDataRecoveryWizardFree.png" width="100" height="100" alt="EaseUS Data Recovery Wizard Free"></a>
+<a href="//jp.easeus.com/data-recovery-software/drw-free.html"><img src="http://rcmdnk.github.io/images//WinApp/EaseUSDataRecoveryWizardFree.png" width="100" height="100" alt="EaseUS Data Recovery Wizard Free"></a>
 
 * ファイル復元ソフト。
 * Free版は機能は制限なく使えますが、累積で1GBまでと言う制限があります。
