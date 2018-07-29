@@ -22,9 +22,9 @@ Mac用アプリ
 
 {%include after_excerpt.html%}
 
-## デスクトップ表示
+# デスクトップ表示
 
-### GeekTool　&#9733;&#9733;&#9733;&#9733;
+## GeekTool　&#9733;&#9733;&#9733;&#9733;
 
 <div class="group">
 <a href="http://projects.tynsoe.org/en/geektool/" target="_blank" rel="nofollow"><img width="75" class="alignleft" align="left" src="http://a3.mzstatic.com/us/r1000/101/Purple/05/02/3a/mzi.wldskqbn.75x75-65.png" style="border-radius: 11px 11px 11px 11px;-moz-border-radius: 11px 11px 11px 11px;-webkit-border-radius: 11px 11px 11px 11px;box-shadow: 1px 4px 6px 1px #999999;-moz-box-shadow: 1px 4px 6px 1px #999999;-webkit-box-shadow: 1px 4px 6px 1px #999999;margin: -5px 15px 1px 5px;"></a>
@@ -45,7 +45,7 @@ Mac用アプリ
 
 > [GeekTool](http://rcmdnk.github.io/blog/2013/04/18/computer-mac-geektool-desktop/)
 
-### Simple Floating Clock &#9733;&#9733;&#9733;&#9733;
+## Simple Floating Clock &#9733;&#9733;&#9733;&#9733;
 <a href="http://www.splook.com/Software/Simple_Floating_Clock.html"><img src="http://rcmdnk.github.io/images//MacApp/SimpleFloatingClock.png" width="100" height="100" alt="Simple Floating Clock"></a>
 
 * その名の通りシンプルな時計を表示。
@@ -54,7 +54,7 @@ Mac用アプリ
 * ただ一つの難点が、Mission Controlで他の画面に移ると付いてきません。
   * 設定でそれっぽいものはあるけどLionのMission Controlには未対応なのか効きません。
 
-### XRG &#9733;&#9733;&#9733;&#9733;
+## XRG &#9733;&#9733;&#9733;&#9733;
 <a href="http://www.gauchosoft.com/Products/XRG/"><img src="http://rcmdnk.github.io/images//MacApp/XRG.png" width="100" height="100" alt="XRG"></a>
 
 * システムの色々な情報を表示してくれます。
@@ -71,9 +71,9 @@ Mac用アプリ
 
 > [MacでのGeekToolの設定](http://rcmdnk.github.com/blog/2014/05/19/computer-macc-geektool/)
 
-## メニューバー関連
+# メニューバー関連
 
-### MenuBarFilter &#9733;
+## MenuBarFilter &#9733;
 <a href="http://eece.github.com/MenuBarFilter/"><img src="http://rcmdnk.github.io/images//MacApp/MenuBarFilter.png" width="100" height="100" alt="MenuBarFilter"></a>
 
 * メニューバーを反転色にして黒く出来ます（アイコンの色も反転するので、全部モノクロアイコンを使っている方が綺麗に出来ます）。
@@ -81,7 +81,7 @@ Mac用アプリ
 
 > [OS X Yosemite 10.10にアップデートして気になったこととか](http://rcmdnk.github.io/blog/2014/10/19/computer-mac/)
 
-### Caffeine &#9733;&#9733;&#9733;&#9733;&#9733;
+## Caffeine &#9733;&#9733;&#9733;&#9733;&#9733;
 
 <div class="group">
 <a href="https://itunes.apple.com/jp/app/caffeine/id411246225?mt=12&uo=4&at=10lc94" target="_blank" rel="nofollow"><img width="75" class="alignleft" align="left" src="http://a3.mzstatic.com/us/r1000/020/Purple/5f/0a/df/mzi.nvflrkie.75x75-65.png" style="border-radius: 11px 11px 11px 11px;-moz-border-radius: 11px 11px 11px 11px;-webkit-border-radius: 11px 11px 11px 11px;box-shadow: 1px 4px 6px 1px #999999;-moz-box-shadow: 1px 4px 6px 1px #999999;-webkit-box-shadow: 1px 4px 6px 1px #999999;margin: -5px 15px 1px 5px;"></a>
@@ -91,7 +91,7 @@ Mac用アプリ
 
 * メニューバーに常駐して、クリックするだけでスリープになるのを防ぐ様にしてくれます。
 
-### Should I Sleep &#9733;&#9733;&#9733;
+## Should I Sleep &#9733;&#9733;&#9733;
 
 <div class="group">
 <a href="https://itunes.apple.com/jp/app/id560851219?mt=12&uo=4&at=10lc94" target="_blank" rel="nofollow"><img width="75" class="alignleft" align="left" src="http://a2.mzstatic.com/us/r1000/103/Purple/v4/78/dc/7b/78dc7bc7-19e0-8888-cc9f-2829fd67ba59/Should_I_Sleep.75x75-65.png" style="border-radius: 11px 11px 11px 11px;-moz-border-radius: 11px 11px 11px 11px;-webkit-border-radius: 11px 11px 11px 11px;box-shadow: 1px 4px 6px 1px #999999;-moz-box-shadow: 1px 4px 6px 1px #999999;-webkit-box-shadow: 1px 4px 6px 1px #999999;margin: -5px 15px 1px 5px;"></a>
@@ -104,7 +104,7 @@ Mac用アプリ
 * 認識中はカメラの横のライトがつくのでライトがついてディスプレイがスリープしないのを見るとちょっと嬉しくなります。
 * 効果を実感するには、省エネルギー設定で、「ディスプレイがスリープ状態になる前に輝度を下げる」のチェックを外しておいた方が良いです。（じゃないと暗くなった瞬間にトラックパッド触って明るくしたり、認識しても暗いままになってしまいます。）
 
-### Degrees &#9733;&#9733;&#9733;
+## Degrees &#9733;&#9733;&#9733;
 
 <div class="group">
 <a href="https://itunes.apple.com/jp/app/id430173763?mt=12&uo=4&at=10lc94" target="_blank" rel="nofollow"><img width="75" class="alignleft" align="left" src="http://a1.mzstatic.com/us/r1000/102/Purple/b2/bc/c7/mzi.wmyyuhlh.75x75-65.png" style="border-radius: 11px 11px 11px 11px;-moz-border-radius: 11px 11px 11px 11px;-webkit-border-radius: 11px 11px 11px 11px;box-shadow: 1px 4px 6px 1px #999999;-moz-box-shadow: 1px 4px 6px 1px #999999;-webkit-box-shadow: 1px 4px 6px 1px #999999;margin: -5px 15px 1px 5px;"></a>
@@ -113,29 +113,29 @@ Mac用アプリ
 
 * メニューバーに天気を表示させます。
 
-### Google Notifier &#9733;&#9733;&#9733;
+## Google Notifier &#9733;&#9733;&#9733;
 <a href="http://toolbar.google.com/gmail-helper/notifier_mac.html"><img src="http://rcmdnk.github.io/images//MacApp/GoogleNotifier.png" width="100" height="100" alt="Google Notifier"></a>
 
 * カレンダーやGmailの通知をメニューバーでしてくれます。メールは下の他の通知を使っているので、カレンダー通知用に使用中です。
 
-### Mail Unread Menu &#9733;&#9733;&#9733;&#9733;&#9733;
+## Mail Unread Menu &#9733;&#9733;&#9733;&#9733;&#9733;
 <a href="http://loganrockmore.com/MailUnreadMenu/"><img src="http://rcmdnk.github.io/images//MacApp/MailUnreadMenu.png" width="100" height="100" alt="Mail Unread Menu"></a>
 
 * メニューバーにMail.appでの未読メール数を表示してくれます。
 * これがあるのでメーラーをThunderbirdからMail.appに移しました。(Dockを自動的に隠しても未読メールが確認できるようになってうれしいので。)
 
-### AccessMenuBarApps &#9733;
+## AccessMenuBarApps &#9733;
 <a href="http://www.ortisoft.de/en/accessmenubarapps/"><img src="http://rcmdnk.github.io/images//MacApp/AccessMenuBarApps.png" width="100" height="100" alt="AccessMenuBarApps"></a>
 
 * メニューバーのアイテムを短縮して表示してくれるようになります。沢山メニューバーに項目がある人は便利かと（未使用）。
 
-### MenuBar Expander &#9733;
+## MenuBar Expander &#9733;
 <a href="http://www.seense.com/mbe/"><img src="http://rcmdnk.github.io/images//MacApp/MenuBarExpander.png" width="100" height="100" alt="MenuBar Expander"></a>
 
 * メニューバーがいっぱいになってしまってアイコンが隠れてしまった時、メニューバーが無いアプリを全面に持ってきて隠れているアプリを表示させてくれるアプリ。
 * 今のところメニューバーがいっぱいになってないので使ってませんが、AccessMenuBarApps同様、そのうち必要になるかも。
 
-### Secondbar &#9733;&#9733;
+## Secondbar &#9733;&#9733;
 <a href="http://blog.boastr.net/?page_id=79"><img src="http://rcmdnk.github.io/images//MacApp/Secondbar.png" width="100" height="100" alt="Secondbar"></a>
 
 * 外部モニターに繋げて、別々の画面を映す時、メニューバーを両方の画面に表示させます。
@@ -146,53 +146,53 @@ Mac用アプリ
 
 <img src="http://rcmdnk.github.io/images//MacApp/CurrentMenuBar.png" width="100" height="100" alt="CurrentMenuBar">
 
-## Dock関連
+# Dock関連
 
-### Configure Application Dock Tile &#9733;&#9733;&#9733;&#9733;
+## Configure Application Dock Tile &#9733;&#9733;&#9733;&#9733;
 <a href="http://boredzo.org/cadt/"><img src="http://rcmdnk.github.io/images//MacApp/ConfigureApplicationDockTile.png" width="100" height="100" alt="Configure Application Dock Tile"></a>
 
 * 起動中のアプリを簡単にDock非表示に出来ます(XRGに使用)。
 
-### Docker &#9733;&#9733;&#9733;
+## Docker &#9733;&#9733;&#9733;
 <a href="http://www.blocksoft.net/docker.html"><img src="http://rcmdnk.github.io/images//MacApp/Docker.png" width="100" height="100" alt="Docker"></a>
 
 * Dockのカスタマイズアプリ。
 
-### Mirage &#9733;&#9733;&#9733;
+## Mirage &#9733;&#9733;&#9733;
 <a href="http://www.macupdate.com/app/mac/36045/mirage"><img src="http://rcmdnk.github.io/images//MacApp/Mirage.png" width="100" height="100" alt="Mirage"></a>
 
 * 同じくDockのカスタマイズアプリ。Dockの背景を消せます。
 
-### cDock
+## cDock
 
 <a href="http://sourceforge.net/projects/cdock/"><img src="http://rcmdnk.github.io/images//MacApp/Mirage.png" width="100" height="100" alt="cDock"></a>
 
 * Yosemite対応のDockカスタマイズアプリ。
 
-## システム、設定
+# システム、設定
 
-### TinkerTool &#9733;&#9733;&#9733;&#9733;
+## TinkerTool &#9733;&#9733;&#9733;&#9733;
 <a href="http://www.bresink.com/osx/TinkerTool.html"><img src="http://rcmdnk.github.io/images//MacApp/TinkerTool.png" width="100" height="100" alt="TinkerTool"></a>
 
 * システムの環境設定からでは出来ない設定を簡単に変更できます。
 
-### Deeper &#9733;&#9733;&#9733;
+## Deeper &#9733;&#9733;&#9733;
 <a href="http://www.titanium.free.fr/downloaddeeper.php"><img src="http://rcmdnk.github.io/images//MacApp/Deeper.png" width="100" height="100" alt="Deeper"></a>
 
 * 同じく痒いところに手が届くあぷり。TinkerToolと被る所がおおけど両方入れておいても良いと思います。
 
-### OnyX &#9733;&#9733;
+## OnyX &#9733;&#9733;
 <a href="http://www.titanium.free.fr/downloadonyx.php"><img src="http://rcmdnk.github.io/images//MacApp/OnyX.png" width="100" height="100" alt="OnyX"></a>
 
 * Deeperと同じ所が作ってるメンテナンスソフト。
 * 色々できますが、立ち上げる時、注意しないで出てきたウィンドウでyesを押してくと、ディスクチェックを初めて立ち上げてるアプリを終了させ出すので、何か編集中とかだととても危険なので注意が必要です…
 
-### Lion Designer &#9733;&#9733;
+## Lion Designer &#9733;&#9733;
 <a href="http://www.moritzwette.com/liondesigner/"><img src="http://rcmdnk.github.io/images//MacApp/LionDesigner.png" width="100" height="100" alt="Lion Designer"></a>
 
 * Mission Controlの壁紙とかの背景を簡単に変えられます。
 
-### HyperSwitch &#9733;&#9733;&#9733;&#9733;&#9733;
+## HyperSwitch &#9733;&#9733;&#9733;&#9733;&#9733;
 <a href="http://bahoom.com/hyperswitch"><img src="http://rcmdnk.github.io/images//MacApp/HyperSwitch.png" width="100" height="100" alt="HyperSwitch"></a>
 
 * WindowsのAlt-Tabみたいにwindow毎にスイッチ出来る様になります。
@@ -205,7 +205,7 @@ Mac用アプリ
 * Witchは有料なのなので使ってません。
 * 今のところHyperSwitchは安定してるし今のところメインです。
 
-### XtraFinder &#9733;&#9733;&#9733;&#9733;&#9733;
+## XtraFinder &#9733;&#9733;&#9733;&#9733;&#9733;
 <a href="http://www.trankynam.com/xtrafinder/"><img src="http://rcmdnk.github.io/images//MacApp/XtraFinder.png" width="100" height="100" alt="XtraFinder"></a>
 
 * Finderの強化。強化、と言うよりもはや別物に昇華してくれます。全部純正に取り込んで欲しい…。
@@ -215,7 +215,7 @@ Mac用アプリ
 
 > [MacでのFinderの設定](http://rcmdnk.github.com/blog/2014/05/19/computer-mac-finder/)
 
-### Google日本語入力 &#9733;&#9733;&#9733;&#9733;&#9733;
+## Google日本語入力 &#9733;&#9733;&#9733;&#9733;&#9733;
 <a href="http://www.google.co.jp/ime/"><img src="http://rcmdnk.github.io/images//MacApp/GoogleIME.png" width="100" height="100" alt="Google日本語入力"></a>
 
 * 言わずと知れた。取り敢えずことえりの代わりに。
@@ -224,7 +224,7 @@ Mac用アプリ
 
 > [Macで入力ソースにいつの間にかU.S.が入ってきて消せない時の対処法](http://rcmdnk.github.io/blog/2014/05/23/computer-mac/)
 
-### ClipMenu &#9733;&#9733;&#9733;&#9733;&#9733;
+## ClipMenu &#9733;&#9733;&#9733;&#9733;&#9733;
 <a href="http://www.clipmenu.com/ja/"><img src="http://rcmdnk.github.io/images//MacApp/ClipMenu.png" width="100" height="100" alt="ClipMenu"></a>
 
 * クリップボードの履歴を保持してくれます。スニペット機能もあります。
@@ -234,7 +234,7 @@ Mac用アプリ
 という似たようなアプリもあります(ただショートカットで呼び出せない?のが致命的で
 スニペット機能なども含めてClipMenuの方が圧倒的に便利。重さはそもそも気にならない。)
 
-### LiteIcon &#9733;&#9733;&#9733;&#9733;
+## LiteIcon &#9733;&#9733;&#9733;&#9733;
 
 <a href="http://www.freemacsoft.net/liteicon/"><img src="http://rcmdnk.github.io/images//post/20131219_liteicon.jpg" width="100" height="100" alt="LiteIcon"></a>
 
@@ -243,7 +243,7 @@ Mac用アプリ
 
 > [MacでDockにあるFinderやゴミ箱アイコンを変える方法](http://rcmdnk.github.io/blog/2013/12/19/computer-mac/)
 
-### Sophos &#9733;&#9733;&#9733;&#9733;
+## Sophos &#9733;&#9733;&#9733;&#9733;
 
 <a href="http://www.sophos.com/ja-jp/products/free-tools/sophos-antivirus-for-mac-home-edition.aspx"><img src="http://rcmdnk.github.io/images//MacApp/Sophos.png" width="100" height="100" alt="Sophos"></a>
 
@@ -254,9 +254,9 @@ Mac用アプリ
 
 > [Yosemiteの高速化等](http://rcmdnk.github.io/blog/2014/11/02/computer-mac)
 
-## キーボード、トラックパッド、マウス、ショートカット
+# キーボード、トラックパッド、マウス、ショートカット
 
-### BetterTouchTool &#9733;&#9733;&#9733;&#9733;&#9733;
+## BetterTouchTool &#9733;&#9733;&#9733;&#9733;&#9733;
 <a href="http://blog.boastr.net/?page_id=1722"><img src="http://rcmdnk.github.io/images//MacApp/BetterTouchTool.png" width="100" height="100" alt="BetterTouchTool"></a>
 
 * トラックパッド、（マジック）マウス、キーボード等、色々ショートカットを割り当てられます。
@@ -266,7 +266,7 @@ Mac用アプリ
 
 > [BetterTouchToolの設定](http://rcmdnk.github.io/blog/2014/05/14/computer-mac-btt/)
 
-### Karabiner (旧KeyRemap4MacBook) &#9733;&#9733;&#9733;&#9733;&#9733;
+## Karabiner (旧KeyRemap4MacBook) &#9733;&#9733;&#9733;&#9733;&#9733;
 <a href="http://pqrs.org/macosx/keyremap4macbook/index.html.ja"><img src="http://rcmdnk.github.io/images//MacApp/KeyRemap4MacBook.png" width="100" height="100" alt="KeyRemap4MacBook"></a>
 
 * キーボードの割り当ての変更出来ます。これも必須。
@@ -291,13 +291,13 @@ Mac用アプリ
 
 > [KeyRemap4MacBookの設定(+MadRuby)](http://rcmdnk.github.io/blog/2014/05/14/computer-mac-keyremap4macbook/)
 
-### Spark
+## Spark
 <a href="http://www.shadowlab.org/Software/spark.php"><img src="http://rcmdnk.github.io/images//MacApp/Spark.png" width="100" height="100" alt="Spark"></a>
 
 * ホットキーへの色々な割り当てが出来ます。
 * ただ同じ事がBetterTouchToolでも出来るので、そっちに全て乗り換えて今は使ってません。
 
-### Alfred
+## Alfred
 
 <div class="group">
 <a href="https://itunes.apple.com/jp/app/id405843582?mt=12&uo=4&at=10lc94" target="_blank" rel="nofollow"><img width="75" class="alignleft" align="left" src="http://a1.mzstatic.com/us/r1000/069/Purple/v4/b4/7b/51/b47b5118-5ba5-a359-0bc6-e71494225963/appicon.75x75-65.png" style="border-radius: 11px 11px 11px 11px;-moz-border-radius: 11px 11px 11px 11px;-webkit-border-radius: 11px 11px 11px 11px;box-shadow: 1px 4px 6px 1px #999999;-moz-box-shadow: 1px 4px 6px 1px #999999;-webkit-box-shadow: 1px 4px 6px 1px #999999;margin: -5px 15px 1px 5px;"></a>
@@ -308,17 +308,17 @@ Mac用アプリ
 * Spotlightだと右上だけに表示が固定されますが、Alfredだとどこでも表示できるし大きく表示できるのでちょっと嬉しい。
 * でもSpotlightで十分だし無料だとメールとかも検索出来ないので結局使用を辞めました。
 
-### QuickSilver
+## QuickSilver
 <a href="http://qsapp.com/"><img src="http://rcmdnk.github.io/images//MacApp/QuickSilver.png" width="100" height="100" alt="QuickSilver"></a>
 
 * 同じくランチャー。同じくSpotlightで十分なので使ってません。
 
-### Dejamenu
+## Dejamenu
 <a href="http://www.macupdate.com/app/mac/13040/dejamenu"><img src="http://rcmdnk.github.io/images//MacApp/Dejamenu.png" width="100" height="100" alt="Dejamenu"></a>
 
 * メニューバーの項目をホットキーで呼び出せます（作者のページが消えている…）。ただ、同じ事がBetterTouchToolでできるので不要に…
 
-### MenuPop
+## MenuPop
 
 <div class="group">
 <a href="https://itunes.apple.com/jp/app/id404747434?mt=12&uo=4&at=10lc94" target="_blank" rel="nofollow"><img width="75" class="alignleft" align="left" src="http://a5.mzstatic.com/us/r1000/073/Purple/2b/d5/3c/mzi.hxkqvhtx.75x75-65.png" style="border-radius: 11px 11px 11px 11px;-moz-border-radius: 11px 11px 11px 11px;-webkit-border-radius: 11px 11px 11px 11px;box-shadow: 1px 4px 6px 1px #999999;-moz-box-shadow: 1px 4px 6px 1px #999999;-webkit-box-shadow: 1px 4px 6px 1px #999999;margin: -5px 15px 1px 5px;"></a>
@@ -329,9 +329,9 @@ Mac用アプリ
 * [Liteバージョン](http://menupoplite.mac.informer.com/)も無料である
 * 同じくBetterTouchToolがあるので不要に…
 
-## アプリ、ファイル操作
+# アプリ、ファイル操作
 
-### AppCleaner &#9733;&#9733;&#9733;&#9733;&#9733;
+## AppCleaner &#9733;&#9733;&#9733;&#9733;&#9733;
 <a href="http://www.freemacsoft.net/appcleaner/"><img src="http://rcmdnk.github.io/images//MacApp/AppCleaner.png" width="100" height="100" alt="AppCleaner"></a>
 
 * アプリを消すときに設定ファイルとかもまとめて消してくれます。アンインストラーの無いMacでは必須。
@@ -339,7 +339,7 @@ Mac用アプリ
 アプリが削除されるときに、自動で設定ファイル等も削除するか訪ねてくれる。
 * 頻繁にアンインストールを繰り返す場合はこっちの方が便利です。
 
-### App Language Chooser &#9733;&#9733;&#9733;&#9733;&#9733;
+## App Language Chooser &#9733;&#9733;&#9733;&#9733;&#9733;
 
 <div class="group">
 <a href="https://itunes.apple.com/jp/app/id451732904?mt=12&uo=4&at=10lc94" target="_blank" rel="nofollow"><img width="75" class="alignleft" align="left" src="http://a1.mzstatic.com/us/r1000/064/Purple/59/10/53/mzi.iwnexdzn.75x75-65.png" style="border-radius: 11px 11px 11px 11px;-moz-border-radius: 11px 11px 11px 11px;-webkit-border-radius: 11px 11px 11px 11px;box-shadow: 1px 4px 6px 1px #999999;-moz-box-shadow: 1px 4px 6px 1px #999999;-webkit-box-shadow: 1px 4px 6px 1px #999999;margin: -5px 15px 1px 5px;"></a>
@@ -353,22 +353,22 @@ Mac用アプリ
 
 > [App Language ChooserでMail.app等特定のアプリだけ英語設定にする](http://rcmdnk.github.io/blog/2013/07/15/computer-mac-english/)
 
-### Wine, WineBottler &#9733;&#9733;
+## Wine, WineBottler &#9733;&#9733;
 <a href="http://winebottler.kronenberg.org/"><img src="http://rcmdnk.github.io/images//MacApp/WineBottler.png" width="100" height="100" alt="Wine, WineBottler"></a>
 
 * WineはWindowsのソフトをWindows外で動かすためのプログラム。WineBottlerはMacでWineを使うためのアプリ。
 
-### MikuInstaller &#9733;&#9733;
+## MikuInstaller &#9733;&#9733;
 <a href="http://mikuinstaller.sourceforge.jp/"><img src="http://rcmdnk.github.io/images//MacApp/MikuInstaller.png" width="100" height="100" alt="MikuInstaller"></a>
 
 * 日本で作られたWineを使ったWindowsソフトを動かすためのアプリ。
 
-### DupScan &#9733;&#9733;&#9733;
+## DupScan &#9733;&#9733;&#9733;
 <a href="http://www5.wind.ne.jp/miko/mac_soft/dup_scan/index.html"><img src="http://rcmdnk.github.io/images//MacApp/DupScan.png" width="100" height="100" alt="DupScan"></a>
 
 * 重複ファイルを検索して削除してくれます。
 
-### StuffIt Expander &#9733;&#9733;&#9733;&#9733;
+## StuffIt Expander &#9733;&#9733;&#9733;&#9733;
 
 <div class="group">
 <a href="https://itunes.apple.com/jp/app/id405580712?mt=12&uo=4&at=10lc94" target="_blank" rel="nofollow"><img width="75" class="alignleft" align="left" src="http://a4.mzstatic.com/us/r1000/088/Purple/v4/9c/c1/5b/9cc15bb0-0a80-fc87-d069-e37f849075ae/expander.75x75-65.png" style="border-radius: 11px 11px 11px 11px;-moz-border-radius: 11px 11px 11px 11px;-webkit-border-radius: 11px 11px 11px 11px;box-shadow: 1px 4px 6px 1px #999999;-moz-box-shadow: 1px 4px 6px 1px #999999;-webkit-box-shadow: 1px 4px 6px 1px #999999;margin: -5px 15px 1px 5px;"></a>
@@ -378,15 +378,15 @@ Mac用アプリ
 
 * 解凍ソフト。メインに使用。
 
-### Zipeg &#9733;&#9733;&#9733;&#9733;
+## Zipeg &#9733;&#9733;&#9733;&#9733;
 <a href="http://www.zipeg.com/"><img src="http://rcmdnk.github.io/images//MacApp/Zipeg.png" width="100" height="100" alt="Zipeg"></a>
 
 * たまにファイルが壊れかけててStuffIt Expanderで解凍に失敗した時、Zipegだとファイrの中身の一部を選んで取り出せる事があります。
 
 
-## ターミナル
+# ターミナル
 
-### iTerm2 &#9733;&#9733;&#9733;&#9733;&#9733;
+## iTerm2 &#9733;&#9733;&#9733;&#9733;&#9733;
 <a href="http://www.iterm2.com/#/section/home"><img src="http://rcmdnk.github.io/images//MacApp/iTerm2.png" width="100" height="100" alt="iTerm2"></a>
 
 * 純正ターミナルの代用品。色々と細かい所でターミナルでは出来ないことが出来たりするので最初から使ってます（何が嬉しかったのか余り覚えてないので、そのうちまた整理したいと…）
@@ -398,7 +398,7 @@ Mac用アプリ
 
 > [iTerm2上でHyperSwitchなどが使えなくなったのでターミナル.appに乗り換えた](http://rcmdnk.github.io/blog/2014/09/30/computer-mac-iterm2/)
 
-### Cathode &#9733;&#9733;
+## Cathode &#9733;&#9733;
 
 <div class="group">
 <a href="https://itunes.apple.com/jp/app/id499233976?mt=12&uo=4&at=10lc94" target="_blank" rel="nofollow"><img width="75" class="alignleft" align="left" src="http://a2.mzstatic.com/us/r1000/104/Purple/v4/07/32/47/073247c0-7905-0a48-37e4-26657685b06b/Cathode.75x75-65.png" style="border-radius: 11px 11px 11px 11px;-moz-border-radius: 11px 11px 11px 11px;-webkit-border-radius: 11px 11px 11px 11px;box-shadow: 1px 4px 6px 1px #999999;-moz-box-shadow: 1px 4px 6px 1px #999999;-webkit-box-shadow: 1px 4px 6px 1px #999999;margin: -5px 15px 1px 5px;"></a>
@@ -408,15 +408,15 @@ Mac用アプリ
 * 昔なつかしのブラウン管っぽい画面でターミナルを開いてくれます。[作者のページ](http://www.secretgeometry.com/apps/cathode/)から直接ダウンロードすれば無料版が試せます
 * 無料のままだと画面がみずらくなったりしますが、取り敢えず面白いので無料版を入れて遊んで見る分には楽しいと思います。
 
-## テキスト、エディタ
+# テキスト、エディタ
 
-### macvim-kaoriya &#9733;&#9733;&#9733;&#9733;
+## macvim-kaoriya &#9733;&#9733;&#9733;&#9733;
 <a href="http://code.google.com/p/macvim-kaoriya/"><img src="http://rcmdnk.github.io/images//MacApp/vim.png" width="100" height="100" alt="macvim-kaoriya"></a>
 
 * Vim。本家[MacVim](http://code.google.com/p/macvim/)を日本語環境で使いやすくしたものです。
 * テキスト的な物をFinderから開いたり編集したりしたい様な時は基本的にこれを使います。
 
-### Mou &#9733;&#9733;
+## Mou &#9733;&#9733;
 <a href="http://mouapp.com/"><img src="http://rcmdnk.github.io/images//MacApp/Mou.png" width="100" height="100" alt="Mou"></a>
 
 * MarkDownをLive View出来るアプリ。さくさく動くので楽しい。
@@ -424,26 +424,26 @@ Mac用アプリ
 * ただ、作者が一時期更新がこれ以上出来ない、としていて、ファンディングを行ったり色々何とかしようとしています。
 * そんな中、Mouに強く影響を受けてる下のMacDownと言うフリーのエディタが出てきたのでそちらに移りました。
 
-### MacDown &#9733;&#9733;&#9733;  
+## MacDown &#9733;&#9733;&#9733;  
 
 <a href="http://macdown.uranusjr.com/"><img src="http://rcmdnk.github.io/images//MacApp/MacDown.png" width="100" height="100" alt="MacDown"></a>
 
 * Mouに影響を受けて作られたMarkdownエディタ。
 * 取り敢えずこちら中心に使用で。
 
-### TeXShop &#9733;&#9733;
+## TeXShop &#9733;&#9733;
 <a href="http://pages.uoregon.edu/koch/texshop/"><img src="http://rcmdnk.github.io/images//MacApp/TeXShop.png" width="100" height="100" alt="TeXShop"></a>
 
 * Texを簡単にプレビュー出来るアプリ。
 
-### TeX2img &#9733;&#9733;
+## TeX2img &#9733;&#9733;
 <a href="http://island.geocities.jp/loveinequality/"><img src="http://rcmdnk.github.io/images//MacApp/TeX2img.png" width="100" height="100" alt="TeX2img"></a>
 
 * TeXで作った数式とかを簡単にファイルに出力出来ます。Power Pointのお供とかに。
 
-## ファイル転送
+# ファイル転送
 
-### FileZilla &#9733;&#9733;&#9733;&#9733;&#9733;
+## FileZilla &#9733;&#9733;&#9733;&#9733;&#9733;
 <a href="http://filezilla-project.org/"><img src="http://rcmdnk.github.io/images//MacApp/FileZilla.png" width="100" height="100" alt="FileZilla"></a>
 
 * FTP,FTPS,SFTP,SCPクライアント。
@@ -457,7 +457,7 @@ Mac用アプリ
 ローカルにダウンロードされたものと紐付けられ、毎回上書きするかローカルのものを
 もう一回開くか言われて少し面倒。
 
-### Cyberduck
+## Cyberduck
 
 <div class="group">
 <a href="https://itunes.apple.com/jp/app/id409222199?mt=12&uo=4&at=10lc94" target="_blank" rel="nofollow"><img width="75" class="alignleft" align="left" src="http://a4.mzstatic.com/us/r1000/067/Purple/fc/90/07/mzi.ocryrdbw.75x75-65.png" style="border-radius: 11px 11px 11px 11px;-moz-border-radius: 11px 11px 11px 11px;-webkit-border-radius: 11px 11px 11px 11px;box-shadow: 1px 4px 6px 1px #999999;-moz-box-shadow: 1px 4px 6px 1px #999999;-webkit-box-shadow: 1px 4px 6px 1px #999999;margin: -5px 15px 1px 5px;"></a>
@@ -470,10 +470,10 @@ Mac用アプリ
 * ただ、毎回サーバー側のファイルを開こうとすると、新しくダウンロードして開いてくれるので
 単に開きたいだけならCyberduckの方が便利。
 
-## クラウド、ファイル共有、ノート
+# クラウド、ファイル共有、ノート
 
-### Dropbox &#9733;&#9733;&#9733;&#9733;&#9733;
-<a href="https://www.dropbox.com/"><img src="http://rcmdnk.github.io/images//MacApp/Dropbox.jpg" width="100" height="100" alt="Dropbox"></a>
+## Dropbox &#9733;&#9733;&#9733;&#9733;&#9733;
+<a href="https://www.dropbox.com/"><img src="http://rcmdnk.github.io/images//MacApp/Dropbox.png" width="100" height="100" alt="Dropbox"></a>
 
 * ファイル共有。メイン。なんだかんだで一番安定していると思います。
 * [Linux用のツール](https://www.dropbox.com/install?os=lnx)もあります。
@@ -482,48 +482,48 @@ Mac用アプリ
 
 > [Dropboxの初期設定](http://rcmdnk.github.io/blog/2014/05/14/computer-mac-dropbox/)
 
-### AeroFS &#9733;&#9733;&#9733;
+## AeroFS &#9733;&#9733;&#9733;
 <a href="https://www.aerofs.com/"><img src="http://rcmdnk.github.io/images//MacApp/AeroFS.png" width="100" height="100" alt="AeroFS"></a>
 
 * Windows Live Meshみたいにサーバーを通さず直接P2Pでファイルをシェア出来ます。
 * Macでは今の所使ってませんが、Live Meshがサービス終了してしまったので、他の所で使ってます。
 
-### KDrive &#9733;&#9733;
+## KDrive &#9733;&#9733;
 <a href="https://www.kdrive.jp/static/index.html"><img src="http://rcmdnk.github.io/images//MacApp/KDrive.png" width="100" height="100" alt="KDrive"></a>
 
 * いきなり30GBもらえる上、チェックインとかちょこちょこしていくとすぐ50GBにできるので、
 写真のバックアップに使用してます。ただ、Macではアプリは起動してません。ウェブで写真を見るだけ。
 
-### box &#9733;
+## box &#9733;
 <a href="https://www.box.com/home/"><img src="http://rcmdnk.github.io/images//MacApp/box.png" width="100" height="100" alt="box"></a>
 
 * ちょこちょこ50GBキャペーンをやってます。取り敢えず適当にバックアップ用。Macでは起動してません。
 
-### Nドライブ &#9733;
+## Nドライブ &#9733;
 <a href="http://ndrive.naver.jp/"><img src="http://rcmdnk.github.io/images//MacApp/NDrive.png" width="100" height="100" alt="Nドライブ"></a>
 
 * これも30GBいきなり貰えます 。昔大きなファイルの共有に使ってましたがいまいち不安定なところもあって今は使ってません。
 * 2013年の11月でサービス終了してます。
 
-### Google Drive &#9733;
+## Google Drive &#9733;
 <a href="https://tools.google.com/dlpage/drive/index.html?hl=ja"><img src="http://rcmdnk.github.io/images//MacApp/GoogleDrive.png" width="100" height="100" alt="Google Drive"></a>
 
 * googleの物は結構使ってますがDropboxと被るので、今の所使ってません。
     * Google Docs的な物でなんだかんだ少しは使ってる。
 
-### SugarSync &#9733;
+## SugarSync &#9733;
 <a href="http://www.microsoft.com/japan/mac?WT.srch=1"><img src="http://rcmdnk.github.io/images//MacApp/SugarSync.png" width="100" height="100" alt="SugarSync"></a>
 
 * 同じくDropboxと被るので使ってません。
 * 数年前に始まった頃にDropboxと両方使ってましたがDropboxのが安定していたのと、Linux用のツールがDropboxだけにあるので、容量がある程度増えた後はDropboxだけになりました。
 
-### OneDrive (旧Sky Drive) &#9733;
+## OneDrive (旧Sky Drive) &#9733;
 <a href="http://windows.microsoft.com/ja-jp/skydrive/download"><img src="http://rcmdnk.github.io/images//MacApp/SkyDrive.png" width="100" height="100" alt="Sky Drive"></a>
 
 * 今入ると7GB。去年の変更時にアップデート時に手続きをしておけば25GBに出来ましたがやらなかったので7GBのまま。上２つ同様Dropboxで事足りてるので使ってない。
 * 名前に問題があるとかで今はOneDriveに。
 
-### Copy.com &#9733;&#9733;&#9733;
+## Copy.com &#9733;&#9733;&#9733;
 <a href="https://copy.com?r=wKmayU"><img src="http://rcmdnk.github.io/images//WinApp/copy.jpg" width="100" height="100" alt="copy"></a>
 
 * 初期状態で15GB, 紹介で簡単に5GBずつ増やせる。
@@ -531,7 +531,7 @@ Mac用アプリ
 
 > [オンラインストレージCopy.comを導入](http://rcmdnk.github.io/blog/2013/09/01/computer/)
 
-### EverNote &#9733;&#9733;&#9733;&#9733;&#9733;
+## EverNote &#9733;&#9733;&#9733;&#9733;&#9733;
 
 <a href="https://www.evernote.com/referral/Registration.action?uid=6364820&sig=ce30993269f34b30d82499ebafa6f8be"><img src="http://rcmdnk.github.io/images//WinApp/Evernote.png" width="100" height="100" alt="Evetnote"></a>
 {%comment%}
@@ -548,7 +548,7 @@ Mac用アプリ
 
 > [Evernoteの設定](http://rcmdnk.github.com/blog/2014/05/14/computer-mac-evernote/)
 
-### Metanota &#9733;
+## Metanota &#9733;
 
 <div class="group">
 <a href="https://itunes.apple.com/jp/app/id511648940?mt=12&uo=4&at=10lc94" target="_blank" rel="nofollow"><img width="75" class="alignleft" align="left" src="http://a4.mzstatic.com/us/r1000/064/Purple2/v4/4d/61/01/4d6101df-e5e2-68ae-5f04-1637dd39f902/metanota.75x75-65.png" style="border-radius: 11px 11px 11px 11px;-moz-border-radius: 11px 11px 11px 11px;-webkit-border-radius: 11px 11px 11px 11px;box-shadow: 1px 4px 6px 1px #999999;-moz-box-shadow: 1px 4px 6px 1px #999999;-webkit-box-shadow: 1px 4px 6px 1px #999999;margin: -5px 15px 1px 5px;"></a>
@@ -567,7 +567,7 @@ Mac用アプリ
     * iPhoneでは[Nocs](https://itunes.apple.com/jp/app/nocs-text-+-markdown-+-dropbox/id396073482?mt=8)+DropBoxでオフラインにメモを取っておいてクラウド同期することが可能なのでそれでOK
     * vimから直接アクセスする、というギークさに惹かれましたが、サーバーにアクセスするのが遅くて辛かったです。
 
-### Pocket &#9733;&#9733;
+## Pocket &#9733;&#9733;
 
 <div class="group">
 <a href="https://itunes.apple.com/jp/app/id568494494?mt=12&uo=4&at=10lc94" target="_blank" rel="nofollow"><img width="75" class="alignleft" align="left" src="http://a4.mzstatic.com/us/r1000/105/Purple/v4/14/94/c7/1494c7ec-30fe-4ad4-a505-4c7c64a76b73/Icon.75x75-65.png" style="border-radius: 11px 11px 11px 11px;-moz-border-radius: 11px 11px 11px 11px;-webkit-border-radius: 11px 11px 11px 11px;box-shadow: 1px 4px 6px 1px #999999;-moz-box-shadow: 1px 4px 6px 1px #999999;-webkit-box-shadow: 1px 4px 6px 1px #999999;margin: -5px 15px 1px 5px;"></a>
@@ -579,21 +579,21 @@ Mac用アプリ
 * ブラウザのブックマークレットから簡単に保存しておけるので、一時的なブックマーク的に使っています。
 * デスクトップクライアントを使うと溜めた記事をダウンロードできるのでオフラインで読める様になります。
 
-## 写真、画像編集、動画
+# 写真、画像編集、動画
 
-### Picasa &#9733;&#9733;&#9733;
+## Picasa &#9733;&#9733;&#9733;
 <a href="http://picasa.google.co.jp/intl/ja/"><img src="http://rcmdnk.github.io/images//MacApp/Picasa.png" width="100" height="100" alt="Picasa"></a>
 
 * 写真管理。
 * サーバに保存するには容量制限がありますが、2048x2048サイズにしてアップロードするとカウントされずに上限なしでアップロードできるのでバックアップがてら片っ端からアップロードしています。
 * ただし、ひと月当たりのアップロード上限が10GBらしいので、最初にアップロードするときには数ヶ月に分ける必要があるかもしれません。
 
-### cooViewer &#9733;&#9733;&#9733;
+## cooViewer &#9733;&#9733;&#9733;
 <a href="http://www.geocities.jp/coo_ona/viewer.html"><img src="http://rcmdnk.github.io/images//MacApp/cooViewer.png" width="100" height="100" alt="cooViewer"></a>
 
 * 同じフォルダ内にある写真とか、連続して見るに楽です（プレビュー.appでも同じフォルダ内の写真を連続して見れたら良いのですが、、、もしかして出来たり…？）。
 
-### Skitch &#9733;&#9733;&#9733;
+## Skitch &#9733;&#9733;&#9733;
 
 <div class="group">
 <a href="https://itunes.apple.com/jp/app/id425955336?mt=12&uo=4&at=10lc94" target="_blank" rel="nofollow"><img width="75" class="alignleft" align="left" src="http://a3.mzstatic.com/us/r1000/067/Purple/v4/da/a9/45/daa945be-f70a-26c3-0504-8f38b877ba4f/SkitchMac.75x75-65.png" style="border-radius: 11px 11px 11px 11px;-moz-border-radius: 11px 11px 11px 11px;-webkit-border-radius: 11px 11px 11px 11px;box-shadow: 1px 4px 6px 1px #999999;-moz-box-shadow: 1px 4px 6px 1px #999999;-webkit-box-shadow: 1px 4px 6px 1px #999999;margin: -5px 15px 1px 5px;"></a>
@@ -602,18 +602,18 @@ Mac用アプリ
 
 * 画像編集ソフト。簡単に編集できて、Evernoteと連携できるので便利です。
 
-### Gimp &#9733;&#9733;&#9733;
+## Gimp &#9733;&#9733;&#9733;
 <a href="http://www.gimp.org/"><img src="http://rcmdnk.github.io/images//MacApp/Gimp.png" width="100" height="100" alt="Gimp"></a>
 
 * 画像処理ソフト。無料ですが、WindowsにもLinuxにも対応していて、取り敢えず頑張ればひと通りの事は出来ると思います。
 
-### 縮小専用Air &#9733;&#9733;&#9733;
+## 縮小専用Air &#9733;&#9733;&#9733;
 <a href="http://labo.i-section.net/shukusen-air/"><img src="http://rcmdnk.github.io/images//MacApp/ShukuSenAir.png" width="100" height="100" alt="縮小専用Air"></a>
 
 * 画像を簡単に縮小出来ます。
 * Windowsで昔から携帯向けに写真を送る時とかに良く使ってました。
 
-### JPEGmini Lite &#9733;&#9733;&#9733;
+## JPEGmini Lite &#9733;&#9733;&#9733;
 
 <div class="group">
 <a href="https://itunes.apple.com/jp/app/id498944723?mt=12&uo=4&at=10lc94" target="_blank" rel="nofollow"><img width="75" class="alignleft" align="left" src="http://a5.mzstatic.com/us/r1000/098/Purple2/v4/5f/0e/57/5f0e579d-1dfb-81ab-7908-494dbdf3c643/JPEGmini.75x75-65.png" style="border-radius: 11px 11px 11px 11px;-moz-border-radius: 11px 11px 11px 11px;-webkit-border-radius: 11px 11px 11px 11px;box-shadow: 1px 4px 6px 1px #999999;-moz-box-shadow: 1px 4px 6px 1px #999999;-webkit-box-shadow: 1px 4px 6px 1px #999999;margin: -5px 15px 1px 5px;"></a>
@@ -623,18 +623,18 @@ Mac用アプリ
 * jpgの画像サイズはそのままの状態でファイルサイズを縮小します。Lite版もありますが、
 　そちらだとだと一日20枚まで。
 
-### TinyPNG &#9733;&#9733;&#9733;
+## TinyPNG &#9733;&#9733;&#9733;
 
 * [TinyPNG – Compress PNG images while preserving transparency](https://tinypng.com/)
 * アプリではなくウェブサービスですが、PNGを縮小したい場合はこちら。
 
-### ImageOptim &#9733;&#9733;&#9733;&#9733;&#9733;
+## ImageOptim &#9733;&#9733;&#9733;&#9733;&#9733;
 
 * [ImageOptim — better Save For Web](http://imageoptim.com/)
 * jpgなどの画像からExifなどのメタ情報を削除(してサイズ削減)。
 * サイズ削減よりもメタ情報削除が便利
 
-### Img2icns &#9733;&#9733;&#9733;&#9733;
+## Img2icns &#9733;&#9733;&#9733;&#9733;
 
 <a href="http://www.img2icnsapp.com/"><img src="http://rcmdnk.github.io/images//post/20131213_img2icns.jpg" width="100" height="100" alt="Img2icns"></a>
 
@@ -644,13 +644,13 @@ Mac用アプリ
 
 > [MacのRetinaモデルでアイコンを作るときの注意](http://rcmdnk.github.com/blog/2014/05/19/computer-mac-icon/)
 
-### LICEcap &#9733;&#9733;&#9733;&#9733;
+## LICEcap &#9733;&#9733;&#9733;&#9733;
 
 <a href="http://www.cockos.com/licecap/"><img src="http://rcmdnk.github.io/images//MacApp/licecap.png" width="100" height="100" alt="LICEcap"></a>
 
 * デスクトップをGifでキャプチャ出来る。
 
-### KeyCastr &#9733;&#9733;&#9733;&#9733;
+## KeyCastr &#9733;&#9733;&#9733;&#9733;
 
 <a href="https://github.com/sdeken/keycastr"><img src="http://rcmdnk.github.io/images//MacApp/KeyCastr.png" width="100" height="100" alt="KeyCastr"></a>
 
@@ -659,9 +659,9 @@ Mac用アプリ
 
 > [キー入力を表示しながらスクリーンショットGifを撮る](http://rcmdnk.github.io/blog/2014/08/01/computer-mac-windows/)
 
-## ネットワーク
+# ネットワーク
 
-### LogMeIn &#9733;
+## LogMeIn &#9733;
 <a href="https://secure.logmein.com/jp/"><img src="http://rcmdnk.github.io/images//MacApp/LogMeIn.png" width="100" height="100" alt="LogMeIn"></a>
 
 * サーバーソフトを入れておくとリモートアクセスできる用になります。
@@ -670,7 +670,7 @@ Mac用アプリ
 * Webからアクセスできるので、クライアント側は何でもOK。iPhoneやAndroid用のクライアントアプリもあります。
 * ただ、最近無料ユーザーが廃止になってしまったのでTeamViwerに移行。
 
-### TeamViewer &#9733;&#9733;&#9733;
+## TeamViewer &#9733;&#9733;&#9733;
 
 <a href="http://www.teamviewer.com/ja/index.aspx"><img src="http://rcmdnk.github.io/images//WinApp/TeamViewer.png" width="100" height="100" alt="TeamViewer "></a>
 
@@ -679,14 +679,14 @@ Mac用アプリ
 
 [Tag: TeamViewer](http://rcmdnk.github.io/blog/tags/teamviewer/)
 
-### Synergy &#9733;&#9733;
+## Synergy &#9733;&#9733;
 <a href="http://synergy-foss.org/ja/"><img src="http://rcmdnk.github.io/images//MacApp/Synergy.png" width="100" height="100" alt="Synergy"></a>
 
 * 1セットのマウスとキーボードで複数のコンピューターをシームレスに使うことが出来るようになります使うことが出来ます。
 * Windows, Linuxでも使えます。
 * クリップボードも共有できるので色々と便利です。
 
-### LinkChecker &#9733;&#9733;&#9733;&#9733;
+## LinkChecker &#9733;&#9733;&#9733;&#9733;
 <a href="http://wummel.github.io/linkchecker/"><img src="http://rcmdnk.github.io/images//WinApp/LinkChecker.jpg" width="100" height="100" alt="LinkChecker"></a>
 
 * サイトのリンク切れを調べるツール。
@@ -694,9 +694,9 @@ Mac用アプリ
 * Windows, Debianバージョンもあります。
 
 
-## ブラウザ
+# ブラウザ
 
-### Firefox &#9733;&#9733;&#9733;&#9733;&#9733;
+## Firefox &#9733;&#9733;&#9733;&#9733;&#9733;
 <a href="http://www.mozilla.jp/firefox/"><img src="http://rcmdnk.github.io/images//MacApp/Firefox.png" width="100" height="100" alt="Firefox"></a>
 
 * メインブラウザ。vimperatorというアドオンが便利すぎるのでChromeには移れません。
@@ -706,14 +706,14 @@ Mac用アプリ
 
 > [MacでのFirefoxの設定](http://rcmdnk.github.com/blog/2014/05/15/computer-mac-firefox/)
 
-### Chrome &#9733;&#9733;&#9733;&#9733;
+## Chrome &#9733;&#9733;&#9733;&#9733;
 <a href="http://www.google.co.jp/intl/ja/chrome/browser/"><img src="http://rcmdnk.github.io/images//MacApp/Chrome.png" width="100" height="100" alt="Chrome"></a>
 
 * 複数のGoogleアカウントを簡単に切り替えて使える様になったので、たまに使います。(Chromeでしか見れないサイトもあったりしますので…)
 
 > [Google Chromeのメニューバー通知を消す](http://rcmdnk.github.io/blog/2014/09/06/computer-mac-chorome/)
 
-### Xmarks for Mac &#9733;&#9733;&#9733;&#9733;
+## Xmarks for Mac &#9733;&#9733;&#9733;&#9733;
 <a href="http://download.xmarks.com/download/macosx_10_6"><img src="http://rcmdnk.github.io/images//MacApp/XmarksForMac.png" width="100" height="100" alt="Xmarks for Mac"></a>
 
 * SafariのブックマークをXmarksで同期するためのアプリ。
@@ -721,9 +721,9 @@ Mac用アプリ
   * iPhone用のXmarksは有料なので…
 * iPhoneでChoromを使って、google同期で、ということともやってみましたが、この場合、Mac側のChromeでXmarksを有効にしていると、Xmarksの同期とgoogle同期がかち合ってブックマークが悲惨な事になってしまいました…(firefoxのsyncとかも同時に使うべきではないですね…)
 
-## メーラー
+# メーラー
 
-### Mail.app &#9733;&#9733;
+## Mail.app &#9733;&#9733;
 <a href="http://www.apple.com/jp/support/mail/"><img src="http://rcmdnk.github.io/images//MacApp/Mailapp.png" width="100" height="100" alt="Mail.app"></a>
 
 * 純正で入っているものですが、メーラー。現在メインで使用中。
@@ -733,7 +733,7 @@ Mac用アプリ
 * 今はMail.appは使わずブラウザで全部やってます。
 * Mail Unread Menuの代わりに下のNotify Prof for Macを使用。
 
-### Thunderbird &#9733;&#9733;
+## Thunderbird &#9733;&#9733;
 <a href="http://www.mozilla.jp/thunderbird/"><img src="http://rcmdnk.github.io/images//MacApp/Thunderbird.png" width="100" height="100" alt="Thunderbird"></a>
 
 * 少し前まですべてのフィルターをメーラー側でやりたかったので、WindowsでもMacでもどこでも簡単に設定が移植出来るThunderbirdが便利でした。
@@ -745,7 +745,7 @@ Mac用アプリ
 
 * 一方Windowsでは相変わらずThunderbirdを使ってます(フィルタをローカルで使わなくなった分大分軽くなりました)。
 
-### Notify Pro for Mac  &#9733;&#9733;&#9733;&#9733;
+## Notify Pro for Mac  &#9733;&#9733;&#9733;&#9733;
 
 [Notify Pro for Mac](http://www.macupdate.com/app/mac/32217/notify-pro)
 
@@ -755,26 +755,26 @@ Mac用アプリ
 > [Macでのメールの設定 - rcmdnk’s blog](http://rcmdnk.github.io/blog/2014/05/15/computer-mac-gmail/)
 
 
-## コミュニケーション
+# コミュニケーション
 
-### Skype &#9733;&#9733;&#9733;&#9733;&#9733;
+## Skype &#9733;&#9733;&#9733;&#9733;&#9733;
 <a href="http://www.skype.com/ja/download-skype/skype-for-computer/"><img src="http://rcmdnk.github.io/images//MacApp/Skype.png" width="100" height="100" alt="Skype"></a>
 
 * パソコン同士の通話、チャットの他、国際電話も安くできるので重宝してます。
 
-### Callnote &#9733;&#9733;&#9733;
+## Callnote &#9733;&#9733;&#9733;
 <a href="http://www.kandasoft.com/home/kanda-apps/callnote.html"><img src="http://rcmdnk.github.io/images//MacApp/Callnote.png" width="100" height="100" alt="Callnote"></a>
 
 * Skypeを録音してEvernoteに保存（Evernoteにリンクさせていないとエラーっぽいのが出ますが、ローカルだけにも保存出来る）
 
-## Office関連
+# Office関連
 
-###  Adobe関連 &#9733;&#9733;&#9733;&#9733;
+##  Adobe関連 &#9733;&#9733;&#9733;&#9733;
 <a href="http://www.adobe.com/jp/"><img src="http://rcmdnk.github.io/images//MacApp/AdobeAcrobat.png" width="100" height="100" alt=" Adobe関連"></a>
 
 * Reader, Acrobt Pro, Illustlator
 
-###  Microsoft Office for Mac &#9733;&#9733;&#9733;&#9733;&#9733;
+##  Microsoft Office for Mac &#9733;&#9733;&#9733;&#9733;&#9733;
 <a href="http://www.microsoft.com/japan/mac?WT.srch=1"><img src="http://rcmdnk.github.io/images//MacApp/MicrosoftOfficeForMac.png" width="100" height="100" alt=" Microsoft Office for Mac"></a>
 
 * Word, Excel, Power Point, Outlook
@@ -785,7 +785,7 @@ Mac用アプリ
   * WindowsだとAcrobatを使えば上手く行きます。
   * 仕事場でwebにパワポファイルをアップロードするとpdfに変換して保存してくれるものがあるのですが、それだと上手く行きました。（何を使ってるかは知りませんがwindowsより?のものでしょうか…?)
 
-###  Open Office &#9733;&#9733;
+##  Open Office &#9733;&#9733;
 <a href="http://www.openoffice.org/ja/"><img src="http://rcmdnk.github.io/images//MacApp/OpenOffice.png" width="100" height="100" alt=" Open Office"></a>
 
 * 無料のOffice。
@@ -793,16 +793,16 @@ Mac用アプリ
 * Open Officeのプレゼンテーションだと埋め込んだハイパーリンクが正しく反映されてクリック出来るようになるので一時期本気で乗り換えようかと思いました
   * ただパワーポイントとの互換性がまだ弱いので留まってます。
 
-## その他
+# その他
 
-### GitHub &#9733;&#9733;
+## GitHub &#9733;&#9733;
 <a href="http://mac.github.com/"><img src="http://rcmdnk.github.io/images//MacApp/GitHub.png" width="100" height="100" alt="GitHub"></a>
 
 * GitHub用クライアント。
 * dotfilesやアプリの設定ファイルなど、履歴が取れるのでなるべくGitHubに入れるようにしています。
 * 私のレポジトリは[ここ](https://github.com/rcmdnk)にあります。
 
-### Wake Up Time &#9733;&#9733;&#9733;&#9733;
+## Wake Up Time &#9733;&#9733;&#9733;&#9733;
 
 <div class="group">
 <a href="https://itunes.apple.com/jp/app/id495945638?mt=12&uo=4&at=10lc94" target="_blank" rel="nofollow"><img width="75" class="alignleft" align="left" src="http://a2.mzstatic.com/us/r1000/078/Purple/v4/0d/4a/9c/0d4a9ce3-b8a9-b277-4623-8b75f894550f/wut_icon.75x75-65.png" style="border-radius: 11px 11px 11px 11px;-moz-border-radius: 11px 11px 11px 11px;-webkit-border-radius: 11px 11px 11px 11px;box-shadow: 1px 4px 6px 1px #999999;-moz-box-shadow: 1px 4px 6px 1px #999999;-webkit-box-shadow: 1px 4px 6px 1px #999999;margin: -5px 15px 1px 5px;"></a>
@@ -814,7 +814,7 @@ Mac用アプリ
 (これはメニューバーに配置されるので直ぐに寝るわけでもない場合や、
 リマインダー用通知として使う場合には便利だと思います。)
 
-### VLC &#9733;&#9733;&#9733;
+## VLC &#9733;&#9733;&#9733;
 <a href="http://www.videolan.org/vlc/releases/2.0.2.html"><img src="http://rcmdnk.github.io/images//MacApp/VLC.png" width="100" height="100" alt="VLC"></a>
 
 * 大概のする種類の動画や音楽が再生出来るプレーヤー。
